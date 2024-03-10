@@ -1,0 +1,1599 @@
+label	col_00	col_01	col_02	col_03	col_04	col_05	col_06	col_07	col_08	col_09	col_10	col_11	col_12
+2	1250 m^2	0.91	Oakland	Volleyball	-1.1242	1.5959	1200	1274	1257	0.1069	1521	biotechnology	721
+5	451 m^2	-0.8472	Long Beach	running	0.6164	0.4964	-1328	329	-474	1.4402	1020	Electrical Engineering	-507
+0	-1232 m^2	1.6729	Riverside	ice hockey	1.0341	0.1537	-376	1055	1052	0.6991	-765	computational media	124
+2	702 m^2	-0.0621	Stockton	boxing, baseball	-0.4193	0.4083	746	1549	1844	0.5507	1896	Technology and Information Management	870
+0	-339 m^2	1.4487	Chula Vista	ice hockey	0.6834	0.1259	326	1260	200	2.404	1900	Applied Mathematics	932
+1	1161 m^2	1.6896	Santa Clarita	motor sports	0.23	0.7954	-545	2025	410	2.2944	1245	Computer Science	173
+1	863 m^2	1.7911	Santa Clarita	motor sports	0.6011	0.4795	188	240	2050	0.2805	835	Computer Science	560
+3	-721 m^2	0.0354	Modesto	football	-1.0671	0.3663	74	1127	852	0.6438	1012	bIOTECHNOLOGY	-285
+2	-980 m^2	0.0079	Oakland	volleyball, boxing	1.204	0.4904	1795	-529	703	1.6116	30	Statistics	-670
+1	681 m^2	0.5833	Santa Clarita	badminton	0.8901	1.4661	1355	-78	153	1.4712	1005	Computational Media	469
+2	1142 m^2	1.2427	Santa Ana	volleyball	0.8714	0.3656	1168	-479	185	0.9875	3500	Games and Playable Media	574
+5	1201 m^2	0.6358	Irvine	golf	-0.1537	1.445	70	994	1496	0.9479	-38	Electrical Engineering	274
+1	-93 m^2	-0.4297	Santa Clarita	motor sports	0.9764	-0.4989	1316	176	1004	-0.1736	75	Computer Science	-31
+0	306 m^2	1.2214	Riverside	soccer, basketball	1.6856	0.6652	87	-471	-623	1.1023	-1338	Computational Media	-229
+4	-99 m^2	1.3047	San Francisco	badminton	1.238	-0.0145	216	3993	820	-0.0673	-76	Bioinformatics	1550
+4	n/a	0.6049	Moreno Valley	badminton	1.9154	1.7289	1043	1387	1779	-0.3667	-113	Human Computer Interaction	166
+1	2019 m^2	-0.0494	Santa Clarita	motor sports	0.258	0.2728	919	512	2384	1.3435	1238	Computer Science	355
+0	1214 m^2	0.9065	Riverside	ice hockey	-0.2739	0.8793	262	2831	1792	1.1116	417	Computer Game Design	656
+4	1370 m^2	0.8609	San Francisco	badminton	0.1521	0.0199	470	1280	2377	-0.1159	939	human computer interaction	273
+1	1168 m^2	2.1091	Santa Clarita	motor sports	1.1861	-0.1827	-311	799	118	0.7207	810	Computer Science	312
+3	1023 m^2	1.5609	Modesto	soccer, football	2.6322	1.5421	93	-778	-167	-1.2736	-1734	Biotechnology	1591
+0	787 m^2	-0.2788	Fremont	tennis	0.091	-0.4693	-497	-356	-1256	0.0957	-270	Statistics	1503
+3	-939 m^2	-0.2339	Modesto	soccer, football	-1.2302	1.4699	-632	984	1367	2.7174	1119	Technology and Information Management	936
+1	363 m^2	0.215	Santa Clarita	motor sports	-0.3026	2.15	928	1856	2657	-0.5799	101	Computer Science	-982
+0	-664 m^2	1.5329	Los Angeles	motor sports	0.5832	0.2778	-385	-708	-1814	0.7322	378	Computational Media	148
+5	615 m^2	0.459	Irvine	running	0.4731	0.2295	1169	948	194	1.1134	740	Bioengineering	241
+5	832 m^2	1.0139	Stockton	running	1.6869	-0.7055	189	141	789	1.7248	1152	Electrical Engineering	1371
+3	-319 m^2	?	Modesto	soccer	-0.3255	1.5298	-433	1193	-497	-1.3053	1146	Bioengineering	-233
+2	1879 m^2	-0.0081	SANTA ANA	baseball	0.5255	0.7832	185	-899	1593	0.0757	1073	Games and Playable Media	-824
+0	-186 m^2	1.7507	Riverside	tennis	0.1858	0.3383	-1367	436	107	1.0814	913	Computer Engineering	-1245
+4	54 m^2	1.3519	Fresno	track & field	0.9953	0.1802	1723	1622	2123	-0.0804	-711	Bioinformatics	-664
+3	303 m^2	0.0333	San Jose	football	0.4107	0.6549	1631	-2383	1502	1.2098	1478	Robotics Engineering	-99
+0	738 m^2	0.2344	Los Angeles	ice hockey	0.8939	0.6791	678	953	-375	1.8178	-355	Computer Game Design	508
+5	1957 m^2	0.6264	Irvine	running	-0.6063	1.6146	1036	1108	-447	0.5038	2462	Bioengineering	502
+2	-398 m^2	0.5039	Oakland	baseball	1.1004	1.1658	982	1630	538	1.3675	245	Statistics	-535
+0	-289 m^2	1.437	lOS aNGELES	tennis	-0.0168	0.6613	-612	1769	-483	0.31	120	Computer Engineering	479
+0	-877 m^2	-0.3072	Los Angeles	tennis	1.7548	-0.3779	-1809	-863	-720	1.6698	-883	Computer Engineering	-148
+0	268 m^2	1.3328	Chula Vista	ice hockey	0.2161	0.5566	310	478	441	0.7184	-1008	Computational Media	342
+1	1533 m^2	0.9748	Santa Clarita	motor sports	1.1208	1.0252	109	280	188	-0.8427	69	Computer Science	1321
+4	1307 m^2	1.3722	Santa Clarita	badminton	0.7877	-0.1219	819	517	132	-0.4464	-1076	Bioinformatics	546
+4	663 m^2	0.2429	San Francisco	badminton	1.023	-0.1288	-242	2044	1649	0.406	598	Bioinformatics	766
+1	1243 m^2	0.3971	Santa Clarita	motor sports	-0.2701	-0.0379	-473	-332	893	0.4254	-622	Computer Science	680
+1	913 m^2	0.3595	Santa Clarita	motor sports	-0.0969	0.3938	-476	1571	382	0.7859	716	cOMPUTER sCIENCE	592
+2	842 m^2	0.3789	Stockton	volleyball	-0.564	1.2596	-892	2114	80	2.648	2328	Statistics	627
+0	1063 m^2	-0.006	Chula Vista	ice hockey	1.0978	1.2116	-805	-350	-337	1.1771	693	computer game design	-349
+4	488 m^2	0.1191	Fresno	track & field	0.1442	-0.8956	786	1408	183	0.2452	795	Human Computer Interaction	-223
+5	1137 m^2	1.1614	Sacramento	running	0.2745	0.8374	NULL	161	-1292	2.1028	1284	Natural Language Processing	378
+5	851 m^2	1.2261	Sacramento	golf	-0.0244	0.3291	718	432	545	-1.0902	1920	Natural Language Processing	-1066
+5	132 m^2	0.8176	Sacramento	running	1.373	0.6513	-47	-1468	1033	0.7392	360	Electrical Engineering	1389
+3	-520 m^2	1.0867	San Jose	basketball, soccer	0.9681	1.3718	1307	46	-425	-0.6042	184	Computer Game Design	303
+0	-218 m^2	0.4884	Bakersfield	tennis	0.3625	0.5327	293	-318	1422	-0.0181	262	Applied Mathematics	1935
+5	1262 m^2	1.4249	Irvine	golf	0.5102	-0.3433	236	-456	-138	2.1417	1708	Electrical Engineering	34
+3	1152 m^2	1.1273	San Diego	baseball, volleyball	1.8646	0.8604	1961	-208	2177	-0.462	-70	Technology and Information Management	-704
+0	-673 m^2	1.0237	San Jose	tennis	0.5304	0.5032	1590	338	-1590	0.4296	567	Computational Media	549
+3	979 m^2	0.9378	Modesto	football, soccer	-0.0003	1.2726	159	1252	1677	-0.8748	311	Robotics Engineering	1360
+5	433 m^2	1.272	Sacramento	golf	0.2171	1.434	1440	740	-1064	-0.8833	2175	Electrical Engineering	-269
+2	190 m^2	2.0469	Oakland	volleyball, boxing	1.415	0.5629	886	-543	1913	0.2811	-145	Statistics	-183
+1	2199 m^2	1.3889	Santa Clarita	motor sports	1.4084	1.0582	392	481	-1442	0.3491	2336	Computer Science	-541
+1	-874 m^2	1.3884	San Francisco	motor sports	1.3178	-0.912	-967	2797	2865	1.2719	-205	COMPUTER SCIENCE	-39
+0	-705 m^2	0.3087	Chula Vista	tennis	-0.8111	2.2696	-366	1921	-198	1.4585	2389	Computational Media	84
+5	-357 m^2	0.1545	Sacramento	golf	0.9051	-0.6574	885	232	-941	1.0135	1406	Bioengineering	63
+3	1101 m^2	0.0303	San Bernardino	ice hockey	N/A	0.0067	940	-260	1894	1.5606	-266	Technology and Information Management	687
+4	1712 m^2	1.0323	Moreno Valley	track & field	0.5967	0.198	-683	1400	1595	-0.2853	706	Bioinformatics	-384
+2	-1082 m^2	-0.0633	Stockton	baseball, volleyball	0.7196	0.2013	1612	-268	855	-0.4727	-259	Games and Playable Media	596
+2	-1439 m^2	0.4265	Oakland	boxing	2.6597	0.1233	-214	822	-73	-0.8034	1223	Natural Language Processing	1020
+3	-846 m^2	1.5623	San Bernardino	basketball, football	0.3974	0.4568	23	702	778	0.9903	797	Robotics Engineering	636
+1	-304 m^2	0.8634	Santa Clarita	motor sports	0.9402	1.1323	1378	958	1333	-0.2829	790	Computer Science	289
+1	521 m^2	0.6719	Santa Clarita	motor sports	0.8785	2.0891	567	-381	2953	0.1217	-100	Computer Science	887
+1	84 m^2	0.9673	Santa Clarita	motor sports	-0.0645	0.294	-173	1612	1471	1.371	1601	Computer Science	-428
+1	1169 m^2	0.466	Santa Clarita	motor sports	0.2383	0.496	965	-318		0.8077	1141	Computer Science	799
+3	2527 m^2	0.7505	San Diego	basketball, soccer	1.1751	-0.1499	688	-598	207	1.8685	924	Technology and Information Management	440
+3	-748 m^2	0.0123	san jose	basketball, soccer	0.575	0.3537	747	1574	162	-0.6064	1761	Biotechnology	344
+5	1820 m^2	0.5528	Irvine	running	0.5193	0.868	678	-1357	-1263	0.8503	597	Electrical Engineering	-365
+3	583 m^2	1.2481	San Diego	football, basketball	0.039	0.5404	-91	153	233	0.5288	-422	Biotechnology	263
+0	109 m^2	-0.101	Fremont	ice hockey	-0.6619	0.5846	2251	1704	168	0.4858	416	Computer Game Design	693
+4	110 m^2	1.1943	Anaheim	badminton	0.1469	0.1594	1823	1185	1277	1.3918	829	Bioinformatics	-564
+4	707 m^2	0.196	Fresno	badminton	0.0645	-0.4677	1209	611	1748	0.026	1244	Bioinformatics	-190
+1	467 m^2	1.0402	Santa Clarita	motor sports	-0.0528	?	-324	-442	1115	1.009	139	Computer Science	233
+5	1580 m^2	0.0298	Long Beach	golf	-1.1781	-1.1309	366	-141	27	1.3277	871	Natural Language Processing	-347
+1	575 m^2	0.6725	Santa Clarita	motor sports	-0.2657	0.8016	-310	1243	1528	0.6034	1128	Computer Science	-496
+0	591 m^2	0.5111	Fremont	tennis	-0.4439	2.1068	-107	89	-598	0.0852	1410	Computer Game Design	-614
+5	1004 m^2	0.7517	Sacramento	running	0.2155	0.7358	258	1460	-77	1.398	-229	Bioengineering	1314
+2	1149 m^2	0.6177	Santa Ana	boxing	-0.5206	0.9225	2468	1003	1896	3.3683	867	Statistics	-257
+4	-154 m^2	0.0249	Santa Ana	track & field	1.0939	-0.114	-991	970	1018	-0.2564	1406	Games and Playable Media	420
+1	-211 m^2	0.8551	Santa Clarita	motor sports	-0.4463	1.3583	850	281	2163	0.165	1620	Computer Science	1723
+0	-227 m^2	2.7257	Riverside	ice hockey	0.3695	0.242	-440	-62	-412	1.3818	-591	Applied Mathematics	-282
+5	745 m^2	0.228	Sacramento	golf	2.4604	0.4302	-803	-1311	1444	-0.3395	1455	Natural Language Processing	747
+1	-453 m^2	0.7071	Santa Clarita	motor sports	2.0263	0.804	-145	-487	794	0.6276	851	Computer Science	-658
+2	768 m^2	-0.4973	Santa Ana	volleyball, boxing	-0.5505	0.0169	1041	2739	2467	-0.4649	724	Statistics	-113
+3	277 m^2	0.0098	San Jose	basketball, football	-0.2981	-0.3463	278	258	3288	-0.3885	848	Biotechnology	842
+2	1376 m^2	0.117	Stockton	boxing	0.5011	0.1025	466	412	136	-1.9024	537	Computer Game Design	53
+1	334 m^2	0.0923	Santa Clarita	motor sports	0.5862	0.0228	84	912	1053	1.3963	315	Computer Science	-20
+1	1525 m^2	1.3046	Santa Clarita	motor sports	0.0619	0.9696	624	-954	1089	1.3802	1243	Computer Science	217
+5	211 m^2	-1.176	Irvine	golf	0.5518	0.955	-147	133	-145	1.7119	-534	Electrical Engineering	-609
+0	903 m^2	0.2714	Fremont	tennis	0.4193	2.219	859	-535	344	0.7948	566	Computer Engineering	922
+3	128 m^2	1.0863	Santa Ana	soccer, football	1.3958	1.5542	88	-81	1209	0.06	1319	Biotechnology	-169
+5	238 m^2	0.8639	Sacramento	boxing, volleyball	2.258	1.7449	-198	1137	290	1.3498	-165	Bioengineering	-505
+0	640 m^2	2.0398	Chula Vista	ice hockey	0.6779	0.9541	1359	1888	-284	0.9389	1050	Electrical Engineering	367
+2	1310 m^2	0.7077	Bakersfield	volleyball	0.6502	0.3801	487	536	1532	1.9216	-36	Games and Playable Media	-14
+4	734 m^2	1.3564	Anaheim	badminton	-1.0497	0.7182	395	502	-790	0.4457	1159	Human Computer Interaction	1397
+1	603 m^2	1.0585	Santa Clarita	motor sports	1.4287	0.3995	-263	-666	1066	-0.4163	881	Computer Science	678
+5	967 m^2	-1.1195	Sacramento	running	1.5928	0.1784	-1404	613	1178	-0.6628	-116	Bioengineering	-972
+3	-636 m^2	-0.0456	san jose	basketball	0.43	0.2998	-35	-956	2915	-0.29	1266	Technology and Information Management	181
+0	-118 m^2	1.3659	Los Angeles	tennis	N/A	0.2272	1421	471	1236	1.2275	1209	Data Science	-497
+2	2944 m^2	1.2599	San Jose	boxing	-0.0098	1.3084	-191	-27	1546	0.6684	1741	Games and Playable Media	-1170
+4	363 m^2	1.2968	Fresno	track & field	1.6273	1.0511	1426	670	-364	1.4346	1261	Human Computer Interaction	1448
+3	-1400 m^2	-0.1853	San Jose	basketball	0.5595	1.2946	825	-1499	1055	1.1044	718	Technology and Information Management	-479
+5	797 m^2	-0.3183	Sacramento	golf	1.186	-0.1077	765	910	87	0.6893	854	Statistics	-881
+4	974 m^2	0.5764	Moreno Valley	track & field	0.313	-0.8537	254	261	1804	1.4083	453	Human Computer Interaction	1416
+2	727 m^2	0.9113	Santa Ana	volleyball, boxing	0.5336	N/A	323	192	812	0.8675	2210	Games and Playable Media	-765
+3	-362 m^2	0.0373	San Diego	soccer, football	-1.2061	1.2701	-884	-256	279	-0.0522	1646	Robotics Engineering	844
+3	522 m^2	-0.5391	Modesto	soccer, basketball	1.0838	1.5791	1010	507	370	1.1365	-380	Technology and Information Management	293
+1	1951 m^2	-0.0957	Stockton	MOTOR SPORTS	1.1823	0.1808	162	433	1086	1.8766	1595	Computer Science	588
+0	142 m^2	0.233	Fremont	tennis	0.2588	1.6066	-1268	983	-581	0.6182	508	Applied Mathematics	-1161
+3	312 m^2	0.5712	Modesto	football, soccer	0.7633	0.3806	685	-1491	2651	0.6319	-811	bIOTECHNOLOGY	-306
+3	-282 m^2	-0.0939	San Diego	soccer, football	1.7461	0.0732	1083	1866	1044	0.5684	755	Biotechnology	128
+2	211 m^2	0.0593	Bakersfield		1.0044	-0.0258	341	-899	-133	1.1127	2568	Statistics	285
+3	74 m^2	-0.1059	San Jose	soccer	1.0265	0.9166	-287	-817	1452	-0.2224	1493	None	72
+5	2525 m^2	0.4556	Long Beach	running	1.4921	1.0603	-35	-982	-524	-0.7769	1015	Electrical Engineering	435
+2	1120 m^2	-0.0908	Oakland	baseball, volleyball	-0.6463	-0.6719	1216	1008	1575	1.3951	512	Data Science	326
+0	-661 m^2	0.2933	Chula Vista	ice hockey	1.3178	-0.2593	258	-268	1959	0.1226	944	Computer Game Design	924
+4	768 m^2	1.0673	Fresno	track & field	0.958	-0.4218	506	2235	1645	-0.3368	-831	Bioinformatics	808
+4	1500 m^2	1.6918	SAN FRANCISCO	track & field	0.3641	0.0191	508	717	1306	2.047	1517	Human Computer Interaction	923
+1	1597 m^2	1.0701	Santa Clarita	motor sports	-2.1661	0.9536	-740	-1109	1958	1.0556	800	Computer Science	-1249
+3	124 m^2	0.1506	san jose	football	0.6243	1.4922	801	-577	1005	1.4397	774	Biotechnology	-1206
+3	341 m^2	0.7412	Modesto	basketball, soccer	0.0131	0.0428	243	-483	2518	3.0108	1347	Biotechnology	-346
+3	124 m^2	-0.9286	San Jose	basketball, soccer	1.9464	0.4693	1725	1423	987	-0.8687	1228	Computational Media	-149
+3	612 m^2	0.2131	Modesto	basketball, football	0.5016	0.5292	171	131	2031	0.7042	915	Biotechnology	1151
+3	n/a	0.1131	San Jose	basketball	0.0671	0.0499	-498	750	873	1.5512	-884	Biotechnology	-845
+2	1014 m^2	0.2037	Bakersfield	baseball	-0.1511	1.1401	2070	-199	557	1.1436	1453	Games and Playable Media	1298
+1	1299 m^2	0.6858	Santa Clarita	motor sports	1.2012	0.4725	517	-428	1030	-0.0793	-218	Computer Science	219
+1	1300 m^2	2.0913	Santa Clarita	motor sports	1.1012	0.6714	-1841	854	1486	-0.0315	-101	Computer Science	-285
+0	341 m^2	1.8031	Fremont	tennis	0.1967	2.522	-2062	597	634	0.0292	27	Computational Media	-380
+4	976 m^2	0.4073	Anaheim	track & field	-0.6724	-0.4318	2030	-510	1534	-0.2033	279	Human Computer Interaction	1436
+1	767 m^2	0.8446	Santa Clarita	motor sports	-0.5191	0.9923	-427	-1187	354	-0.0557	798	Technology and Information Management	n/a
+4	1145 m^2	0.7145	San Francisco	badminton	1.3421	0.3013	547	-1896	77	1.5127	1031	Bioinformatics	1956
+2	650 m^2	1.1543	Oakland	boxing	-1.0278	0.8095	591	875	1199	0.4167	1245	Games and Playable Media	153
+1	-394 m^2	-0.0447	Santa Clarita	motor sports	-0.8201	0.5065	851	1064	67	0.2569	572	Computer Science	-345
+3	1187 m^2	0.7986	Oakland	basketball	1.3585	-0.6723	257	108	629	2.3087	1749	Computational Media	-279
+4	917 m^2	1.2042	Anaheim	track & field	-0.6773	0.5549	1725	-123	1034	1.7526	1817	Bioinformatics	617
+5	961 m^2	0.5816	Long Beach	running	2.3626	1.0201	-260	1118	1456	1.2872	869	Natural Language Processing	-187
+5	-891 m^2	1.4008	Sacramento	running	0.3218	0.8732	-117	1920	-1533	2.0641	816	Electrical Engineering	-205
+0	97 m^2	0.4888	Santa Clarita	tennis	1.1303	0.5878	-935	-605	-754	0.4059	226	Computer Engineering	190
+1	325 m^2	0.1024	Santa Clarita	motor sports	-0.4226	0.5385	-608	-1744	1250	1.5051	585	Computer Science	970
+5	1488 m^2	None	Sacramento	golf	2.2549	-0.0379	97	1214	1083	0.2153	815	Electrical Engineering	1803
+5	2594 m^2	-1.6503	Long Beach	running	0.7936	-0.3363	672	-1323	-387	1.4231	820	Natural Language Processing	-45
+1	2249 m^2	-0.4719	Santa Clarita	motor sports	-0.0833	0.7544	506	-16	1335	2.0804	2317		-346
+2	-258 m^2	0.7393	Stockton	baseball	-1.1548	0.7514	-2085	-549	993	1.0891	1674	Statistics	491
+4	-16 m^2	0.7125	San Francisco	track & field	-0.4035	0.7793	-18	-1080	1458	0.9052	1350	Human Computer Interaction	163
+5	803 m^2	-0.2142	Irvine	golf	1.8784	1.2947	-226	262	944	-0.2243	1236	Natural Language Processing	119
+2	552 m^2	1.3128	Santa Ana	boxing, baseball	2.8423	2.061	1089	-473	-212	1.0544	628	Statistics	58
+4	611 m^2	-0.4371	Fresno	badminton	0.3623	0.2732	559	2403	829	0.2663	1635	bIOINFORMATICS	292
+5	538 m^2	1.4501	Sacramento	NULL	0.5817	-0.4631	-687	1110	309	1.434	-981	Computer Game Design	-489
+2	401 m^2	1.206	bAKERSFIELD	baseball	1.2514	-0.2091	260	196	1026	0.1933	1154	Statistics	587
+5	1963 m^2	-0.202	Sacramento	running	0.7173	1.2791	1094	657	726	0.7761	-325	Electrical Engineering	383
+1	1784 m^2	1.1184	Santa Clarita	MOTOR SPORTS	0.8255	0.2534	1723	270	2156	0.5587	455	Computer Science	-980
+3	-1640 m^2	0.0746	San Jose	basketball, football	0.997	0.6575	?	669	1786	-0.6401	1120	Robotics Engineering	475
+1	1213 m^2	1.4306	Santa Clarita	motor sports	-0.9565	1.9725	1238	1063	332	0.4687	2649	Computer Science	303
+0	651 m^2	0.7335	Los Angeles	ice hockey	0.8106	1.3669	-702	-1738	265	1.7422	-573	Human Computer Interaction	-398
+3	405 m^2	1.1576	San Jose	football	0.324	1.6791	688	96	2190	0.4247	294	Robotics Engineering	33
+1	1212 m^2	0.6134	Santa Clarita	motor sports	0.6142	-0.4706		1315	939	-0.7779	59	Robotics Engineering	506
+0	50 m^2	2.0461	Riverside	ice hockey	1.2639	-0.4895	1138	2160	1006	0.3216	512	Computer Game Design	63
+1	1435 m^2	0.6082	San Jose	MOTOR SPORTS	1.2421	1.8434	1125	849	1450	-0.3635	1319	Computer Science	-1340
+1	888 m^2	1.0257	Santa Clarita	motor sports	1.6406	1.0608	-757	-1051	899	0.2424	721	Computer Science	66
+4	-438 m^2	-0.6693	Fresno	badminton	-0.2416	0.5478	451	1887	-996	-0.3363	991	Human Computer Interaction	-240
+5	333 m^2	0.3206	Stockton	golf	-0.2307	0.3757	862	862	-1076	-0.2399	499	Bioengineering	272
+2	1305 m^2	-0.762	Bakersfield	baseball	1.0801	1.7996	1990	2791	320		1075	Games and Playable Media	-159
+5	858 m^2	0.4699	Long Beach	running	2.1519	1.3628	579	7	379	1.9615	579	Natural Language Processing	100
+4	2556 m^2	1.1533	San Francisco	track & field	0.3886	0.3313	-1390	-387	1087	-1.4059	2346	Bioinformatics	2082
+2	534 m^2	0.1112	Chula Vista	baseball, volleyball	1.1868	0.6798	1386	885	829	0.0722	2190	Games and Playable Media	-846
+2	296 m^2	0.2863	Santa Ana	boxing	0.4529	-0.0172	830	260	1725	1.8885	192	Human Computer Interaction	700
+4	1135 m^2	1.5874	Fresno	track & field	1.8042	0.797	565	960	314	1.198	190	Bioinformatics	434
+0	1708 m^2	0.5854	Chula Vista	ice hockey	0.6337	0.8437	-895	1004	664	-0.6552	-1346	Computer Game Design	671
+1	-577 m^2	-0.518	Santa Clarita	motor sports	0.8285	1.1674	9	304	1454	0.603	-795	Computer Science	816
+3	-226 m^2	1.3909	San Jose	N/A	0.7152	-0.3302	460	-11	-317	2.3794	1114	Technology and Information Management	-479
+3	-644 m^2	-0.4622	San Diego	soccer	0.8592	0.9239	541	-2189	1954	1.9467	76	Biotechnology	149
+1	-1101 m^2	1.208	Santa Clarita	MOTOR SPORTS	1.3659	1.3205	-832	-414	878	0.1099	1669	Computer Science	-791
+4	-870 m^2	0.8024	Moreno Valley	TRACK & FIELD	0.3101	-0.2377	1341	-497	-586	1.0911	97	Human Computer Interaction	60
+2	517 m^2	0.563	Stockton	VOLLEYBALL, BOXING	-0.1994	-0.0634	348	-91	1569	0.9414	292	Robotics Engineering	904
+0	357 m^2	0.9233	CHULA VISTA	TENNIS	-0.5012	0.7166	17	-360	637	-1.1628	742	Computational Media	339
+3	721 m^2	0.6956	Modesto	football	1.4037	0.5382	855	333	977	1.8006	1268	Robotics Engineering	-57
+0	-315 m^2	0.6164	Los Angeles	tennis	1.3712	0.6621	425	3333	793	2.2586	1035	Computer Game Design	-360
+2	687 m^2	0.7815	Santa Ana	BOXING	-1.8572	-0.0084	-162	-151	999	1.1849	1407	Games and Playable Media	1118
+5	584 m^2	0.3937	Long Beach	running	0.8647	1.4958	923	1004	-1041	0.8947	1295	Natural Language Processing	-539
+2	20 m^2	-0.5397	Bakersfield	boxing, volleyball	-0.271	1.7911	-1125	788	-439	0.5505	681	Statistics	-517
+3	1027 m^2	0.0749	San Jose	basketball	0.1321	0.638	944	1038	1028	0.7272	1270	Technology and Information Management	-269
+5	1015 m^2	-0.7152	Sacramento	running	0.0923	1.6629	-1296	-1258	323	0.1479	179	Bioengineering	-1656
+2	-222 m^2	0.003	Bakersfield	boxing	-0.7946	0.6788	447	2238	-453	0.3571	1598	Games and Playable Media	1168
+1	-64 m^2	-0.8559	Santa Clarita	motor sports	1.1511	0.3967	-273	673	2749	1.6179	811	Computer Science	1672
+1	1286 m^2	1.3579	Santa Clarita	motor sports	1.654	-0.7462	787	473	310	0.9656	2122	cOMPUTER sCIENCE	-790
+4	1776 m^2	0.5482	Moreno Valley	track & field	-0.4446	-0.3864	424	1142	1614	-0.3766	-799	Human Computer Interaction	-700
+1	1010 m^2	0.9585	Santa Clarita	motor sports	0.9138	0.8593	454	635	509	-0.2155	433	Computer Science	-682
+0	1145 m^2	0.444	Chula Vista	tennis	1.1555	0.8112	922	269	1916	-0.9442	1451	Computational Media	819
+1	1412 m^2	2.35	Santa Clarita	motor sports	1.0199	1.3651	860	1413	-57	1.2112	926	Computer Science	856
+5	-236 m^2	0.5757	Irvine	running	-1.3279	0.5294	9	-2102	-659	1.4846	1318	NATURAL LANGUAGE PROCESSING	389
+4	362 m^2	1.0901	Anaheim	track & field	0.4701	1.259	696	794	-1527	-1.6639	1466	Games and Playable Media	292
+2	226 m^2	None	Oakland	volleyball	-0.4796	-0.6668	848	195	236	1.1066	409	Games and Playable Media	102
+5	-543 m^2	1.1347	Irvine	running	0.8055	0.5136	-738	246	664	-0.9348	388	Electrical Engineering	-462
+1	1300 m^2	1.9991	Santa Clarita	MOTOR SPORTS	1.9967	0.5208	-412	2047	1271	0.3528	934	Computer Science	413
+4	200 m^2	0.2339	Moreno Valley	track & field	-0.3601	1.4845	-568	-303	1056	1.0831	571	Human Computer Interaction	303
+5	207 m^2	0.7229	Long Beach	running	0.3566	1.0649	1017	368	-911	1.0315	657	Natural Language Processing	599
+5	954 m^2	0.9449	Long Beach	running	1.2284	0.7252	-662	272	-205	-0.7292	502	Natural Language Processing	1093
+0	-422 m^2	1.358	Chula Vista	tennis	1.0399	0.5071	2425	-1640	1790	-0.6177	-154	Computational Media	-909
+2	1248 m^2	0.0692	Bakersfield	boxing	0.1273	0.743	918	245	2271	-0.5357	424	Statistics	-297
+5	1160 m^2	1.5929	Irvine	golf	0.8186	0.4937	-665	-1241	821	0.5155	1029	Bioengineering	-126
+2	1764 m^2	0.6209	Santa Ana	boxing, volleyball	1.0166	0.6982	390	-279	52	0.9736	1041	Statistics	300
+3	419 m^2	2.4967	San Diego	football, basketball	0.4586	1.4361	644	1142	597	?	1300	Biotechnology	-44
+4	527 m^2	0.4343	Fresno	badminton	1.4999	-0.5646	701	1097	1700	1.4694	-333	Biotechnology	1058
+4	-706 m^2	0.9006	Anaheim	badminton	-1.0684	1.5438	2232	-1069	1530	-0.4168	-524	Bioinformatics	415
+4	432 m^2	0.9879	San Francisco	n/a	0.2721	0.1321	2188	427	1109	0.5621	303	Human Computer Interaction	78
+0	-224 m^2	1.6341	Los Angeles	boxing	1.7452	1.6235	958	54	-761	0.7589	997	Computer Engineering	-1000
+0	-236 m^2	0.4334	Fremont	ice hockey	0.4669	0.7068	852	-280	-782	0.966	1844	Computer Game Design	295
+1	90 m^2	1.7124	Santa Clarita	motor sports	-0.4067	0.444	178	-1292	588	-0.2347	1019	Computer Science	1116
+5	-205 m^2	-0.2917	LONG BEACH	running	0.0234	0.0297	-839	-78	-390	0.0368	-425	Computer Science	-347
+4	2040 m^2	1.0997	Moreno Valley	track & field	-0.0775	1.0942	1490	535	374	-0.552	-135	Human Computer Interaction	0
+5	665 m^2	-0.0319	Sacramento	golf	-0.0229	0.8037	2028	776	753	1.8862	-1247	Bioengineering	-918
+1	1958 m^2	1.6545	Santa Clarita	motor sports	-0.0395	0.0352	-1015	1654	470	-1.183	1157	Computer Science	124
+2	1718 m^2	0.023	Santa Ana	volleyball	1.5228	2.3094	n/a	1729	2444	0.4974	1097	Statistics	-126
+2	2629 m^2	0.4276	Oakland	baseball, boxing	-0.4791	0.9019	845	-1059	1592	-0.2406	1051	Games and Playable Media	124
+1	1187 m^2	0.5401	Santa Clarita	motor sports	1.1736	0.5601	-274	1250	1739	2.1851	175	Computer Science	-343
+0	30 m^2	0.8857	Fremont	ice hockey	1.3493	1.0192	852	1042	776	0.5368	-276	Computational Media	797
+3	18 m^2	0.6303	San Bernardino	basketball, football	1.1199	-0.1228	1317	127	1188	-0.9724	733	Games and Playable Media	-473
+0	265 m^2	0.3477	Fremont	tennis	0.4571	-0.2367	459	852	845	3.3044	731	Computational Media	162
+0	783 m^2	0.7493	Fremont	ice hockey	0.6598	1.1276	-722	-298	-1341	-0.1091	-264	Computer Engineering	-1068
+0	-265 m^2	1.3637	Fremont	tennis	0.5124	0.6253	16	903	1300	0.3299	-521	Applied Mathematics	538
+4	761 m^2	0.5912	San Diego	NULL	1.9073	0.6465	1418	1502	1116	0.2409	551	Human Computer Interaction	1270
+2	2411 m^2	-0.0647	Santa Ana	baseball	-0.5835	0.6819	305	144	789	2.6448	-353	Statistics	2167
+2	843 m^2	0.6681	Stockton	volleyball	0.106	0.9213	2164	372	474	0.3211	215	Statistics	432
+1	?	1.3791	Santa Clarita	football, basketball	-1.4514	-0.1476	n/a	788	1007	0.1821	1951	Computer Science	113
+4	904 m^2	0.3353	Anaheim	track & field	0.4381	0.0763	1453	301	981	1.0851	1376	Human Computer Interaction	667
+4	2419 m^2	1.4017	Moreno Valley	badminton	0.6243	0.0169	1062	1423	2395	-2.3932	1440	Human Computer Interaction	27
+2	1705 m^2	0.6832	Santa Ana	volleyball, baseball	0.3284	1.081	1749	612	-899	-0.3275	857	Statistics	-505
+0	926 m^2	0.1435	Fremont	ice hockey	0.6522	1.163	125	549	-1097	0.0101	183	Applied Mathematics	59
+4	567 m^2	0.5267	Los Angeles	track & field	1.5151	0.3074	2140	59	2067	0.9053	173	Human Computer Interaction	2
+0	172 m^2	0.8379	Fremont	ice hockey	0.5603	0.5411	846	1792	180	-0.0053	1382	Data Science	-1005
+5	-454 m^2	-0.6969	Sacramento	running	1.411	0.9138	986	276	157	0.0082	1420	Natural Language Processing	-3
+0	-1051 m^2	0.2477	Riverside	ice hockey	0.6404	1.7174	331	-304	-527	1.74	508	Computer Science	357
+4	490 m^2	0.6194	Moreno Valley	track & field	0.0673	0.0647	740	507	991	-0.1741	906	Bioinformatics	1553
+2	1346 m^2	-0.215	Stockton	baseball, volleyball	-1.5302	0.0071	875	9	1915	0.9239	81	games and playable media	156
+5	1205 m^2	0.2184	Sacramento	running	1.5794	1.6115	-787	-1149	1305	1.3225	537	Electrical Engineering	-306
+5	682 m^2	0.4785	Long Beach	running	0.096	0.0794	-713	-1060	-549	-0.1775	NULL	Bioengineering	-71
+4	459 m^2	0.4476	Moreno Valley	track & field	-0.3156	-0.4537	1132	-458	-11	-0.1992	528	Human Computer Interaction	-823
+5	623 m^2	-1.2226	N/A	running	2.4477	1.2273	965	750	1293	0.9044	1418	Natural Language Processing	2067
+1	1900 m^2	1.9126	Santa Clarita	motor sports	-0.0543	0.2211	40	27	1679	0.2371	2843	Computer Science	-397
+2	809 m^2	0.7487	Santa Ana	boxing	0.8303	1.6636	1082	1029	-1072	0.0838	134	Games and Playable Media	45
+5	685 m^2	1.6586	Irvine	running	2.5273	0.3046	613	237	-82	-0.6028	-32	Natural Language Processing	1041
+3	-57 m^2	0.0533	San Jose	soccer, basketball	0.5655	1.6487	2360	181	1374	1.7069	1369	Robotics Engineering	-459
+4	860 m^2	0.1086	San Francisco	badminton	-0.6665	1.171	212	942	1681	1.0114	-35	Human Computer Interaction	1166
+5	955 m^2	1.1831	Sacramento	running	-0.3399	0.4363	966	186	-818	-0.495	279	Bioengineering	-168
+5	430 m^2	0.0636	Long Beach	running	-0.0249	0.6339	-258	605	-64	-0.6234	1652	Electrical Engineering	103
+1	1280 m^2	0.3937	stockton	motor sports	1.4212	0.37	-390	473	698	0.2083	1747		-507
+2	-685 m^2	0.2327	Santa Ana	boxing	-0.8919	1.4477	-262	301	859	0.8312	-612	Statistics	220
+1	2057 m^2	0.7999	Santa Clarita	motor sports	0.6116	0.7055	-543	625	533	0.031	51	Computer Science	771
+4	518 m^2	-0.3084	Fresno	track & field	0.8074	0.7709	-287	283	729	-2.0965	201	Bioinformatics	766
+0	1470 m^2	0.9688	sAN bERNARDINO	ice hockey	-0.1591	0.6822	-1039	-1112	-234	-0.2262	-426	Computational Media	-87
+3	-46 m^2	-0.4555	San Bernardino	football, soccer	-0.1649	-0.4924	-406	-806	1683	-0.2584	285	BIOTECHNOLOGY	-193
+4	2389 m^2	2.2003	Moreno Valley	badminton	0.9323	0.5154	110	912	511	-1.5527	333	Statistics	1653
+1	1317 m^2	0.2468	Sacramento	motor sports	-0.4522	0.9032	611	2364	542	-0.1764	2284	n/a	1283
+5	873 m^2	-0.7352	Irvine	running	0.6162	0.2687	-329	394	-422	0.8553	-345	Natural Language Processing	-528
+0	-521 m^2	0.1347	Chula Vista	tennis	1.6144	1.553	922	-154	-1604	0.0901	1368	Computer Engineering	185
+3	487 m^2	-0.0716	San Jose	basketball	-0.2553	-0.0583	1083	1583	1493	0.31	2171	Technology and Information Management	-554
+5	736 m^2	2.1781	Long Beach	running	0.9797	0.7618	-638	92	1002	1.074	169	Electrical Engineering	55
+1	878 m^2	0.4664	Santa Clarita	motor sports	-0.4236	0.7743	-1988	1036	1284	1.3833	1415	Computer Science	620
+0	129 m^2	1.1275	Los Angeles	Ice Hockey	1.4926	-0.0212	153	708	-364	-0.892	631	Computer Game Design	732
+0	98 m^2	0.3735	Santa Clarita	tennis	0.1618	0.5878	274	941	662	-0.0744	-548	Applied Mathematics	625
+1	1085 m^2	1.3551	Santa Clarita	motor sports	0.4727	0.5304	200	1260	1360	-0.2678	16	Electrical Engineering	439
+1	-897 m^2	1.02	Santa Clarita	motor sports	0.7764	0.7737	-1027	626	1751	-0.5989	-361	Computer Science	1341
+1	1243 m^2	1.495	Santa Clarita	motor sports	1.4954	1.2427	2201	2084	-76	-0.521	1109	Computer Science	893
+4	1347 m^2	0.8375	Fresno	track & field	1.0936	-0.388	1843	937	2101	1.6185	-487	Electrical Engineering	-295
+0	-1327 m^2	0.9337	Los Angeles	Running	-1.1426	0.852	-1192	711	-949	0.3805	749	Computer Game Design	256
+1	1787 m^2	0.9821	Santa Clarita	motor sports	0.494	1.4021	727	661	3281	-0.3884	849	Computer Science	666
+1	-50 m^2	2.7025	Santa Clarita	motor sports	0.7391	0.1113	-350	1637	1503	0.0905	-217	Computer Science	-407
+0	220 m^2	1.2564	Los Angeles	tennis	1.6352	-0.3981	-720	221	699	0.1913	220	Computational Media	272
+2	2656 m^2	1.006	Stockton	boxing	0.0553	0.8563	98	-190	751	0.3342	1107	Statistics	-693
+3	-704 m^2	0.3322	San Bernardino	soccer, basketball	1.286	-0.1137	44	587	1130	0.8766	237	Technology and Information Management	20
+5	806 m^2	0.3006	Long Beach	running	0.2317	1.0855	359	-1733	-665	2.0646	552	Natural Language Processing	-371
+1	-1390 m^2	1.8249	Santa Clarita	motor sports	-0.0298	0.8578	266	514	-7	0.3329	831	Games and Playable Media	221
+4	479 m^2	0.1323	Fresno	track & field	0.0161	0.1353	-228	-157	1761	1.6618	-1241	Bioinformatics	886
+5	137 m^2	-0.5519	Sacramento	RUNNING	1.4786	1.5715	1107	-535	-909	-1.1451	1122	Natural Language Processing	478
+1	1273 m^2	1.7015	Santa Clarita	running	1.8056	-0.2461	236	1062	714	0.7734	1108	Computer Science	-1189
+1	1883 m^2	1.3958	Santa Clarita	motor sports	1.9665	-0.1942	-82	328	722	0.3924	169	Computer Science	-727
+5	288 m^2	-0.4643	Irvine	running	0.2755	-0.5398	-125	35	319	0.5369	279	Natural Language Processing	-285
+5	710 m^2	0.0585	San Bernardino	golf	0.9621	0.8396	-248	-896	366	0.3599	1799	Electrical Engineering	748
+1	784 m^2	1.4797	Santa Clarita	motor sports	-1.076	-0.8097	-1166	-9	1366	-0.105	-369	Computer Science	511
+2	401 m^2	0.5286	Oakland	volleyball	0.5338	1.0068	1330	1571	NULL	2.2286	995	Games and Playable Media	511
+5	444 m^2	-0.4341	Irvine	golf	0.2284	1.4963	-649	-976	1668	0.3769	1376	Electrical Engineering	36
+3	204 m^2	-0.1019	San Jose	Soccer, Football	0.2321	1.6061	273	353	-317	1.1903	-1046	Robotics Engineering	-637
+1	84 m^2	-0.7536	Santa Clarita	motor sports	-0.5792	0.9588	-203	1920	-54	0.8264	1744	Computer Science	678
+3	383 m^2	0.032	San Bernardino	basketball, soccer	0.7326	0.9372	158	1311	494	-0.3645	810	Technology and Information Management	540
+0	759 m^2	-0.0666	Fremont	tennis	0.4078	0.7229	-866	-28	642	1.9813	123	Computer Game Design	-260
+1	1724 m^2	2.0005	Santa Clarita	motor sports	0.6847	-0.1857	619	1140	2791	0.3289	1088	Computer Science	534
+2	294 m^2	1.3657	Oakland	volleyball, baseball	1.459	0.4887	-912	-1950	1630	-0.5445	956	Games and Playable Media	1513
+4	1949 m^2	0.6823	Anaheim	track & field	-0.1947	-0.3482	423	29	1705	0.3596	-488	Human Computer Interaction	
+3	1117 m^2	0.4403	San Diego	basketball, soccer	1.8537	1.9033	230	92	2635	1.3712	1629	Technology and Information Management	68
+4	-232 m^2	0.6776	Fresno	track & field	0.7374	0.5744	469	1235	-74	0.706	259	Human Computer Interaction	669
+4	-640 m^2	0.591	San Francisco	track & field	-0.379	0.1508	197	135	522	-0.8748	1145	Bioinformatics	1277
+4	1048 m^2	1.6231	San Francisco	badminton	0.7415	0.6999	998	860	-262	2.1839	882	Human Computer Interaction	808
+4	2576 m^2	0.0283	Moreno Valley	track & field	-0.4837	-0.0915	738	88	739	0.4062	1234	Bioinformatics	433
+4	2303 m^2	1.3656	Fresno	track & field	-0.5526	-0.1125	1041	1391	1026	0.5566	752	Human Computer Interaction	885
+1	1405 m^2	1.2702	Santa Clarita	motor sports	1.1991	-0.3556	1169	43	1556	0.887	1000	computer science	120
+3	92 m^2	-0.0184	Modesto	basketball	0.9359	n/a	763	469	2023	1.5159	311	Technology and Information Management	-294
+5	-1092 m^2	-0.8467	Irvine	golf	0.7279	0.0402	-162	750	607	-0.3001	2063	Natural Language Processing	1776
+3	410 m^2	-0.466	San Jose	football	0.2817	0.0717	269	-1134	2699	0.8652	317	Computer Game Design	223
+3	886 m^2	0.3882	San Bernardino	basketball	?	0.3924	859	364	-190	0.6041	-15	Computer Science	-242
+4	1020 m^2	0.3329	Anaheim	badminton	-0.7544	0.4687	539	2225	729	0.2477	-22	Electrical Engineering	474
+3	741 m^2	-0.1558	Modesto	soccer, basketball	-0.7599	0.5466	561	-1174	1648	0.3419	507	Robotics Engineering	206
+0	-431 m^2	0.1351	Riverside	tennis	-0.0097	1.6118	853	1827	1438	N/A	310	Applied Mathematics	-986
+0	-80 m^2	1.9032	Riverside	tennis	1.2912	0.4303	134	546	-487	0.5283	600	Computer Engineering	108
+3	-823 m^2	-0.5234	Modesto	football	0.3303	1.0494	1059	2486	2490	0.3296	471	Technology and Information Management	406
+1	1521 m^2	0.725	Santa Clarita	MOTOR SPORTS	0.9336	0.4549	-360	457	-389	1.2071	179	Computer Science	881
+3	1364 m^2	-0.4326	Modesto	basketball	0.5567	0.0141	146	1660	751	-0.1253	-222	Bioinformatics	579
+2	678 m^2	0.5275	Oakland	boxing	2.5437	0.224	680	887	1343	0.8027	2107	Games and Playable Media	-115
+4	-13 m^2	0.929	Fresno	badminton	-1.0083	0.8721	140	-1557	2306	-0.537	-1092	human computer interaction	644
+0	1 m^2	1.8198	Chula Vista	ice hockey	0.3579	0.5102	987	-1623	2325	-0.2303	670	Applied Mathematics	590
+5	1358 m^2	0.8429	sacramento	golf	-0.4084	1.1226	65	974	1247	1.1216	1700	Bioengineering	-765
+2	1836 m^2	0.5259	Bakersfield	volleyball	1.2005	1.0053	-420	-21	2137	1.5511	66	Statistics	966
+5	814 m^2	0.4641	Long Beach	golf	-0.0691	0.4528	198	487	1327	-0.0118	-53	Bioengineering	-192
+2	189 m^2	0.2921	Bakersfield	baseball, boxing	-0.1904	1.909	17	68	520	-0.1644	2022	Games and Playable Media	-458
+3	892 m^2	0.8516	San Jose	soccer	1.757	0.8422	1980	-295	691	-1.5649	1186	Technology and Information Management	606
+3	-1140 m^2	-1.3447	San Diego	basketball, soccer	-0.9407	1.069	2491	-1145	1903	-0.8795	-97	Biotechnology	331
+2	886 m^2	0.5985	Stockton	baseball	-0.3962	1.7749	770	397	-250	-2.0977	1529	Statistics	-58
+2	626 m^2	0.0964	Stockton	volleyball, boxing	0.3902	1.119	892	-136	34	-1.6006	1209	Games and Playable Media	-764
+4	209 m^2	1.8397	Anaheim	badminton	-0.1086	0.3842	694	-101	1730	-0.0326	156	Bioinformatics	630
+1	1567 m^2	-0.3836	Santa Clarita	motor sports	1.1617	0.6691	-81	249	790	0.6214	1013	Computer Science	-46
+2	1554 m^2	-0.7558	Santa Ana	boxing, baseball	-0.0288	-0.1024	315	-687	649	0.3539	1509	Games and Playable Media	27
+4	180 m^2	0.4132	aNAHEIM	tennis	2.0895	-0.3705	1383	2525	860	-1.2124	-10	Bioinformatics	311
+0	17 m^2	1.4458	Fremont	ice hockey	1.7072	0.0979	529	1265	-555	0.222	291	Applied Mathematics	-677
+4	1905 m^2	1.5938	Moreno Valley	badminton	-0.6486	0.2326	200	651	3156	1.0234	-143	Human Computer Interaction	30
+3	1006 m^2	-0.7546	San Jose	soccer, basketball	-0.9665	0.8466	1901	-1963	773	-0.9001	815	Technology and Information Management	598
+5	-311 m^2	0.8068	Sacramento	running	0.7492	0.4199	364	390	-134	1.492	901	Bioengineering	-536
+4	254 m^2	0.4348	San Francisco	track & field	0.7924	-0.0262	410	233	1605	-1.2816	1177	Bioinformatics	132
+3	52 m^2	-0.1471	Modesto	basketball, football	0.6974	1.9032	-72	1088	854	1.1737	353	Computer Science	-272
+4	457 m^2	0.3096	Anaheim	track & field	0.263	0.978	2208	-495	439	1.1805	-483	Human Computer Interaction	575
+5	1419 m^2	0.1594	Sacramento	running	-0.1095	0.6733	755	-508	2632	0.6572	-4	Bioengineering	-776
+5	96 m^2	0.2869	Sacramento	golf	-0.0541	0.756	761	1164	0	0.9867	565	Bioengineering	n/a
+0	1195 m^2	-0.3792	Los Angeles	tennis	-0.2417	1.3457	-870	1039	-90	0.088	2298	Computer Engineering	-359
+0	793 m^2	1.8913	Los Angeles	tennis	-0.2554	0.7434	553	-1018	-562	0.7224	-356	Computer Engineering	112
+2	208 m^2	-0.7341	Santa Ana	boxing	0.5187	1.0404	-620	1267	1840	0.634	757	Games and Playable Media	-1711
+2	1918 m^2	0.0929	Santa Ana	baseball	-0.3724	1.8273	381	-1136	-1204	-0.6544	1111	Games and Playable Media	649
+3	-639 m^2	1.1491	San Diego	basketball	0.6875	1.1454	1204	-794	-1022	1.1976	568	Biotechnology	62
+1	876 m^2	1.0168	Santa Clarita	motor sports	1.6749	0.602	-117	-313	2169	-0.2004	1318	Computer Science	339
+5	751 m^2	1.0973	LONG BEACH	running	0.4339	0.0582	-592	-727	813	-0.1985	1107	Natural Language Processing	508
+4	1719 m^2	1.4797	san francisco	track & field	0.0877	-0.0589	1832	-72	1317	0.4747	1140	Bioinformatics	-1930
+1	156 m^2	-0.0664	Santa Clarita	motor sports	0.2302	2.029	-493	-23	1494	0.5693	1952	Computer Science	-280
+3	1099 m^2	0.0544	San Bernardino	basketball, soccer	2.7352	1.4177	176	-1629	996	-0.6555	754	Technology and Information Management	-339
+3	635 m^2	0.4325	San Bernardino	football	0.2554	0.0417	347	-203	3372	0.2975	1300	Technology and Information Management	-517
+5	1005 m^2		Santa Clarita	golf	0.2923	-0.3705	-1291	377	1498	-0.3486	934	Computer Science	1064
+4	-80 m^2	1.0079	San Francisco	Badminton	0.193	0.2089	2353	625	270	-1.2165	-1351	Bioinformatics	419
+1	349 m^2	1.5885	Santa Clarita	motor sports	0.507	-0.2942	-361	1338	2878	0.383	1389	Computer Science	355
+4	621 m^2	0.9008	San Francisco	badminton	0.9816	1.4478	619	1017	911	0.9485	725	Human Computer Interaction	15
+1	144 m^2	-0.2613	SANTA CLARITA	motor sports	0.4662	0.5815	-253	896	-1204	-0.1545	969	Computer Science	555
+5	2046 m^2	-0.2381	Long Beach	golf	0.3098	0.8763	123	-1023	1241	-0.3391	389	Computer Science	-641
+3	-1112 m^2	0.3919	San Diego	soccer, basketball	-0.8702	0.6668	-442	2395	2457	-1.6669	3054	Technology and Information Management	680
+5	1625 m^2	0.4104	Sacramento	golf	0.9989	-0.4296	-1019	433	360	0.7388	1618	Natural Language Processing	-352
+3	-1564 m^2	1.2744	San Jose	soccer, basketball	1.9466	0.3324	1798	45	1062	1.5218	-31	Technology and Information Management	227
+4	139 m^2	0.355	Fresno	track & field	0.7046	-0.2689	-1299	1604	2423	0.7991	-258	Human Computer Interaction	468
+5	1113 m^2	-0.0043	Long Beach	running	0.0224	-0.9908	-978	1764	-41	0.5254	363	Bioengineering	-390
+0	215 m^2	0.1457	Fremont	tennis	-0.2136	1.2402	-26	2480	-56	1.1445	148	Applied Mathematics	314
+1	2039 m^2	0.9315	Santa Clarita	motor sports	0.8573	0.613	-2622	28	1390	0.8903	-19	Computer Science	306
+3	-370 m^2	0.1708	Modesto	soccer, basketball	0.5643	0.3287	1073	-1185	2045	1.3703	198	Robotics Engineering	1045
+2	865 m^2	0.1502	Stockton	volleyball	0.2578	1.6548	541	696	2709	0.7837	905	Statistics	927
+4	-503 m^2	-1.1562	San Francisco	track & field	0.7797	-0.2383	321	-41	670	1.2537	397	Bioinformatics	259
+2	343 m^2	1.1269	Chula Vista	volleyball, boxing	1.566	1.1865	1555	799	817	1.7226	-375	Games and Playable Media	71
+2	66 m^2	-1.3408	Oakland	baseball, boxing	-0.8952	0.2285	421	372	650	-1.1994	1633	Games and Playable Media	
+5	1517 m^2	-1.198	Long Beach	golf	1.2755	-0.6277	1542	1386	-363	-0.6179	324	Biotechnology	411
+2	172 m^2	0.7609	Stockton	boxing, baseball	0.4739	1.1203	485	171	-76	-1.1601	1184	Games and Playable Media	-1018
+2	1558 m^2	-0.2186	Oakland	volleyball	-1.0556	0.2662	886	501	1420	1.8029	1589	Statistics	-200
+4	632 m^2	0.1888	San Francisco	badminton	1.0784	0.5286	192	334	1128	0.1917	1927	Human Computer Interaction	1085
+4	415 m^2	1.1247	Anaheim	badminton	-0.5457	1.6101	-657	1490	714	-0.0891	-289	Bioinformatics	-70
+0	-285 m^2	-0.0953	Riverside	ice hockey	-0.798	1.2293	-58	1388	-1300	1.5946	-619	Bioengineering	-416
+0	341 m^2	1.6345	Chula Vista	ice hockey	1.2392	0.1618	-1023	714	-886	2.3504	1755	Computer Game Design	1389
+4	197 m^2	0.9088	San Francisco	badminton	1.0501	1.3939	-524	1592	1862	-0.0843	373	Human Computer Interaction	566
+5	-260 m^2	-0.321	Irvine	basketball, football	1.1063	0.4264	1432	919	971	0.8187	630	Natural Language Processing	1143
+5	2184 m^2	0.5367	Irvine	running	0.8118	0.5177	-10	1444	1511	0.3045	1345	Computer Game Design	588
+1	1256 m^2	0.0515	Santa Clarita	motor sports	0.0109	-0.9278	1483	830	1839	1.513	1009	Computer Science	1280
+0	-580 m^2	0.1615	Riverside	ice hockey	0.214	0.7167	-723	-557	1415	0.1789	293	Computational Media	903
+0	-493 m^2	0.081	Chula Vista	ice hockey	0.7097	0.5518	-1402	2316	-375	0.0975	1332	Computer Game Design	425
+5	1116 m^2	0.5373	Irvine	golf	-0.5947	0.7829	667	1334	-1110	-0.0704	1137	Natural Language Processing	696
+4	72 m^2	-0.5601	Anaheim	badminton	0.5049	0.7022	-1095	981	1395	-1.5594	439	Human Computer Interaction	206
+0	767 m^2	0.7471	Fremont	tennis	-0.9862	0.6694	791	1288	-33	1.3813	-1052	Computational Media	939
+5	-655 m^2	0.237	SACRAMENTO	golf	-0.0926	0.8991	558	-609	259	0.3942	499	Bioengineering	778
+5	486 m^2	0.6487	Irvine	running	0.2466	0.3995	843	828	3235	0.31	604	Electrical Engineering	104
+4	468 m^2	1.6108	ANAHEIM	badminton	-0.0559	0.754	1477	1062	1102	-0.9251	-838	Human Computer Interaction	1427
+1	-204 m^2	1.125	Santa Clarita	motor sports	0.2605	0.9885	1458	1467	430	1.7555	395	Computer Science	525
+1	11 m^2	0.9459	Santa Clarita	motor sports	0.7122	0.1986	-189	426	2944	0.6239	-1476	Computer Science	-1970
+2	155 m^2	-0.5049	Stockton	volleyball	N/A	0.7511	2356	-1548	504	0.1466	576	Statistics	-449
+5	-275 m^2	0.3701	Sacramento	golf	1.7442	0.5179	-1205	136	1477	0.4619	1650	Natural Language Processing	-127
+3	685 m^2	0.3874	sAN jOSE	basketball	1.149	0.5849	1538	131	1231	0.7415	-818	Biotechnology	570
+3	934 m^2	0.6071	Modesto	football	0.8349	1.4243	-145	1331	1040	0.0713	540	Biotechnology	-485
+5	-114 m^2	0.5757	Irvine	golf	1.5225	0.5015	-273	-141	9	-0.1326	852	Electrical Engineering	-280
+5	-257 m^2	0.6928	Sacramento	running	0.3918	-0.1109	1208	-1253	1815	-0.1097	-451	Bioengineering	276
+0	1176 m^2	-0.0547	Fremont	ice hockey	0.7543	1.067	-809	-362	-423	0.9687	-479	Computational Media	177
+0	879 m^2	-0.0913	Riverside	ice hockey	-1.2481	-0.5936	761	1825	-449	0.313	992	Computer Engineering	887
+0	-120 m^2	1.8111	Chula Vista	ice hockey	0.4748	0.3556	233	722	2837	1.9621	1260	Applied Mathematics	340
+0	-647 m^2	1.0594	Chula Vista	ice hockey	0.652	0.4914	741	1339	-136	-0.4578	502	Computer Game Design	-707
+0	2225 m^2	0.7246	Los Angeles	ice hockey	1.7855	0.3043	-174	-294	-89	-2.1803	-640	Data Science	-633
+3	2056 m^2	-0.4356	Modesto	soccer	2.1147	1.069	-730	-326	129	0.3819	171	Technology and Information Management	161
+5	867 m^2	-0.8486	Irvine	running	0.6813	-0.2338	1292	-792	213	1.0532	-1063	Electrical Engineering	92
+3	2 m^2	-0.6402	San Diego	soccer, basketball	1.6784	1.353	1514	1674	2240	-1.8788	449	Robotics Engineering	915
+2	759 m^2	0.6616	Oakland	volleyball, boxing	0.4588	0.7937	818	1284	226	NULL	214	Statistics	306
+4	64 m^2	1.6309	Fresno	badminton	-0.2761	-0.322	1115	2753	1684	1.2555	1912	HUMAN COMPUTER INTERACTION	490
+1	1191 m^2	0.3093	Santa Clarita	motor sports	1.4986	1.7877	-1061	-683	75	0.2567	-866	Computer Science	434
+2	520 m^2	0.0156	Oakland	volleyball	-0.9551	?	1656	641	1308	0.5479	526	Statistics	-214
+3	-529 m^2	-0.2069	San Jose	basketball, soccer	-0.1601	0.8902	3537	306	3007	0.5074	787	Biotechnology	1179
+4	1611 m^2	1.834	Moreno Valley	track & field	-0.3319	-0.1185	104	1724	258	-1.4059	629	Bioinformatics	716
+1	194 m^2	0.3373	Santa Clarita	motor sports	1.1253	1.6655	-774	1256	1484	-0.1561	5	Computer Science	-247
+5	1135 m^2	0.727	Irvine	golf	0.858	-0.4712	299	-1178	693	-0.6506	-171	Human Computer Interaction	913
+4	904 m^2	1.4666	San Francisco	badminton	-0.2561	-0.3089	757	-1786	1016	0.8535	818	Bioinformatics	697
+5	575 m^2	-0.3327	Irvine	golf	1.0368	0.2498	-1487	348	-742	0.8314	-734	Games and Playable Media	754
+3	-210 m^2	0.6656	San Diego	soccer	1.5862	0.5716	3341	1260	2914	0.3545	1509	Technology and Information Management	128
+2	900 m^2	-0.3927	Oakland	baseball, boxing	-0.186	0.0138	-437	446	535	0.3953	544	Human Computer Interaction	1230
+1	1284 m^2	0.5997	Santa Clarita	motor sports	1.4589	1.4263	-141	233	1718	1.0116	0	Computer Science	-283
+5	1143 m^2	0.6764	Sacramento	running	0.1357	1.1288	1353	1006	-43	0.3085	1004	Natural Language Processing	-741
+0	407 m^2	0.7221	Riverside	ice hockey	-0.8619	1.8418	-204	1979	-469	1.3693	451	Computer Game Design	-39
+4	1140 m^2	1.2647	San Francisco	track & field	-0.6154	0.6923	581	2141	809	1.4705	633	Bioinformatics	1751
+0	-370 m^2	0.7529	Los Angeles	tennis	0.5615	1.0892	138	-254	-929	-1.0178	-243	Computer Engineering	-370
+5	1772 m^2	0.6606	Long Beach	running	1.5919	1.1526	-94	-558	-183	1.3	2051	Natural Language Processing	471
+4	587 m^2	0.5653	Anaheim	track & field	-0.0252	-0.2631	1275	-857	711	0.8257	-158	Human Computer Interaction	335
+3	-410 m^2	1.1512	San Bernardino	basketball	2.198	None	75	1341	1013	-0.1883	214	Technology and Information Management	774
+3	-391 m^2	0.9326	SAN JOSE	football, basketball	0.7168	0.4768	673	618	1230	-0.1312	735	Technology and Information Management	789
+3	-1532 m^2	0.292	Modesto	football	0.4237	0.1105	-61	2346	1014	1.6673	859	Applied Mathematics	-414
+2	302 m^2	0.7948	Santa Ana	boxing, volleyball	0.4666	0.575	435	524	1423	1.3715	766	Games and Playable Media	-715
+0	494 m^2	0.0858	Riverside	tennis	0.6332	0.7696	35	3110	165	0.2618	588	Computer Engineering	691
+0	1209 m^2	0.9236	Riverside	tennis	0.3764	0.8698	-176	-264	1567	-0.3816	341	Computer Science	881
+4	2159 m^2	-0.8442	Fresno	track & field	1.1173	-0.2707	1827	99	556	0.1951	-348	Biotechnology	181
+0	86 m^2	1.0749	Riverside	tennis	1.0714	1.3186	65	-165	1039	0.1884	757	Robotics Engineering	267
+3	-195 m^2	0.7994	San Jose	football, soccer	-0.8327	0.9603	1321	190	-137	0.5729	1128	Biotechnology	-141
+5	228 m^2	0.3409	Irvine	running	0.5372	-0.0645	612	752	344	0.4276	155	Natural Language Processing	681
+5	1411 m^2	0.587	Long Beach	running	0.5873	1.5383	959	873	-997	-0.2494	285	Biotechnology	81
+3	1673 m^2	-1.1195	Modesto	basketball, football	-0.5713	0.6658	-126	1064	-234	-1.0261	1041	Electrical Engineering	1089
+3	-641 m^2	0.5728	San Jose	soccer	2.3578	1.3992	95	1106	183	0.1546	63	Biotechnology	-183
+1	1429 m^2	0.3137	Santa Clarita	motor sports	1.037	-0.6362	-202	1754	1216	0.8889	820	Computational Media	414
+1	1040 m^2	0.6638	Santa Clarita	motor sports	-0.0148	0.3497	596	16	0	0.8256	769	Computer Science	660
+3	-541 m^2	0.5505	Modesto	basketball	0.8147	-0.4717	-1126	-85	457	0.4023	2796	Technology and Information Management	-587
+2	-1036 m^2	0.2176	Stockton	boxing, baseball	0.1131	1.4083	1576	325	604	-0.4342	993	Statistics	-1754
+0	355 m^2	0.0424	Riverside	ice hockey	0.7304	1.4446	-93	-56	372	0.5711	166	Computer Game Design	-1152
+0	-1217 m^2	1.5235	Santa Clarita	ice hockey	1.1844	0.9147	-620	1501	548	0.9593	1297	Computer Game Design	799
+2	231 m^2	1.0903	Oakland	volleyball	0.2029	1.0929	793	1815	1072	-0.0202	1020	Games and Playable Media	-257
+4	1521 m^2	2.4266	Moreno Valley	track & field	0.64	1.2791	821	-995	2180	0.3156	1408	Bioinformatics	533
+4	600 m^2	1.2196	san francisco	track & field	-0.2052	0.3287	1365	1128	1067	1.1753	-197	Bioinformatics	1466
+3	735 m^2	0.0437	Modesto	basketball, soccer	0.0013	1.4839	667	-1945	363	-0.1894	1545	Technology and Information Management	11
+3	-206 m^2	-0.5639	San Bernardino	football, basketball	-0.4191	0.5799	832	1335	1253	-0.3746	1272	technology and information management	325
+3	-69 m^2	0.6411	San Bernardino	football, soccer	2.5042	0.2248	343	-1939	924	1.3875	756	Robotics Engineering	-903
+4	2077 m^2	-0.6003	Moreno Valley	badminton	-0.9182	-0.6041	2373	-478	1122	1.385	753	Technology and Information Management	1166
+0	291 m^2	1.0819	Anaheim	tennis	1.713	1.5814	480	1500	236	1.636	252	Computational Media	1094
+3	1918 m^2	0.2693	San Diego	soccer, basketball	2.8574	1.5281	1102	713	712	0.535	95	Robotics Engineering	-395
+3	165 m^2	0.3012	San Diego	football, soccer	0.3569	0.0622	-1133	-799	431	1.6265	772	Biotechnology	-818
+1	987 m^2	0.0263	Santa Clarita	motor sports	0.9509	1.1866	-1996	-580	-108	0.6345	1501	Computer Science	1170
+4	-751 m^2	1.4115	San Francisco	track & field	0.5337	0.8827	1369	1472	866	0.7202	-570	Human Computer Interaction	516
+2	1409 m^2	1.2484	Santa Ana	BOXING, VOLLEYBALL	0.1376	0.8237	91	1260	2448	1.2989	1363	Statistics	472
+2	708 m^2	0.037	Oakland	baseball	-1.5291	1.7606	2156	748	-852	3.2567	965	Statistics	594
+4	2492 m^2	1.5651	Anaheim	badminton	0.0941	0.9414	561	666	-175	0.4054	54	Bioinformatics	-125
+4	209 m^2	0.2822	Moreno Valley	Track & Field	1.1976	0.8535	1319	1072	2485	-0.2425	274	Human Computer Interaction	1210
+3	-25 m^2	0.8247	San Jose	soccer	0.2158	1.6098	-299	-41	-193	0.295	974	Robotics Engineering	976
+1	1948 m^2	1.4357	Santa Clarita	motor sports	0.9464	1.0229	-172	1154	1967	-0.5924	None	Computer Science	496
+2	648 m^2	0.3073	Santa Clarita	volleyball	-1.7171	0.5214	-688	-1001	2802	1.2367	-297	Games and Playable Media	-71
+2	1700 m^2	0.2343	Oakland	baseball	1.0739	0.958	651	-761	229	2.8199	1001	Games and Playable Media	493
+2	353 m^2	-0.3906	Santa Ana	baseball, volleyball	0.5056	0.5848	865	1505	1014	0.2499	705	Games and Playable Media	-298
+0	221 m^2	1.8223	Riverside	tennis	N/A	-0.0272	333	151	-103	-0.5493	564	Computer Game Design	-84
+5	-596 m^2	-0.4136	Irvine	golf	0.1055	0.0787	339	-402	-245	0.7832	1864	Natural Language Processing	232
+0	171 m^2	2.107	Chula Vista	tennis	0.3622	1.0926	695	669	957	-2.415	-279	Data Science	425
+0	-261 m^2	0.8064	Riverside	tennis	0.5138	0.56	156	1032	706	-0.1704	687	Computational Media	842
+5	1169 m^2	-1.0869	Long Beach	running	-0.2413	1.5547	113	496	7	2.6932	2073	Natural Language Processing	1518
+0	830 m^2	0.7546	Riverside	ice hockey	1.8783	0.9495	-477	-56	564	0.9161	-369	Computer Game Design	835
+2	84 m^2	-0.2887	Bakersfield	VOLLEYBALL	0.0477	1.2731	1069	542	799	1.6332	-329	N/A	-10
+0	78 m^2	0.5517	Chula Vista	tennis	0.4421	1.0946	1437	743	375	0.8386	-1434	Computational Media	-171
+0	-446 m^2	2.4894	Fremont	ice hockey	0.5496	0.8202	140	1465	162	1.6323	-167	Computer Engineering	-965
+0	-1186 m^2	-0.1704	Riverside	ice hockey	0.2379	-0.4987	-604	-201	-922	0.4344	665	Computer Science	
+1	741 m^2	-1.1499	Santa Clarita	motor sports	1.0599	0.0962	456	265	-156	-2.2237	539	Computer Science	52
+2	935 m^2	0.879	Bakersfield	boxing, volleyball	1.765	1.1845	1465	-339	-590	0.4724	-636	Games and Playable Media	-346
+0	-706 m^2	0.2243	Chula Vista	basketball	1.6844	0.8567	-28	1120	-1588	1.082	-195	Computational Media	1430
+3	295 m^2	0.0121	Modesto	Basketball	1.8793	0.4058	1795	-1552	1645	0.0524	-738	Robotics Engineering	879
+2	-273 m^2	-0.3424	Bakersfield	baseball	2.0509	0.4063	618	-1043	708	-0.2963	1605	Statistics	-747
+2	2060 m^2	0.7907	Stockton	baseball	-0.6342	0.2083	687	158	1184	0.6133	-1205	Statistics	-1158
+3	-212 m^2	1.4432	San Bernardino	football, basketball	3.0014	0.4437	-66	209	381	-0.6897	-153	Robotics Engineering	-258
+0	-994 m^2	0.5419	Chula Vista	ice hockey	0.3276	0.3027	-671	-640	187	-1.0763	508	Computational Media	-111
+1	-111 m^2	1.7077	Santa Clarita	motor sports	0.4812	None	109	318	3324	-0.4073	90	Computer Science	-46
+0	810 m^2	1.5672	Fremont	tennis	1.2411	0.5615	-492	406	180	-0.0893	-901	Computational Media	416
+2	667 m^2	0.2953	Oakland	baseball, volleyball	1.0413	0.7319	-849	3182	-1062	-0.5249	414	Statistics	-768
+4	-729 m^2	1.7126	Fresno	track & field	0.8926	1.6159	856	873	762	0.8394	217	Bioinformatics	-22
+1	-7 m^2	0.9805	Santa Clarita	motor sports	0.9014	0.3432	589	205	-970	0.0325	-90	Computer Science	-552
+3	-776 m^2	0.3482	San Diego	basketball	-0.0781	1.6273	251	639	964	0.1845	427	Biotechnology	792
+5	1421 m^2	-0.1587	Long Beach	golf	1.3823	0.4695	-650	960	-2112	0.6081	-148	Computer Science	
+1	106 m^2	2.2828	Santa Clarita	motor sports	0.1746	-0.7594	-7	879	1733	0.7662	201	Computer Engineering	-32
+2	2382 m^2	0.5977	Bakersfield	volleyball, boxing	1.5864	0.5036	280	123	745	-0.0898	496	Games and Playable Media	481
+2	1717 m^2	0.0063	Bakersfield	boxing	0.8004	0.7012	1958	50	345	1.9529	1348	Bioinformatics	-1766
+5	742 m^2	0.1579	Long Beach	running	1.0904	0.8731	427	534	-892	0.495	403	Bioengineering	165
+3	-14 m^2	-0.2195	San Jose	soccer, football	1.9197	1.3315	790	44	2325	-0.2265	941	Technology and Information Management	-652
+4	616 m^2	0.5901	Anaheim	track & field	-0.6134	-0.0883	1896	813	655	-0.8992	1428	Bioinformatics	280
+1	910 m^2	0.2609	Santa Clarita	motor sports	-0.1778	1.4484	896	2351	1013	0.1628	1639	Computer Science	487
+2	-452 m^2	-0.3688	Fresno	volleyball, baseball	-0.2964	0.749	-19	161	986	0.3148	595	Electrical Engineering	1235
+0	325 m^2	?	Chula Vista	tennis	-0.018	1.0078	80	-183	2291	0.2062	180	Applied Mathematics	
+1	1255 m^2	0.0205	Santa Clarita	motor sports	-0.9089	0.2723	-309	185	18	0.2947	1958	Computer Science	497
+0	1089 m^2	1.4971	Los Angeles	tennis	1.0716	0.4264	-574	-360	-211	0.6935	1149	Electrical Engineering	607
+2	1186 m^2	-0.0625	Stockton	boxing	0.3473	1.4686	675	759	1664	1.3938	24	Statistics	140
+3	-571 m^2	-0.0408	San Jose	soccer	1.4384	-0.2377	1008	221	1448	0.1415	524	Biotechnology	358
+5	351 m^2	-0.121	Sacramento	running	1.6145	0.4013	-946	1232	-192	0.42	n/a	Bioengineering	-358
+1	1031 m^2	1.6643	Santa Clarita	motor sports	N/A	-0.373	124	754	-396	1.0271	132	Computer Science	417
+3	-1044 m^2	1.9279	San Jose	FOOTBALL	1.4054	1.1791	-397	889	1980	-0.4944		robotics engineering	-134
+4	830 m^2	0.5147	Anaheim	track & field	0.2544	0.4361	1166	3077	63	0.7368	-214	Human Computer Interaction	1448
+4	1837 m^2	0.0401	Moreno Valley	track & field	-0.3963	-0.7458	521	862	269	1.1934	-197	Human Computer Interaction	-507
+3	-454 m^2	-0.2295	sAN dIEGO	football	0.0541	1.1125	1058	-412	157	0.9332	1601	Robotics Engineering	1706
+2	294 m^2	0.5073	oakland	boxing, volleyball	1.427	-0.2977	-1351	465	149	0.4164	916	Statistics	-599
+5	1081 m^2	0.5986	Sacramento	golf	-0.208	-0.9931	-75	-231	72	0.3408	800	Bioengineering	-13
+4	-830 m^2	0.7061	Fresno	track & field	-0.2927	-0.1952	-879	-388	1344	0.3939	532	Human Computer Interaction	1648
+1	1640 m^2	0.2996	Santa Clarita	motor sports	1.1941	0.8814	374	1479	-161	-0.0494	432	Computer Science	659
+3	1714 m^2	0.3758	Riverside	basketball	1.3829	1.2153	923	-954	618	1.403	588	bIOTECHNOLOGY	-1183
+4	636 m^2	1.6047	san francisco	badminton	1.4606	0.5484	427	-1167	1382	0.6752	-114	Human Computer Interaction	1424
+1	-65 m^2	1.2053	Santa Clarita	motor sports	1.244	-0.1348	-310	1680	-321	0.1064	3076	Computer Science	-169
+3	-515 m^2	0.5427	SAN JOSE	soccer, basketball	1.0809	0.7324	1506	869	86	-0.5893	413	Biotechnology	-1075
+3	-135 m^2	-0.0489	San Jose	soccer, basketball	0.3542	1.8627	1367	975	-1440	0.6866	-841	Robotics Engineering	860
+0	633 m^2	1.5578	Riverside	tennis	1.291	0.6676	-195	1193	175	0.59	1352	Computational Media	1038
+3	-873 m^2	-0.7127	San Diego	football	1.1673	1.8668	-243	-1038	488	0.0402	0	Computer Science	-930
+0	-1158 m^2	0.1256	Los Angeles	ice hockey	1.809	0.1775	-298	1933	-32	-0.0447	644	Computer Game Design	-625
+1	923 m^2	1.8583	Santa Clarita	motor sports	1.0526	0.7661	-371	912	909	2.4449	887	Computer Science	-613
+4	1991 m^2	0.8966	Moreno Valley	badminton	0.0652	0.8229	83	91	291	0.2212	618	Human Computer Interaction	344
+0	-277 m^2	0.8811	San Diego	tennis	1.7117	2.1971	-871	2121	295	2.1934	342	Computer Engineering	-1350
+5	1637 m^2	0.9489	n/a	golf	1.1005	-0.1092	198	1466	814	1.0859	1191	Bioengineering	-108
+4	1050 m^2	-0.5712	Moreno Valley	badminton	-0.0114	0.7756	-721	1492	-805	1.2402	934	Human Computer Interaction	-530
+3	139 m^2	-0.3956	Modesto	basketball, soccer	1.4372	0.8568	909	-526	2045	0.8851	63	Robotics Engineering	-188
+2	66 m^2	0.4068	Stockton	baseball, volleyball	1.7329	-0.1272	-620	2451	1296	-0.3459	1151	Statistics	-624
+1	1542 m^2	1.4379	Santa Clarita	motor sports	0.4791	0.936	592	-715	-586	-1.0969	1364	Computer Science	-2061
+1	449 m^2	0.8232	Santa Clarita	motor sports	0.3739	0.5948	1864	-117	-74	-1.1388	1385	Computer Science	-164
+4	272 m^2	1.1151	san francisco	badminton	1.7503	0.063	272	1013	1188	3.1063	-46	Bioinformatics	1208
+5	133 m^2	0.2043	Irvine	running	1.3325	-0.3527	202	1104	369	-0.1356	964	Natural Language Processing	1062
+0	843 m^2	1.1973	Fremont	tennis	0.7444	0.6058	-972	1514	-894	-0.1568	-759	Applied Mathematics	14
+2	-148 m^2	0.8846	Oakland	boxing, volleyball	-1.0	0.6525	795	1217	142	0.0063	452	Games and Playable Media	-1488
+2	696 m^2	0.3242	Santa Clarita	boxing	1.5446	0.7525	1924	1085	-84	1.3372	-368	Games and Playable Media	1305
+3	-901 m^2	0.2736	Modesto	basketball	0.6448	1.1388	29	-410	516	0.9165	1527	Technology and Information Management	1087
+3	-649 m^2	0.9723	San Jose	basketball, soccer	1.2364	0.9423	1051	-140	253	1.1435	908	Robotics Engineering	745
+4	1091 m^2	2.1206	mORENO vALLEY	badminton	0.1093	0.4409	410	902	2404	1.0056	295	Human Computer Interaction	763
+3	748 m^2	0.2559	San Bernardino	soccer	0.887	1.6944	982	-1192	236	-0.2753	1367	Biotechnology	233
+3	-558 m^2	1.0564	San Bernardino	football, soccer	-0.3338	-0.0388	1237	726	2065	0.971	718	Robotics Engineering	1054
+5	-399 m^2	-0.8397	Irvine	running	-0.5586	1.0113	425	476	-242	1.4028	-794	Bioengineering	-405
+3	1054 m^2	0.4993	Modesto	basketball, soccer	1.2927	1.2872	695	872	-352	2.1604	1729	Technology and Information Management	-1091
+1	1160 m^2	-0.0345	Santa Clarita	motor sports	1.0301	-0.2828	-880	2616	1466	0.2978	786	Computer Science	-381
+4	-113 m^2	1.9693	Moreno Valley	Baseball	-0.4047	0.1432	229	-491	351	0.5125	1430	Human Computer Interaction	-169
+2	714 m^2	-0.7605	Bakersfield	baseball	0.5618	-0.362	1165	342	2095	1.1357	-184	Games and Playable Media	-297
+0	817 m^2	0.8013	Chula Vista	ice hockey	-0.81	0.3823	-784	-461	129	0.6526	748	Data Science	264
+4	1559 m^2	0.738	Fresno	track & field	-0.1699	1.2341	161	247	1397	0.0111	1072	Bioinformatics	-78
+2	855 m^2	0.207	Santa Ana	baseball, volleyball	0.5437	1.2039	251	-918	1850	0.2202	1285	Games and Playable Media	1237
+1	604 m^2	1.3209	Santa Clarita	motor sports	2.0999	0.2784	563	616	2001	1.1722	1325	Computer Science	462
+4	689 m^2	0.8468	Anaheim	track & field	2.1538	-0.0566	297	1113	1728	0.4232	1101	Human Computer Interaction	917
+1	-890 m^2	0.4326	SANTA CLARITA	motor sports	1.1216	0.7695	62	-408	1749	2.6066	722	Computer Science	1193
+1	-10 m^2	1.2055	Santa Clarita	motor sports	0.8944	0.7271	-1129	77	1388	-1.5857	1727	Computer Science	-449
+3	131 m^2	1.0733	San Jose	BASKETBALL, FOOTBALL	1.2291	0.6308	2290	1864	596	-0.02	891	Biotechnology	952
+2	-74 m^2	0.1938	oakland	volleyball, boxing	0.3273	None	631	298	1966	-0.5681	14	Statistics	-803
+2	913 m^2	0.9577	Stockton	boxing	-1.3533	1.1901	1792	1011	941	1.0075	1549	Statistics	313
+0	467 m^2	0.4847	Fremont	tennis	0.4591	0.3688	476	-508	-757	0.0005	246	Computational Media	-138
+5	2039 m^2	-0.7442	Long Beach	running	1.6111	0.8283	-744	2019	1503	-0.5693	1737	Bioengineering	503
+1	-838 m^2	0.5951	Santa Clarita	motor sports	0.5271	0.4926	1342	2243	3432	-1.0545	1256	Computer Science	674
+4	1514 m^2	-0.9074	San Francisco	track & field	1.2147	0.8131	-1045	-459	3283	-0.3441	-448	Bioinformatics	-101
+5	1929 m^2	0.2772	Long Beach	running	0.1011	1.1212	-500	-696	-58	-1.5231	1352	Electrical Engineering	256
+5	498 m^2	-0.1809	Long Beach	running	1.6207	1.3319	1338	285	-158	0.3384	1245	Electrical Engineering	323
+2	446 m^2	0.1314	Stockton	boxing, volleyball	-0.0557	1.2534	1032	746	307	1.5748	897	GAMES AND PLAYABLE MEDIA	502
+1	-507 m^2	0.2057	Santa Clarita	motor sports	-0.5669	0.5646	-1393	-548	957	-0.6457	717	Computer Science	95
+3	673 m^2	0.4836	Modesto	soccer	-0.6822	1.1687	1371	2255	1794	0.486	984	Technology and Information Management	-542
+3	-1453 m^2	-1.2026	San Diego	football	0.1387	1.3385	-45	490	-96	0.8534	1604	Biotechnology	563
+4	1240 m^2	1.2656	Fresno	track & field	-0.7176	0.0192	912	-698	-725	0.428	-939	Human Computer Interaction	699
+0	360 m^2	-0.0266	Fremont	ice hockey	1.2346	1.236	-985	1000	-1602	-0.5605	721	Data Science	644
+2	1192 m^2	0.1178	Bakersfield	boxing, volleyball	2.1261	0.8794	1699	1934	-253	-0.3133	467	Statistics	460
+0	-586 m^2	0.9617	Chula Vista	ice hockey	1.6922	0.9514	653	1008	-1297	0.833	-96	Computer Science	527
+4	2096 m^2	0.8609	Fresno	badminton	-0.2352	0.62	345	186	1616	-2.5028	47	Bioinformatics	1383
+5	199 m^2	0.4449	Irvine	golf	0.1002	-0.4893	-1248	728	872	0.4643	649	Natural Language Processing	545
+1	619 m^2	1.4394	Santa Clarita	motor sports	-0.2744	-0.1873	-148	215	716	0.3122	483	Computer Science	-885
+0	1071 m^2	0.8956	Riverside	tennis	1.3818	0.1412	89	265	793	1.4165	1254	Computer Game Design	95
+0	1566 m^2	1.4437	Fremont	tennis	-0.372	0.3625	1120	1309	271	2.2756	1356	Computational Media	-17
+5	857 m^2	0.428	Irvine	running	-0.0609	0.0687	-212	1245	498	0.686	1027	Electrical Engineering	1093
+3	-266 m^2	2.1218	San Jose	basketball	-0.1852	-0.3324	1582	-1357	269	0.614	743	Robotics Engineering	1575
+5	173 m^2	0.1592	Irvine	running	0.9384	0.1206	656	653	365	0.9775	930	Electrical Engineering	871
+4	548 m^2	1.5182	Moreno Valley	track & field	-0.3078	0.9748	-132	1283	1481	-0.1688	1593	Human Computer Interaction	1308
+1	590 m^2	-0.0329	sANTA cLARITA	motor sports	1.3742	0.8111	198	854	2855	0.2188	1597	Computer Science	263
+4	-569 m^2	-0.0917	San Francisco	track & field	-0.9952	0.4543	1309	1294	1567	2.5323	1157	Bioinformatics	-870
+3	26 m^2	-0.2686	Modesto	basketball	-0.8373	0.5823	-362	-129	1190	-0.9634	529	Technology and Information Management	602
+3	470 m^2	1.0803	San Bernardino	soccer, football	1.373	0.1495	166	2515	638	-1.3642	963	Technology and Information Management	-1452
+4	418 m^2	1.6754	Anaheim	track & field	0.2155	0.4824	2187	745	2107	0.4316	-253	bIOINFORMATICS	841
+0	-1803 m^2	0.5236	Riverside	tennis	0.7104	0.2292	-1123	4	802	-0.4919	907	Computer Science	-101
+0	-1683 m^2	0.7765	Riverside	tennis	1.007	-0.1555	-210	182	518	2.2672	-996	Computer Engineering	649
+5	1665 m^2	1.602	Irvine	GOLF	0.9576	1.1489	-1030	1205	334	1.3208	2654	Natural Language Processing	289
+0	-601 m^2	-0.6023	Chula Vista	ice hockey	0.4144	0.5447	102	-1019	311	1.1999	None	Data Science	-267
+2	-284 m^2	1.6281	Bakersfield	baseball	-0.7134	-0.5433	662	-269	158	0.5799	896	Statistics	-604
+4	-70 m^2	1.044	Moreno Valley	track & field	1.6271	-0.1431	620	155	-561	2.0231	-827	Bioinformatics	702
+0	-5 m^2	0.1149	Riverside	ice hockey	0.3927	0.4049	120	441	20	0.8951	960	Applied Mathematics	912
+4	167 m^2	-0.0336	San Francisco	badminton	0.9493	0.7193	2967	960	1126	0.9083	1362	Bioinformatics	539
+3	492 m^2	-0.5442	Modesto	football	0.9822	1.612	126	2218	947	-0.7166	770	Robotics Engineering	576
+0	-44 m^2	0.3662	Fremont	ice hockey	0.3346	0.686	-746	2354	-708	n/a	655	Data Science	380
+2	2194 m^2	0.4595	Bakersfield	boxing, baseball	-0.556	1.3688	1756	615	-1580	0.0746	1272	Games and Playable Media	142
+0	-679 m^2	0.9989	Riverside	ice hockey	-0.3734	0.8551	-198	717	872	2.4602	64	Applied Mathematics	650
+2	-393 m^2	0.5511	Stockton	golf	-0.022	0.8561	329	1576	1295	0.9108	386	Statistics	-1596
+4	923 m^2	1.1332	San Diego	badminton	0.2278	0.8846	752	-535	3125	1.7259	-2	Bioinformatics	1753
+1	485 m^2	-0.0499	Santa Clarita	motor sports	1.0282	-0.1905	415	1758	None	1.7193	741	Computer Science	1176
+4	951 m^2	1.7254	Fresno	track & field	-0.1557	-0.3295	3208	1082	-355	0.0807	415	Human Computer Interaction	-681
+2	-196 m^2	-1.4847	Bakersfield	baseball	-0.7947	0.4797	134	855	1922	2.3837	343	Games and Playable Media	-137
+3	594 m^2	0.1612	Modesto	football	0.2707	1.0305	-18	1095	1871	-0.2792	-20	Technology and Information Management	-195
+0	-535 m^2	-0.1811	Chula Vista	ice hockey	1.5048	1.553	-298	1514	-885	-0.5146	-858	Computer Game Design	484
+1	39 m^2	1.4667	Santa Clarita	motor sports	-0.0328	0.0587	153	1032	2467	1.0172	627	Computer Science	-411
+5	635 m^2	0.7806	Sacramento	golf	-0.776	0.5203	1316	302	624	0.3687	444	Natural Language Processing	-150
+2	918 m^2	-0.4432	Bakersfield	boxing, baseball	0.4814	-0.3209	1541	996	1416	1.4994	1073	Games and Playable Media	745
+2	2335 m^2	0.1341	Santa Ana	baseball, volleyball	0.8572	1.193	-30	-755	170	-0.8036	3583	Games and Playable Media	620
+4	301 m^2	1.3959	Anaheim	badminton	-0.0615	-0.0414	-945	1520	1696	1.8658	376	Bioinformatics	3003
+2	134 m^2	0.8657	Oakland	Boxing, Volleyball	0.8344	0.9578	695	2571	-16	0.4623	416	Games and Playable Media	1457
+3	-56 m^2	-0.2909	Modesto	football	0.0945	0.5005	1215	-1020	-640	-0.7397	379	Technology and Information Management	-1274
+4	592 m^2	2.2381	ANAHEIM	track & field	-0.9706	0.36	913	1320	696	0.8377	2000	Bioinformatics	639
+5	-525 m^2	0.0614	Irvine	running	0.3209	0.4131	60	890	-261	-0.8677	-431	Electrical Engineering	-244
+4	None	1.819	san francisco	track & field	0.2797	0.9893	-252	102	-576	0.4346	1217	Games and Playable Media	1000
+0	249 m^2	0.2926	Riverside	ice hockey	2.3652	0.0622	437	481	-842	0.8216	362	Applied Mathematics	-21
+2	868 m^2	0.0235	Bakersfield	volleyball	0.6143	-0.9284	-790	1386	-43	0.2909	1395	Statistics	-482
+3	-2038 m^2	-0.53	Modesto	soccer, basketball	0.8652	1.2174	610	-867	817	0.6613	2455	Biotechnology	35
+2	998 m^2	-1.0915	Oakland	boxing	1.6184	1.3048	1117	2880	152	-0.8254	857	Games and Playable Media	1691
+1	182 m^2	-0.0863	Santa Clarita	motor sports	0.2941	0.2936	-537	-54	1886	1.5986	2158	Computer Science	591
+1	484 m^2	1.187	Santa Clarita	motor sports	1.5574	0.8106	-513	140	2863	0.5656	1260	Computer Science	-960
+4	-313 m^2	1.2767	Moreno Valley	track & field	2.5357	0.3815	779	976	2012	0.4787	870	Human Computer Interaction	-98
+4	-510 m^2	-0.1874	San Francisco	track & field	-0.7776	-0.0323	1841	449	-144	0.5391	1836	Human Computer Interaction	455
+1	709 m^2	-0.0959	Santa Clarita	motor sports	0.8501	-0.2542	-133	304	488	1.2227	299	Computer Science	1084
+5	2346 m^2	1.0438	Long Beach	running	-0.7311	2.6285	-192	-1468	-559	1.0747	760	Bioengineering	677
+2	345 m^2	1.8619	Bakersfield	volleyball	0.9826	0.8131	457	1151	1665	-0.209	1847	Games and Playable Media	197
+3	-1388 m^2	0.6544	San Diego	basketball	0.5314	-0.0343	2031	-1172	1087	1.0335	-769	Computational Media	-93
+4	-13 m^2	1.032	Anaheim	badminton	1.0308	1.0723	-895	1141	2709	-0.0766	-464	Bioinformatics	741
+3	1960 m^2	0.2047	San Jose	football	0.2076	0.8014	547	1638	924	0.048	1272	Robotics Engineering	403
+4	152 m^2	1.1518	Moreno Valley	badminton	0.0569	0.489	1769	-169	1419	1.1387	721	Human Computer Interaction	64
+2	92 m^2	1.7562	Santa Ana	baseball, boxing	0.0281	1.2326	-359	-168	-308	-0.7591	1395	Games and Playable Media	638
+5	530 m^2	-0.1331	Sacramento	golf	0.7002	NULL	1194	-905	-611	-0.2206	410	Electrical Engineering	-517
+1	2640 m^2	0.1314	santa clarita	motor sports	-0.5983	-0.0089	962	656	898	1.7321	557	Computer Science	695
+2	752 m^2	0.7158	Santa Ana	baseball, volleyball	-0.4328	0.9008	670	1071	2755	1.0288	1016	Games and Playable Media	331
+0	-544 m^2	1.3796	Riverside	TENNIS	-0.078	1.0832	699	570	185	0.7473	348	NULL	2021
+2	1013 m^2	0.0088	Oakland	volleyball, baseball	0.203	-0.2075	1340	-1663	1500	0.6574	428	Human Computer Interaction	1198
+0	1089 m^2	1.2913	Fremont	ice hockey	0.157	1.5806	-540	1183	-733	0.8785	705	Computational Media	621
+3	665 m^2	0.1783	Bakersfield	football, basketball	1.6722	1.0812	786	1143	1434	0.5559	748	Biotechnology	394
+5	388 m^2	0.786	Sacramento	golf	0.5642	-0.0976	132	1845	-340	-0.2424	819	Bioengineering	-1222
+3	579 m^2	0.2033	Los Angeles	basketball, soccer	0.2243	-0.0751	1415	-744	1426	-0.37	359	Applied Mathematics	88
+5	-515 m^2	0.4102	Irvine	golf	0.6502	0.4855	-276	64	608	-0.545	373	Bioengineering	323
+5	2658 m^2	0.5766	Sacramento	golf	1.7415	-0.3896	174	-948	332	1.6831	825	Electrical Engineering	370
+4	339 m^2	1.0941	Anaheim	badminton	0.6397	-0.4723	736	-140	1330	0.0366	-152	Human Computer Interaction	-265
+4	959 m^2	1.7471	Moreno Valley	track & field	-0.1473	0.0102	645	710	2922	0.5617	795	Bioinformatics	-491
+5	1357 m^2	-0.655	Long Beach	running	-1.5323	0.5308	708	924	-377	-0.3757	1054	Bioengineering	939
+3	-438 m^2	-0.132	San Bernardino	soccer, football	2.9275	1.0493	2777	-1562	2056	-1.15	1510	Technology and Information Management	-706
+0	1141 m^2	1.5111	Los Angeles	ice hockey	1.2203	0.7455	406	1593	-1429	0.3754	2	Data Science	326
+5	?	0.181	Santa Clarita	golf	1.6547	0.5748	558	1414	-629	-0.2761	1800	Natural Language Processing	-17
+2	-434 m^2	-0.0061	Stockton	volleyball, baseball	1.8743	0.0061	1139	370	-262	-0.1477	1026	Bioengineering	-144
+4	950 m^2	0.9392	fremont	badminton	1.5752	0.8822	1690	909	1011	0.281	673	Computer Science	205
+0	1120 m^2	1.1854	Riverside	ice hockey	0.3714	0.9692	-242	-1028	-167	0.0557	78	Bioinformatics	87
+1	786 m^2	0.9419	santa clarita	motor sports	-0.0459	1.6051	453	-70	1052	1.4627	1251	Computer Science	604
+5	388 m^2	0.3453	Irvine	running	1.3118	0.167	226	548	2011	0.5113	1635	Natural Language Processing	646
+5	55 m^2	0.3846	Long Beach	running	1.4208	1.5896	69	599	-709	0.7265	1661	Natural Language Processing	668
+0	602 m^2	1.0022	Riverside	tennis	0.4369	1.0039	-418	-897	-468	2.2788	1252	Computational Media	-342
+2	789 m^2	-0.0721	Bakersfield	boxing	0.5048	0.8954	-92	2414	616	1.4009	1642	Statistics	-486
+4	399 m^2	0.3722	Anaheim	badminton	0.0339	0.4598	726	-48	728	1.3976	996	Human Computer Interaction	-423
+3	-887 m^2	-1.021	San Bernardino	basketball	-0.3096	0.7188	177	547	448	1.0123	64	Robotics Engineering	-783
+0	-728 m^2	1.5667	Riverside	ice hockey	1.1755	1.1236	24	-29	1	1.369	841	Data Science	1251
+1	-172 m^2	-0.2329	Santa Clarita	Motor Sports	0.8277	1.6153	199	-115	-351	0.8736	837	Computer Science	-636
+5	322 m^2	-1.1852	Sacramento	running	-0.2676	-0.3298	-515	-984	159	0.256	170	Natural Language Processing	-134
+0	-249 m^2	-0.3267	Chula Vista	ice hockey	1.3747	1.149	118	-795	318	0.0411	-541	Computer Game Design	-718
+0	539 m^2	2.259	Fremont	ice hockey	1.6714	0.004	-1367	18	2437	0.6547	997	Computer Engineering	-848
+1	1313 m^2	0.615	Santa Clarita	motor sports	0.9483	0.8481	-637	645	3411	0.4104	665	Computer Science	752
+2	2141 m^2	0.5197	Bakersfield	boxing	1.7857	1.1043	379	-50	507	0.6538	1110	Data Science	-405
+5	-183 m^2	-0.8524	Sacramento	running	0.1595	-0.5351	-638	1542	457	1.5889	845	Electrical Engineering	1094
+3	1597 m^2	0.0718	San Bernardino	soccer, basketball	0.9276	0.5393	512	-1416	1116	2.1638	153	Technology and Information Management	1274
+5	1198 m^2	0.6756	Long Beach	golf	0.1058	-0.6359	932	853	-1383	0.7004	-57	Bioengineering	-907
+2	1690 m^2	-0.3149	Stockton	baseball, volleyball	1.3135	1.1883	-517	N/A	2544	1.408	1417	Games and Playable Media	-804
+0	-188 m^2	1.8001	Fremont	ice hockey	1.4265	0.2307	-1259	-178	814	-0.7343	394	Computer Game Design	-70
+5	1868 m^2	0.1423	Sacramento	golf	0.8466	0.8361	-1242	1927	-602	-0.4036	403	BIOENGINEERING	-871
+4	46 m^2	1.5084	Moreno Valley	badminton	1.1408	0.1331	2387	-1264	1415	0.6948	470	Bioinformatics	1431
+4	115 m^2	0.802	San Francisco	badminton	1.3782	-0.4745	648	1478	1748	1.4941	985	Bioinformatics	242
+5	282 m^2	-0.0826	sACRAMENTO	running	1.0762	1.0101	-1434	297	-162	-1.3268	1441	Natural Language Processing	809
+5	-426 m^2	0.2126	Sacramento	golf	-0.5729	0.4012	-802	NULL	929	0.1358	1035	Natural Language Processing	140
+0	1020 m^2	1.8308	Los Angeles	ice hockey	-0.289	1.1749	570	791	-692	0.9331	305	Computational Media	462
+3	1678 m^2	0.4241	San Bernardino	basketball	1.4362	N/A	1101	549	1885	0.0969	156	Robotics Engineering	748
+2	441 m^2	-0.6206	Santa Ana	volleyball, boxing	-0.8252	1.3831	1071	-140	1888	1.1784	948	Games and Playable Media	439
+1	-296 m^2	1.088	Santa Clarita	motor sports	-1.132	0.1003	1261	1183	900	0.7675	917	Computer Science	943
+1	860 m^2	1.0896	Santa Clarita	motor sports	0.307	0.8897	693	2534	-614	-0.5428	1210	Statistics	630
+0	?	0.3036	n/a	TENNIS	?	1.4135	870	1741	-453	2.1158	834	Data Science	-348
+0	-575 m^2	0.0641	Los Angeles	ice hockey	0.1291	1.0152	-531	862	-2351	0.7102	-374	Data Science	170
+5	48 m^2	-0.4902	Irvine	running	0.4902	1.4037	400	474	-1088	0.0525	1033	bIOENGINEERING	1053
+0	262 m^2	1.195	Chula Vista	ice hockey	0.0689	1.3884	-646	-63	597	0.7138	325	Computer Game Design	-580
+2	-978 m^2	0.81	Santa Ana	boxing	1.0693	0.8949	2031	513	986	0.4576	2504	Games and Playable Media	-172
+5	-506 m^2	None	Long Beach	running	-1.3122	0.9734	357	557	506	-0.2037	1884	Bioengineering	-771
+3	-279 m^2	0.514	san jose	football, basketball	0.9531	-0.509	189	-1344	1436	-0.3828	1131	Robotics Engineering	-321
+0	-659 m^2	0.1201	Riverside	ice hockey	0.7399	0.3756	791	708	259	1.9069	-1225	Computer Game Design	1472
+5	1152 m^2	0.6503	Sacramento	golf	1.7758	-0.1536	233	-194	-914	1.656	1660	Bioengineering	1431
+0	-358 m^2	-0.3683	Riverside	ice hockey	-0.2255	0.3424	-290	702	256	1.8093	167	Applied Mathematics	-519
+3	505 m^2	-0.2102	San Jose	basketball	0.9347	2.0199	780	1253	1100	-0.3802	1147	Robotics Engineering	546
+3		-0.0829	San Diego	football, soccer	0.5957	1.1227	1925	N/A	1025	0.6594	678	Games and Playable Media	17
+2	1417 m^2	0.3188	Santa Ana	volleyball, baseball	-0.5352	0.2233	1181	2215	-189	1.8296	-656	Robotics Engineering	-826
+4	625 m^2	1.033	Fresno	Track & Field	1.35	-0.0429	1070	110	-232	1.3292	-919	Bioinformatics	467
+3	-1567 m^2	-0.0795	San Bernardino	football	-0.013	1.187	897	-1223	-233	-0.5002	-722	Robotics Engineering	835
+3	-320 m^2	0.3522	San Bernardino	basketball, football	0.3992	1.0303	-62	536	2643	1.7284	1341	Technology and Information Management	-44
+0	1625 m^2	1.4132	Chula Vista	ice hockey	0.7943	0.6282	134	1491	222	0.3175	-299	Computational Media	965
+3	-1303 m^2	-0.5507	San Diego	soccer, football	-0.1004	0.5329	108	422	232	2.9772	650	Robotics Engineering	92
+3	-575 m^2	n/a	San Jose	basketball	0.1428	1.3245	290	429	2042	0.3852	-634	Robotics Engineering	919
+1	1009 m^2	1.6456	Santa Clarita	motor sports	0.6055	0.4486	-818	597	1211	-0.1615	-215	Computer Science	154
+5	-1692 m^2	0.6101	Sacramento	running	1.1868	-0.0598	554	-53	-474	0.3283	982	Natural Language Processing	572
+2	1673 m^2	0.5148	Bakersfield	volleyball	0.3713	0.2243	151	1476	1268	2.1005	1234	Games and Playable Media	-826
+0	95 m^2	1.6886	Riverside	tennis	1.4061	0.4059	-1725	366	418	-0.3085	1815	NULL	-1480
+1	1611 m^2	0.2355	Santa Clarita	motor sports	1.3032	1.1962	-259	184	1082	-0.0716	165	COMPUTER SCIENCE	1013
+1	932 m^2	-0.593	Santa Clarita	motor sports	0.9272	-0.1031	883	-1036	1777	1.6324	585	Computer Science	-322
+3	-57 m^2	-0.021	Modesto	soccer	0.1789	0.4859	955	-1007	1212	-0.0352	1255	Statistics	901
+5	1771 m^2	-0.5071	Sacramento	golf	1.646	-0.0388	371	-682	1633	-0.0021	1560	Natural Language Processing	1440
+0	485 m^2	0.9701	Riverside	ice hockey	0.7301	-0.181	-598	8	47	-0.2153	12	Computer Engineering	-238
+0	888 m^2	1.7218	Riverside	tennis	1.0734	0.7561	503	-362	582	1.8876	1144	Computational Media	470
+3	n/a	1.3681	San Bernardino	football	-0.1918	0.2859	1173	1570	-668	-0.4419	-74	Technology and Information Management	245
+3	310 m^2	-0.2207	San Bernardino	soccer	1.492	1.0639	-265	330	-1395	-0.2445	330	TECHNOLOGY AND INFORMATION MANAGEMENT	-144
+0	1050 m^2	0.8351	Los Angeles	ice hockey	-0.3261	0.673	-828	481	-609	0.7652	619	Computer Engineering	442
+5	-690 m^2	1.1089	Irvine	golf	0.4058	0.381	-543	37	-41	-0.4056	703	Technology and Information Management	-1012
+2	224 m^2	0.3037	San Jose	boxing	1.2566	0.201	-498	916	2576	1.3786	1679	Statistics	245
+0	-457 m^2	0.6163	Los Angeles	ice hockey	0.5346	1.0697	-761	512	436	0.1761	1308	Data Science	1516
+0	909 m^2	0.5825	Riverside	ice hockey	0.9906	0.4982	511	415	-982	-0.0346	519	Data Science	893
+4	1702 m^2	0.1695	fRESNO	track & field	-0.8057	0.9705	1778	-190	617	-0.1687	-31	Bioinformatics	815
+4	1647 m^2	1.2568	San Francisco	track & field	-0.2413	1.4355	6	609	-1653	1.9483	400	Human Computer Interaction	-38
+0	57 m^2	0.9921	Riverside	ice hockey	-0.2377	1.2093	-785	2277	1189	0.2405	168	Computer Game Design	-216
+4	-786 m^2	0.8778	San Francisco	badminton	1.2598	-0.3213	-1523	1719	2371	0.1569	-94	Human Computer Interaction	42
+5	710 m^2	-0.3586	Irvine	golf	-0.1543	-0.0051	1318	1011	45	-1.3145	212	Natural Language Processing	-206
+1	1543 m^2	1.4598	Santa Clarita	motor sports	0.8166	0.2737	766	-756	329	0.16	-77	Computer Science	670
+3	1649 m^2	-0.0857	San Diego	running	-0.1999	1.3399	786	-901	-143	1.791	2090	Robotics Engineering	-355
+2	399 m^2	-0.9989	Stockton	baseball	0.1933	1.3566	-1877	-268	1508	0.9437	1140	games and playable media	-1083
+5	704 m^2	-0.2764	Irvine	running	0.9153	1.2239	-202	1269	491	-0.1415	762	Bioinformatics	1203
+5	7 m^2	-0.2594	Sacramento	running	-1.4183	-0.3574	1946	-70	-1422	1.3213	1888	Natural Language Processing	190
+2	759 m^2	-0.1978	Santa Ana	boxing, volleyball	0.593	0.8073	2850	201	193	1.1693	1062	Statistics	616
+4	2452 m^2	1.0525	Fresno	badminton	0.0262	1.1753	610	-59	922	1.1678	712	Bioinformatics	1056
+2	620 m^2	0.5672	Bakersfield	boxing, volleyball	-0.343	1.0072	463	2238	-1070	1.8143	1360	Games and Playable Media	876
+3	1086 m^2	0.2727	San Diego	football, soccer	-0.2741	1.9187	1039	1340	1777	1.2093	1391	Robotics Engineering	-113
+4	1931 m^2	2.0032	San Francisco	track & field	-0.712	0.5172	1837	1928	1109	0.6994	625	Bioinformatics	2147
+2	1145 m^2	-0.3845	Stockton	boxing	0.0885	1.3335	990	594	1036	1.6118	1059	Statistics	-396
+3	1751 m^2	-0.3572	Modesto	soccer, basketball	0.6252	0.5647	962	945	1816	1.3305	1645	Robotics Engineering	-106
+0	302 m^2	1.3997	Bakersfield	ice hockey	1.058	0.8023	-1492	688	-79	1.4662	962	Human Computer Interaction	-870
+5	711 m^2	0.1086	San Jose	golf	-1.2234	-0.0263	1059	345	-223	1.4786	814	Bioengineering	-107
+0	1134 m^2	-0.2365	Fremont	ice hockey	1.6394	2.7776	-1040	-812	672	0.7124	-445	Data Science	-8
+5	1646 m^2	0.2478	Long Beach	golf	1.1263	0.3328	-1434	859	515	0.05	-252	Natural Language Processing	346
+1	2056 m^2	1.5979	Santa Clarita	motor sports	-0.7813	0.7242	-562	-67	-72	0.7577	611	Computer Science	-667
+5	1507 m^2	0.6567	Sacramento	golf	0.1546	1.1266	-449	-1429	-855	0.9932	307	natural language processing	954
+4	363 m^2	1.1539	Anaheim	badminton	-0.0431	-0.5069	399	1824	1509	1.052	-25	Human Computer Interaction	603
+0	500 m^2	0.5501	LOS ANGELES	tennis	0.7379	1.4253	990	1176	?	1.0808	490	Data Science	781
+2	-487 m^2	0.3778	Oakland	boxing, volleyball	-0.2166	-0.0009	1586	30	589	-0.3266	None	Games and Playable Media	-89
+0	-192 m^2	0.0546	Fremont	tennis	0.758	1.425	1802	1385	-1004	0.1352	-70	Computer Science	926
+2	1567 m^2	0.7073	Oakland	volleyball	1.3826	0.6873	2670	-213	200	1.3964	683	Statistics	-19
+3	28 m^2	-0.9483	San Bernardino	basketball	1.7902	1.3766	1960	2273	54	0.1058	1164	Robotics Engineering	-1355
+1	-612 m^2	1.0559	Santa Clarita	motor sports	0.4003	-0.365	116	49	303	-1.7688	854	Computer Science	620
+0	134 m^2	0.7312	Los Angeles	ice hockey	0.703	1.6019	1423	499	280	0.7207	1432	Computer Game Design	?
+4	-866 m^2	0.42	Moreno Valley	track & field	-0.377	-0.6137	62	402	1806	-0.3878	117	Computer Science	1351
+2		-0.7384	Bakersfield	baseball, boxing	0.3023	1.9212	-4	-299	-605	-0.3829	-1571	Games and Playable Media	-1171
+2	1348 m^2	1.4328	Stockton	volleyball	-1.4658	0.2281	895	2252	-317	1.4122	929	Games and Playable Media	-585
+4	1240 m^2	-0.5107	Santa Clarita	track & field	1.0198	1.723	806	1238	2079	0.4051	397	Human Computer Interaction	1559
+4	-632 m^2	0.2002	Moreno Valley	track & field	0.3242	1.4729	1204	-1171	-205	0.9027	1857	Human Computer Interaction	1247
+0	-917 m^2	0.3341	Chula Vista	ice hockey	0.9822	1.383	734	1182	830	-0.2899	1325	Computational Media	-1083
+3	-479 m^2	0.0624	San Diego	soccer, basketball	1.1178	0.219	843	1518	936	1.6806	-606	Biotechnology	1077
+2	803 m^2	0.7786	Bakersfield	baseball, volleyball	0.764	0.9942	-1090	-1318	1835	-1.6169	-402	Games and Playable Media	174
+4	1137 m^2	0.3314	Fresno	badminton	-0.7553	0.1348	1386	-437	1966	-0.2395	-327	Human Computer Interaction	470
+0	469 m^2	1.2359	Fremont	tennis	1.6243	0.5891	775	739	446	2.286	206	Biotechnology	152
+0	90 m^2	0.9555	Fremont	ice hockey	1.2021	0.7221	369	-736	-819	1.3968	485	Computer Science	1072
+1	1512 m^2	0.2935	Santa Clarita	motor sports	0.3203	-0.33	-151	1249	137	-1.6785	1240	Computer Science	-389
+0	-90 m^2	0.9488	Fremont	ice hockey	1.1351	1.168	-374	-165	384	-0.6838	-9	Applied Mathematics	268
+0	-814 m^2	0.0868	Los Angeles	tennis	1.2229	-0.4173	-880	1428	-807	-0.1619	847	Computational Media	26
+4	1346 m^2	-0.6964	San Francisco	badminton	0.0456	0.4207	442	1132	1316	0.5878	-1473	Computer Science	1042
+5	1363 m^2	0.6264	Long Beach	golf	0.0047	0.1108	-924	1792	-544	-0.4455	434	NATURAL LANGUAGE PROCESSING	-246
+0	-1134 m^2	0.5141	Los Angeles	ice hockey	1.2068	-0.6936	-605	-1235	1078	-0.8388	824	Data Science	1539
+2	200 m^2	2.1239	Stockton	motor sports	0.1178	1.0873	1064	1895	739	-0.4617	671	Games and Playable Media	-843
+3	1030 m^2	0.5072	San Diego	soccer	1.686	1.5323	262	867	469	0.9992	990	Technology and Information Management	1882
+2	-154 m^2	0.2242	Stockton	baseball, volleyball	1.5525	1.5603	291	-6	903	1.2401	952	Games and Playable Media	-2402
+5	1162 m^2	2.3447	Irvine	running	1.4252	0.7212	-119	-560	-1470	-0.0092	1019	Electrical Engineering	-772
+4	635 m^2	1.1921	San Francisco	track & field	0.6863	1.1139	704	509	-1024	0.5101	-597	Bioinformatics	377
+1	-291 m^2	1.2589	Santa Clarita	motor sports	1.9082	0.0704	11	-315	546	-0.2387	1065	Computer Science	-6
+1	1517 m^2	0.4411	Santa Clarita	motor sports	2.0215	0.5421	-1658	904	135	0.9308	-808	COMPUTER GAME DESIGN	500
+4	1286 m^2	2.4445	Anaheim	badminton	1.8588	0.2922	867	-95	160	-0.4249	457	Bioinformatics	941
+4	822 m^2	1.654	San Francisco	track & field	-0.0549	0.254	664	-2060	834	2.9376	727	Human Computer Interaction	-117
+2	1975 m^2	-0.2672	Oakland	baseball, volleyball	-0.1521	0.4684	425	1293	1237	0.5331	-20	Statistics	80
+3	-1007 m^2	-1.1885	San Jose	basketball	0.4979	0.9838	1296	2141	-677	0.3198	570	Biotechnology	216
+5	1132 m^2	-0.0984	Long Beach	running	0.1474	0.3288	-332	1675	463	1.0516	1671	Bioengineering	-530
+1	1015 m^2	0.9143	Santa Clarita	motor sports	0.0362	0.9863	970	-1151	2951	0.472	383	Computer Science	155
+3	423 m^2	-0.1979	San Diego	basketball	0.4169	0.6048	1692	-577	1089	-0.1085	916	Technology and Information Management	57
+5	1568 m^2	0.5027	Long Beach	golf	-0.5227	-0.2264	-352	-253	1237	-1.7049	-469	Natural Language Processing	68
+2	577 m^2	0.0329	Stockton	volleyball	0.5872	0.287	179	-1136	1901	-0.122	1459	Statistics	145
+5	-776 m^2	0.6688	Irvine	running	1.0921	-0.5383	N/A	1424	1101	2.8289	1364	Bioengineering	178
+2	785 m^2	-0.4375	Oakland	volleyball, boxing	1.4522	1.7237	474	-97	711	1.7517	1707	Statistics	-143
+4	2812 m^2	0.6338	Moreno Valley	track & field	0.2586	0.6144	-806	1763	895	-0.0709	-541	Human Computer Interaction	658
+2	-44 m^2	0.1723	Bakersfield	baseball	0.5165	-0.2834	277	1753	2302	0.3754	2115	Robotics Engineering	312
+2	1228 m^2	1.5402	Stockton	volleyball, baseball	-0.1397	0.6498	1381	-48	768	1.3098	-1196	Games and Playable Media	-1240
+2	910 m^2	0.5424	Oakland	volleyball, baseball	-0.3606	0.9482	2463	960	-490	-1.7261	447	Games and Playable Media	1617
+3	-246 m^2	0.011	San Bernardino	golf	0.8508	0.9116	-119	210	934	1.1264	165	Computational Media	214
+2	1584 m^2	0.1363	Bakersfield	boxing, volleyball	1.2083	1.277	1167	1809	-643	-0.2683	1737	Games and Playable Media	1077
+5	689 m^2	-0.0146	Long Beach	golf	0.216	-0.0637	1715	-774	-592	-0.6669	987	Electrical Engineering	-375
+2	2061 m^2	0.588	Santa Ana	volleyball, baseball	0.0878	0.8609	682	320	312	-1.4228	NULL	Statistics	641
+1	317 m^2	1.8959	Santa Clarita	motor sports	0.0266	0.6722	-248	913	259	-0.7419	554	Computer Science	174
+1	1329 m^2	0.0109	Santa Clarita	motor sports	0.6721	0.1693	1503	-1245	1745	-0.8239	139	Computer Science	-142
+1	1812 m^2	0.4419	Santa Clarita	motor sports	-0.4069	0.3967	-1163	59	2115	-0.8964	2164	Computer Science	146
+4	-1278 m^2	1.8361	Fresno	badminton	1.3951	-0.8246	136	-769	1959	-0.2678	405	Human Computer Interaction	405
+2	-190 m^2	0.9665	Stockton	boxing, volleyball	0.2103	0.8662	-546	1755	-525	0.5844	1398	Statistics	243
+0	-803 m^2	2.4258	Fremont	tennis	1.834	0.4328	722	-485	-480	0.4564	1158	Data Science	30
+5	406 m^2	-0.1244	Long Beach	golf	1.0317	1.3587	-615	-169	86	-0.5051	1048	Bioengineering	1494
+2	1361 m^2	0.8978	Oakland	volleyball, baseball	-0.0646	0.2153	438	1162	218	0.1786	1404	Statistics	423
+4	1166 m^2	1.7517	Moreno Valley	track & field	-0.6912	0.3525	735	-742	1252	0.7313	1020	Human Computer Interaction	2384
+0	876 m^2	1.3748	Fremont	ice hockey	0.511	0.8949	-1222	-16	372	-1.8008	738	Computer Game Design	-63
+0	63 m^2	0.7279	Modesto	tennis	0.4789	0.3239	-809	-1731	716	-0.0228	1718	Computational Media	-441
+5	-95 m^2	-0.2541	Irvine	golf	-1.0177	?	114	NULL	142	1.4485	161	Bioengineering	-1111
+0	-52 m^2	0.0173	Los Angeles	tennis	0.1015	0.7314	-196	1641	-919	-0.7246	918	Natural Language Processing	53
+1	187 m^2	0.688	Santa Clarita	motor sports	-0.2657	-0.7026	121	-838	1461	0.3292	289	COMPUTER SCIENCE	764
+3	157 m^2	-0.7958	San Bernardino	basketball	1.0162	1.8594	1472	-1277	1519	-0.5019	555	Statistics	-1236
+1	1820 m^2	1.0491	Santa Clarita	motor sports	0.0127	0.8742	494	-368	617	-2.2116	2229	Computer Science	293
+1	944 m^2	0.6683	Santa Clarita	motor sports	0.2808	1.2676	1935	2788	-462	1.3144	869	Computer Science	-109
+0	-1126 m^2	0.0695	Los Angeles	ice hockey	0.2548	1.6368	191	164	-1437	0.7891	-68	Computer Engineering	304
+0	-62 m^2	0.4371	Los Angeles	ice hockey	0.0645	0.2685	-416	841	-1663	-0.1201	1477	Technology and Information Management	-276
+0	-269 m^2	0.7483	Chula Vista	ice hockey	1.4077	1.7591	-69	-1792	2061	1.1023	875	Data Science	104
+3	727 m^2	-0.5102	San Jose	football, soccer	0.2506	0.7726	-236	-1540	357	-0.7904	647	Biotechnology	789
+3	-421 m^2	0.5617	San Diego	soccer, football	0.3656	1.114	69	-439	1209	0.6628	-83	Computer Engineering	1345
+3	981 m^2	1.1023	San Bernardino	football, soccer	0.6976	1.989	1573	-344	-213	0.1303	597	Applied Mathematics	-473
+5	1789 m^2	-0.0749	Irvine	RUNNING	1.685	1.6372	-1096	1971	-162	1.1282	-64	Bioengineering	230
+0	962 m^2	0.6239	Riverside	golf	-0.5871	1.5056	-32	862	1779	0.1443	-864	Computer Science	179
+2	1606 m^2	0.1135	Bakersfield	boxing	-0.3117	0.7584	148	1353	2488	0.6581	2552	Statistics	412
+0	-245 m^2	1.413	Los Angeles	ice hockey	0.9335	0.3636	-1544	598	-683	-0.528	-279	Applied Mathematics	-66
+5	761 m^2	-0.0376	Sacramento	running	0.9644	0.1865	-108	-1448	-630	-0.2594	1895	Applied Mathematics	319
+1	780 m^2	-0.7349	Santa Clarita	motor sports	0.3792	0.7847	-798	580	1044	-0.6983	2665	Computer Science	303
+1	2292 m^2	-0.8194	Santa Clarita	motor sports	0.4871	1.0706	-587	490	2095	0.771	385	Computer Science	25
+3	730 m^2	0.4189	Modesto	basketball, soccer	0.7728	0.737	-275	580	338	2.0363	258	Robotics Engineering	576
+4	-13 m^2	0.0525	Anaheim	badminton	0.7923	1.5241	2016	944	-135	-0.139	986	Human Computer Interaction	8
+4	147 m^2	1.2376	Fresno	badminton	0.1755	1.1029	1238	2459	614	0.1917	1455	Bioinformatics	148
+0	483 m^2	0.1011	Los Angeles	track & field	-0.4404	-0.9345	1687	40	477	0.7858	158	Computational Media	-209
+3	1013 m^2	0.0908	San Diego	soccer, football	1.3117	-0.236	-101	-129	1508	-0.81	2651	Robotics Engineering	716
+0	-520 m^2	0.9363	Los Angeles	ice hockey	-0.4122	0.4722	-491	1059	-185	-0.4053	1244	Computer Game Design	1492
+2	1134 m^2	1.2947	Santa Ana	volleyball	0.3307	0.0403	434	2910	1350	0.8453	-179	Games and Playable Media	583
+2	-1052 m^2	-0.4504	Bakersfield	baseball	0.3229	1.7854	1824	-21	1870	0.5085	1445	Human Computer Interaction	422
+0	1935 m^2	-0.2541	Los Angeles	tennis	0.8323	0.9711	544	1327	650	-0.169	407	Applied Mathematics	-628
+1	326 m^2	0.5917	Santa Clarita	motor sports	-0.5474	0.785	-634	1255	1944	0.7165	681	Computer Science	-1034
+0	1004 m^2	0.1803	Chula Vista	motor sports	0.3092	0.1597	618	2189	-1321	-0.3591	1402	Applied Mathematics	451
+1	1916 m^2	-0.0268	Santa Clarita	motor sports	0.7903	0.3808	-587	-697	2669	-0.5025	980	Computer Science	-23
+4	-554 m^2	0.9121	San Francisco	track & field	0.2146	-0.8337	896	525	-749	-0.0057	-717	Bioinformatics	-410
+4	647 m^2	-0.0617	Fresno	Track & Field	-0.7721	-0.1274	579	603	-141	2.7047	257	bIOINFORMATICS	479
+2	-396 m^2	0.7692	Santa Ana	BOXING, BASEBALL	0.3442	0.9661	1415	8	665	1.5569	-140	Games and Playable Media	-115
+1	-367 m^2	1.9494	Santa Clarita	motor sports	1.6817	-0.8754	-644	1274	818	-0.7059	2515	Computer Science	-261
+2	-105 m^2	-0.549	Oakland	volleyball, baseball	-0.3519	0.4298	-529	-829	1705	-0.629	1052	Games and Playable Media	-295
+1	903 m^2	1.5986	Santa Clarita	MOTOR SPORTS	1.4293	0.8429	-812	378	536	-0.5959	908	Computer Science	-137
+5	1711 m^2	0.0947	Irvine	running	-1.1391	0.8865	-871	-934	823	-0.1074	1357	Natural Language Processing	-415
+2	N/A	0.8131	Oakland	baseball	0.8787	1.165	1780	212	1158	1.4346	449	Games and Playable Media	1090
+2	1071 m^2	0.3181	Oakland	volleyball	-0.1469	0.1665	1104	N/A	1550	-0.7623	723	Statistics	-240
+4	83 m^2	1.1089	Fresno	track & field	1.2102	0.0176	1263	1752	1904	1.48	-242	Bioinformatics	1103
+2	-374 m^2	0.7477	Bakersfield	volleyball	-0.6102	0.9439	2718	700	1365	0.9673	633	Games and Playable Media	300
+3	873 m^2	1.3099	Modesto	football, basketball	0.8684	2.2424	2087	None	-269	0.6484	516	Technology and Information Management	-1497
+2	612 m^2	-0.0076	Oakland	boxing, baseball	-0.0329	0.0984	1745	-103	1856	0.3278	122	Statistics	263
+2	-301 m^2	1.1235	Stockton	volleyball	0.8651	1.0301	2612	832	1836	1.8236	1204	statistics	-1089
+4	1660 m^2	0.4812	Anaheim	badminton	0.5025	1.5162	273	888	1746	-0.881	449	Human Computer Interaction	-21
+0	328 m^2	2.386	Fremont	tennis	0.4086	0.676	-360	1054	664	1.2539	269	Bioinformatics	-253
+3	-838 m^2	1.0194	Modesto	football, soccer	1.8179	1.9523	-6	107	193	0.5221	1034	ROBOTICS ENGINEERING	237
+2	1843 m^2	0.7339	Santa Ana	baseball, volleyball	2.1261	0.6824	164	2577	-852	1.1932	-820	Games and Playable Media	-568
+3	748 m^2	1.1183	San Diego	football	n/a	0.6953	1289	-327	1395	0.6736	1210	Biotechnology	-615
+5	2563 m^2	0.4375	Irvine	golf	-0.0266	1.0618	-951	1115	1624	0.597	2181	Electrical Engineering	-474
+3	434 m^2	0.0625	Modesto	football	0.439	0.2601	940	2125	250	0.8015	-171	Robotics Engineering	-395
+0	32 m^2	0.7792	Riverside	tennis	-0.16	0.7509	-366	-537	183	1.391	658	Applied Mathematics	-322
+4	2112 m^2	0.6945	Anaheim	track & field	-0.1547	1.0209	-355	202	-186	2.684	175	Human Computer Interaction	806
+3	35 m^2	-0.6383	San Bernardino	basketball, football	1.6831	0.4114	982	-205	823	-0.5263	1966	Robotics Engineering	658
+1	621 m^2		Santa Clarita	motor sports	0.2625	1.4359	921	-421	418	-0.6023	1328	Computer Science	593
+0	647 m^2	0.8187	Riverside	ice hockey	0.391	0.6437	-317	-1700	380	-0.6803	-565	Computer Engineering	-1007
+5	1426 m^2	-0.6641	Sacramento	GOLF	1.5154	-1.2368	-25	-288	-494	-0.1519	-13	Electrical Engineering	-343
+4	591 m^2	-0.0598	Anaheim	track & field	-1.5339	1.4652	1248	748	1710	0.8034	440	Bioinformatics	743
+2	757 m^2	-0.1408	Bakersfield	boxing	0.835	0.8737	704	548	485	1.3051	1866	Games and Playable Media	535
+3	397 m^2	1.0725	San Bernardino	soccer, football	-0.7202	0.2162	2051	-271	-484	1.2718	249	N/A	804
+5	82 m^2	0.8053	Sacramento	running	1.2377	0.2744	-550	69	-1107	0.927	2428	Bioengineering	-325
+1	-249 m^2	-0.2473	Santa Clarita	motor sports	1.1743	0.0818	-194	?	487	0.3809	1022	bioinformatics	59
+4	-445 m^2	0.6027	Long Beach	track & field	0.1967	-0.7101	-265	-263	828	1.648	N/A	Human Computer Interaction	-320
+2	1773 m^2	0.4155	Santa Ana	boxing	0.2971	0.9462	-33	-277	1430	1.165	81	Games and Playable Media	200
+3	1425 m^2	0.478	Modesto	soccer, basketball	-0.7234	0.5501	780	16	-1079	-0.5139	1120	Biotechnology	-593
+5	948 m^2	0.6422	Irvine	running	1.4413	0.4021	-65	1085	318	-1.4983	300	Natural Language Processing	336
+5	1107 m^2	-0.5853	Sacramento	golf	0.7355	-0.2028	-999	-1026	-1475	0.7004	1969	Electrical Engineering	366
+0	257 m^2	-0.3838	Fremont	tennis	0.1849	0.915	-17	-240	-567	1.1793	1217	Applied Mathematics	245
+3	820 m^2	-1.1216	San Bernardino	soccer, basketball	0.2891	1.4727	907	-1192	-268	0.9927	2277	Robotics Engineering	-748
+2	1976 m^2	0.2201	Oakland	volleyball, baseball	0.1349	0.7775	1533	-1155	-23	0.729	316	Games and Playable Media	-584
+1	1114 m^2	1.3539	Santa Clarita	motor sports	-0.0366	0.9789	-670	843	1222	0.3817	233	Computer Science	461
+0	-80 m^2	0.9571	Riverside	ice hockey	2.4578	1.6089	-433	583	996	0.9364	-466	Applied Mathematics	796
+5	1813 m^2	-0.0363	Irvine	N/A	NULL	0.1677	594	-676	553	0.6357	-1010	natural language processing	-305
+1	224 m^2	0.5654	Santa Clarita	motor sports	-0.3717	0.3527	-279	1426	962	0.3785	338	Biotechnology	-337
+1	2208 m^2	1.7235	Moreno Valley	motor sports	1.3268	-0.41	-701	-146	1564	1.1336	1393	Computer Science	-545
+4	530 m^2	1.3541	San Francisco	badminton	0.7983	0.6915	955	1419	-28	1.1494	-851	Human Computer Interaction	191
+0	282 m^2	1.6533	Chula Vista	ice hockey	1.4897	1.6002	1230	2557	-1079	1.1824	-534	Applied Mathematics	398
+0	1650 m^2	1.6434	Fremont	tennis	-0.2916	0.2486	668	1931	1901	-1.1777	116	Data Science	459
+4	-75 m^2	1.0991	Fresno	track & field	1.8456	0.7152	1696	591	540	0.8664	205	Statistics	-219
+0	-599 m^2	1.2285	San Francisco	tennis	1.3733	1.0122	559	-2258	306	0.4946	1439	Data Science	285
+5	974 m^2	0.5002	Irvine	golf	0.1611	0.3815	666	-575	-70	-0.7995	366	Natural Language Processing	-155
+0	385 m^2	2.6583	Riverside	ice hockey	0.4179	0.6703	-1234	-2590	-190	1.4657	1403	Applied Mathematics	193
+0	-877 m^2	1.9969	Riverside	ice hockey	2.4341	1.0976	258	1776	60	0.5996	306	Computational Media	613
+2	1327 m^2	0.8023	Oakland	boxing, volleyball	-0.3433	0.9664	936	1227	2247	1.0467	515	Statistics	667
+4	2036 m^2	0.5481	Anaheim	track & field	0.728	-0.1031	652	1554	1275	2.1895	1342	Human Computer Interaction	-76
+1	597 m^2	0.4654	Santa Clarita	motor sports	-0.4729	0.3404	410	1161	72	1.4685	802	Computer Science	285
+0	-462 m^2	0.7446	Riverside	ice hockey	0.4831	1.3017	461	632	781	1.3321	437	Games and Playable Media	-1809
+5	1714 m^2	0.942	Sacramento	running	0.8932	0.4062	561	-2167	114	0.3802	194	Bioengineering	-692
+1	1949 m^2	0.5533	Santa Clarita	motor sports	0.1921	0.336	-82	1515	246	-1.3338	-518	Computer Science	302
+3	-599 m^2	-0.0112	San Jose	soccer, basketball	1.5806	-0.0344	169	184	-331	1.2118	752	Technology and Information Management	539
+1	1948 m^2	0.4255	Santa Clarita	motor sports	-0.2464	-0.1461	1159	-80	-572	0.6248	166	Computer Science	264
+0	-759 m^2	-0.8096	Chula Vista	tennis	0.5401	1.467	-232	1967	-251	1.1077	NULL	Computational Media	-446
+0	-1352 m^2	0.304	Fremont	tennis	1.1164	2.3998	-283	-143	643		418	Computational Media	740
+2	614 m^2	0.7973	Oakland	boxing	0.3867	0.1357	115	2352	889	0.7716	2267	Games and Playable Media	246
+2	690 m^2	-0.1	Stockton	baseball	-0.921	1.3118	-293	971	1235	0.5764	257	Statistics	-97
+4	928 m^2	1.5053	San Francisco	track & field	1.5209	-0.6891	2483	416	2929	1.3695	-815	Bioinformatics	1550
+4	1132 m^2	1.7451	Fresno	badminton	0.4637	-0.7895	1319	1480	1352	-1.3185	36	Human Computer Interaction	72
+1	326 m^2	0.7398	Santa Clarita	motor sports	-0.9057	-0.0677	102	769	1749	0.7215	2001	Computer Science	753
+0	838 m^2	0.782	Chula Vista	ice hockey	1.1265	-0.2115	-145	-555	-1590	-0.2925	833	Robotics Engineering	113
+3	198 m^2	1.0458	Modesto	basketball	0.6186	0.4666	2943	1054	1100	-0.2514	555	Statistics	1194
+3	-125 m^2	-0.7782	San Jose	soccer, football	0.3761	0.3468	1397	1079	1063	-0.3183	801	Biotechnology	-99
+2	777 m^2	0.802	Oakland	BOXING	0.1184	1.7984	-154	-392	-651	-0.2096	115	Biotechnology	69
+5	805 m^2	0.1162	Irvine	golf	0.3028	0.256	412	496	-1494	0.142	-356	Natural Language Processing	279
+0	631 m^2	0.9547	Los Angeles	ice hockey	1.8119	0.8345	-1110	181	-170	-0.7754	1058	Statistics	864
+4	1414 m^2	0.2314	Moreno Valley	track & field	-0.1802	-0.6633	1091	2676	2322	-0.4124	888	Bioinformatics	1241
+5	1182 m^2	0.0698	Sacramento	golf	-0.4476	-0.4913	38	-910	-144	0.903	1222	Electrical Engineering	-413
+2	393 m^2	0.4856	Santa Ana	BASEBALL	0.5959	0.2096	850	-74	89	1.4408	2144	Robotics Engineering	27
+1	822 m^2	-0.21	Santa Clarita	motor sports	0.4229	0.0636	1096	1443	1641	1.0606	244	Computer Science	-194
+3	437 m^2	0.8327	San Diego	football	0.3691	0.3507	-1014	1730	1304	-0.3246	666	Computer Science	-798
+0	-374 m^2	0.2801	Chula Vista	ice hockey	0.4929	1.7859	-197	1079	1429	-0.4709	1384	Computational Media	1108
+1	1545 m^2	0.5574	Santa Clarita	motor sports	-1.2782	-0.9552	1385	1444	992	0.3561	327	Computer Science	435
+2	1020 m^2	-0.5213	Bakersfield	boxing, baseball	1.3862	1.881	192	2110	2276	0.7737	2563	Games and Playable Media	463
+4	191 m^2	0.7507	Moreno Valley	track & field	1.7352	0.1049	1040	1483	725	-0.398	215	Bioinformatics	-735
+4	10 m^2	0.0328	Anaheim	track & field	-0.2002	1.4849	1003	1266	756	1.6772	-265	Human Computer Interaction	872
+2	1339 m^2	0.3834	Bakersfield	baseball, volleyball	1.5774	1.0384	313	-872	1431	0.0648	196	Games and Playable Media	474
+0	-1034 m^2	0.5694	fremont	tennis	?	1.8895	673	-173	-978	0.4804	1274	Applied Mathematics	569
+4	1164 m^2	0.6626	Fresno	track & field	0.8068	0.5002	294	1524	-458	0.1566	431	Human Computer Interaction	-172
+5	-328 m^2	0.6033	Irvine	running	0.3043	0.3642	-156	1483	-1534	1.1802	576	Electrical Engineering	825
+3	819 m^2	-0.1838	San Diego	football	0.1017	0.1208	1024	726	2802	0.8583	1389	Computer Science	-506
+2	1860 m^2	0.0925	Bakersfield	baseball, boxing	0.827	NULL	-534	1765	920	0.1327	82	Robotics Engineering	126
+1	1281 m^2	-0.0072	Santa Clarita	motor sports	-0.7703	1.0765	643	2067	1797	0.4443	-554	Computer Science	-1268
+3	1838 m^2	1.4003	San Bernardino	NULL	0.9761	1.447	1833	1175	294	-0.1315	1723	Robotics Engineering	190
+5	690 m^2	-0.4206	Irvine	running	0.7826	0.4291	495	-113	108	-0.2777	862	Bioengineering	-729
+5	1686 m^2	-0.5533	Long Beach	running	0.552	2.0018	1700	-324	337	0.9865	-200	Natural Language Processing	302
+2	-113 m^2	1.3363	Santa Ana	boxing, volleyball	-0.4286	0.8225	-117	642	279	0.3837	467	Games and Playable Media	543
+1	587 m^2	0.1071	Santa Clarita	MOTOR SPORTS	-0.2605	0.5259	999	1403	702	0.5849	-234	Computer Science	-7
+2	592 m^2	1.2881	Stockton	boxing	-0.4278	-0.5314	2600	2191	1839	1.2557	-183	Statistics	-45
+0	1014 m^2	2.0924	Fremont	ice hockey	0.927	0.6558	1278	41	-662	0.9338	-153	Data Science	-237
+3	778 m^2	0.2701	San Jose	football, basketball	0.6682	1.0109	537	52	1775	0.9077	831	Robotics Engineering	1210
+3	729 m^2	-1.074	San Jose	soccer	1.851	-0.05	604	-1705	932	0.3213	822	Robotics Engineering	-585
+5	1925 m^2	0.0706	Long Beach	running	-0.0742	-0.2165	389	-1282	362	0.6673	1635	Natural Language Processing	406
+5	1900 m^2	-0.2721	Sacramento	running		-0.773	17	-1327	788	0.3893	605	Electrical Engineering	692
+2	246 m^2	-0.2083	Oakland	baseball	-0.9123	0.8172	2182	-384	-613	0.5411	109	Games and Playable Media	-58
+1	1962 m^2	2.1588	Santa Clarita	motor sports	1.647	0.0327	701	886	1087	-0.6229	1252	Computer Science	-161
+3	-94 m^2	1.5469	San Jose	basketball	0.907	0.8894	1184	507	-175	0.3561	1498	Technology and Information Management	-455
+3	1149 m^2	0.7907	San Diego	soccer	1.7393	0.3559	674	903	-372	0.3087	1291	Technology and Information Management	568
+2	627 m^2	-0.1491	Stockton	baseball, volleyball	0.5804	0.1921	283	2281	101	1.2051	1898	Games and Playable Media	1065
+4	679 m^2	1.5824	Moreno Valley	track & field	1.3682	0.2984	1454	755	1437	1.413	-515	Human Computer Interaction	820
+4	667 m^2	1.7723	Anaheim	track & field	0.8109	0.5914	-113	259	2334	-1.1807	1482	Bioinformatics	-122
+1	762 m^2	0.7377	Santa Clarita	motor sports	0.2153	-0.4626	-173	-1700	28	-0.5053	1598	Computer Science	-212
+4	1835 m^2	0.2834	Fresno	badminton	0.9773	1.3572	2104	144	127	1.7629	508	Human Computer Interaction	-298
+1	-1715 m^2	1.0101	Bakersfield	motor sports	0.3521	1.0069	-111	1629	513	0.6887	1557	Bioinformatics	-14
+0	342 m^2	0.6352	Chula Vista	ice hockey	-0.215	1.0417	-501	744	-711	0.7369	35	Computer Game Design	524
+2	979 m^2	-0.0476	santa ana	volleyball	0.2308	0.8692	-480	1665	676	0.5978	2300	Bioinformatics	698
+0	1473 m^2	1.3533	Los Angeles	ice hockey	0.8065	1.316	27	-192	-1897	1.4273	416	Bioinformatics	-47
+5		0.9186	Irvine	running	0.9798	0.0225	-350	497	1624	2.0854	352	Bioengineering	964
+3	335 m^2	-0.5716	San Diego	soccer	0.3968	0.6564	1471	-144	978	-0.1778	1604	Biotechnology	2
+2	535 m^2	0.878	Santa Ana	volleyball	0.8932	0.6156	-283	578	1803	1.7166	1347	Statistics	-913
+0	1496 m^2	0.3739	Los Angeles	ice hockey	0.4842	1.2259	-379	945	-1600	2.2772	1468	Statistics	2407
+1	1047 m^2	0.7151	Santa Clarita	motor sports	0.8329	-1.0092	-583	-518	-549	1.5499	391	Computer Science	530
+4	None	-0.2433	Moreno Valley	badminton	-0.68	0.6006	1138	362	2402	1.0787	-396	Human Computer Interaction	455
+3	-658 m^2	0.2466	San Bernardino	basketball, soccer	-0.4087	0.5214	780	731	-270	-0.1258	-327	Biotechnology	1030
+2	632 m^2	0.0198	Santa Ana	baseball	0.0285	1.1187	1383	1341	1303	2.6917	1217	Statistics	77
+2	1687 m^2	0.9331	Bakersfield	volleyball	0.8111	1.5686	989	2293	386	3.1197	578	Bioinformatics	126
+4	227 m^2	0.2846	Moreno Valley	TRACK & FIELD	0.2811	1.7893	-266	869	223	1.7621	1572	Computational Media	2021
+3	NULL	0.0301	San Bernardino	basketball	1.2015	1.3064	2025	-329	2210	0.3968	1028	Bioengineering	496
+0	1739 m^2	1.6969	Los Angeles	Ice Hockey	1.0888	1.4803	-1337	1678	598	?	696	Data Science	325
+5	-306 m^2	0.4323	Sacramento	golf	0.1213	0.5737	699	1244	-1156	0.4736	1113	Natural Language Processing	670
+4	482 m^2	1.5079	Fresno	track & field	0.8778	0.0782	667	113	122	-0.0769	877	Human Computer Interaction	-1505
+1	2071 m^2	0.7883	Santa Clarita	motor sports	0.7533	0.5671	656	542	349	0.2101	1019	Computer Science	92
+5	79 m^2	?	San Diego	running	0.934	1.2577	-1482	-1430	140	2.568	-434	Games and Playable Media	-1565
+3	-928 m^2	-0.3507	San Bernardino	soccer, basketball	0.0786	0.9844	283	-503	1910	-0.3373	931	Technology and Information Management	-4
+1	1219 m^2	0.5418	Santa Clarita	motor sports	2.7001	0.3293	1404	942	2704	0.7751	196	Computer Science	343
+1	1391 m^2	0.6077	None	baseball, volleyball	-0.2555	1.6441	924	114	974	-0.0606	1164	Computer Science	133
+5	1355 m^2	-0.4893	Long Beach	golf	0.4339	-0.1385	1217	-1084	540	1.1864	668	Natural Language Processing	530
+3	-238 m^2	1.1772	San Bernardino	basketball	0.843	1.5328	1184	22	-380	0.5671	868	Technology and Information Management	1156
+5	716 m^2	0.7402	Long Beach	golf	0.8128	-0.0166	-575	-698	-341	-0.3895	-123	Electrical Engineering	471
+2	474 m^2	0.2901	sTOCKTON	baseball	1.9369	0.3839	-1014	509	1648	-0.64	1798	Statistics	-1089
+5	1782 m^2	0.1579	Irvine	running	0.083	-0.5509	384	370	-605	0.1375	1073	Electrical Engineering	43
+4	-66 m^2	0.2604	San Francisco	badminton	1.2613	0.9558	2225	375	1462	1.2741	-455	Human Computer Interaction	516
+3	445 m^2	0.2419	San Bernardino	basketball, football	0.086	1.4707	658	-810	247	0.5882	563	Computer Science	234
+0	249 m^2	1.1827	Riverside	ice hockey	2.4919	0.9311	591	789	594	0.0275	327	Data Science	929
+0	-183 m^2	1.6716	Fremont	tennis	-0.5082	0.8488	86	-438	463	-1.15	-35	Applied Mathematics	164
+4	125 m^2	1.2136	Moreno Valley	badminton	1.6172	1.3079	103	-217	3569	0.4698	1425	Human Computer Interaction	888
+5	-994 m^2	0.2027	Long Beach	running	2.2819	-0.8716	332	2780	1107	1.0437	1777	Natural Language Processing	-40
+1	943 m^2	0.844	Santa Clarita	volleyball, boxing	1.0844	1.0071	435	456	1070	-0.0075	108	Biotechnology	1366
+5	1095 m^2	1.0432	Irvine	running	0.7139	1.1412	-879	533	-1391	1.5398	77	Natural Language Processing	-543
+1	115 m^2	1.1237	None	motor sports	0.2649	1.2012	-1324	659	1996	0.5784	335	Computer Science	736
+5	1644 m^2	?	Sacramento	running	0.6896	0.3887	-255	1019	-830	0.2037	2515	Electrical Engineering	-235
+4	2006 m^2	0.1166	San Francisco	badminton	1.4179	0.7274	109	1166	-213	2.052	NULL	Human Computer Interaction	744
+2	1176 m^2	0.436	oakland	Baseball	-0.3646	2.8682	302	2190	414	-0.8079	1496	Statistics	451
+4	-174 m^2	2.5105	Fresno	badminton	1.921	1.6626	NULL	441	-1044	0.5308	-15	Human Computer Interaction	664
+3	843 m^2	0.3445	San Jose	soccer	1.8715	1.5367	1482	38	1745	-0.024	751	Biotechnology	28
+0	68 m^2	0.1645	cHULA vISTA	ice hockey	1.0048	1.0184	146	-32	674	-0.1771	498	Data Science	-924
+2	1443 m^2	-0.2429	Santa Ana	volleyball	1.5536	1.3429	2029	73	-241	-2.2084	783	Games and Playable Media	704
+2	-76 m^2	0.142	Santa Ana	boxing	0.0977	1.1934	309	217	389	0.9323	11	Statistics	106
+4	950 m^2	0.959	Moreno Valley	track & field	0.4151	0.5641	-109	76	396	1.006	-861	Human Computer Interaction	572
+1	655 m^2	1.2051	n/a	motor sports	-0.3803	0.8867	-250	1376	6	0.2143	1325	Computer Science	-1221
+2	-203 m^2	?	Moreno Valley	boxing	0.1002	0.0349	-921	1190	502	0.8105	245	Games and Playable Media	-358
+2	144 m^2	0.8377	Santa Ana	boxing, baseball	-1.3209	0.2443	1659	1223	323	0.8216	453	Statistics	254
+5	410 m^2	-0.2121	Irvine	golf	0.8256	1.0818	180	1159	539	-0.2028	-546	Natural Language Processing	229
+0	314 m^2	0.998	Fremont	ice hockey	0.1419	-0.0554	-1	-734	2161	1.2319	-371	Computer Engineering	-1195
+4	1498 m^2	0.8904	Moreno Valley	track & field	0.0818	0.0438	-60	175	895	-0.318	-841	Bioinformatics	457
+2	-928 m^2	0.843	Oakland	volleyball, boxing	-1.0964	-0.0596	481	1213	1768	1.6907	1103	Games and Playable Media	-536
+0	-199 m^2	0.0254	Fremont	ICE HOCKEY	0.8615	0.617	894	1272	-290	-1.3281	662	Computational Media	435
+1	2519 m^2	0.9946	Santa Clarita	motor sports	1.1912	0.4264	491	2858	-183	1.7785	549	Computer Science	-202
+4	909 m^2	-0.6408	Fresno	track & field	-0.4166		575	1099	597	0.4831	1418	Human Computer Interaction	-671
+4	746 m^2	0.0891	Moreno Valley	badminton	0.6339	0.785	-1177	637	-158	-0.628	686	bIOINFORMATICS	-367
+0	-281 m^2	0.8918	Chula Vista	Tennis	0.2763	0.3033	-167	56	1374	0.2967	1236	Computational Media	59
+4	-514 m^2	0.0739	Anaheim	badminton	-0.6855	0.9949	937	715	2663	1.3583	305	Bioinformatics	569
+1	-309 m^2	1.3823	Santa Clarita	motor sports	-0.1085	-0.9324	1594	-876	1256	0.338	77	Computer Science	-1338
+0	221 m^2	1.5651	Los Angeles	tennis	0.9408	0.3339	672	772	595	0.6476	107	Bioinformatics	983
+1	1110 m^2	0.3827	Santa Clarita	motor sports	0.3102	0.118	2611	-783	-708	-0.2784	296	Computer Science	753
+5	1540 m^2	-0.3655	Long Beach	running	0.1442	0.4649	-330	-848	818	-0.2068	-85	Natural Language Processing	19
+1	741 m^2	0.6949	Santa Clarita	motor sports	1.9404	0.0212	-9	-247	839	-1.2619	2722	Computer Science	-12
+0	880 m^2	0.3077	Los Angeles	ice hockey	0.419	0.7724	-224	936	357	2.5783	1968	cOMPUTER eNGINEERING	-1132
+2	-79 m^2	0.4204	Stockton	baseball	-0.9467	1.0794	614	490	-23	1.7478	-361	Statistics	-787
+1	1146 m^2	1.4724	Santa Clarita	motor sports	0.0688	-0.0075	769	1241	1678	0.6103	2922	Computer Science	-13
+0	-199 m^2	0.4925	Chula Vista	ice hockey	1.2698	0.4906	-611	-1001	945	1.5513	-356	Computer Engineering	-1
+0	844 m^2	0.4556	Fremont	ice hockey	-0.117	0.8624	-1733	446	108	1.9583	-667	Applied Mathematics	-235
+2	1288 m^2	-0.2934	Oakland	baseball, boxing	-0.9255	0.8603	1332	-289	3092	1.3233	1653	Statistics	174
+3	677 m^2	0.7505	Modesto	soccer	-0.9327	0.3939	2162	81	691	0.2317	-115	Robotics Engineering	980
+2	726 m^2	0.2977	Oakland	volleyball	1.0745	0.3934	1429	-1040	1228	0.9689	385	Statistics	868
+5	882 m^2	-0.2703	Irvine	golf	1.5796	1.0884	-1498	1007	-8	1.075	1095	Natural Language Processing	-442
+3	-459 m^2	-0.6308	San Jose	football, soccer	1.9939	1.005	313	-200	1566	0.9637	17	Technology and Information Management	892
+0	2061 m^2	0.0633	Riverside	tennis	0.0081	1.9358	1032	399	-266	0.0309	126	Computer Science	400
+2	578 m^2	0.4659	Stockton	baseball, boxing	-0.4179	0.7085	3419	1743	-113	1.3105	-426	Games and Playable Media	-223
+3	327 m^2	0.078	San Jose	football	2.6833	0.4885	1544	-923	1724	0.5349	1678	Robotics Engineering	670
+1	2132 m^2	0.3484	Santa Clarita	motor sports	-0.4307	1.1099	950	32	1918	1.7414	-96	Computer Science	1240
+1	512 m^2	1.9385	Santa Clarita	motor sports	0.0437	-0.4912	-48	1220	2054	0.033	-138	Technology and Information Management	-414
+3	-405 m^2	-1.0449	San Diego	FOOTBALL	1.3014	-0.0399	1500	2078	2302	0.5229	1721	Robotics Engineering	92
+5	449 m^2	-0.5233	Sacramento	running	-0.4031	-0.5584	-1700	-1687	-164	-1.3629	507	Bioengineering	715
+1	473 m^2	2.4931	Santa Clarita	motor sports	1.1831	1.3858	509	1334	383	-1.2333	1521	Computer Science	-74
+5	667 m^2	-0.2989	Long Beach	golf	-0.1972	0.6564	-112	-784	-1397	0.2238	1485	Games and Playable Media	10
+3	-461 m^2	-0.6563	San Diego	Soccer	0.6299	0.2769	1169	-1075	960	-0.004	1059	Bioengineering	-1069
+0	-1576 m^2	-0.1375	Riverside	tennis	0.2223	0.3267	-152	3160	-68	0.3657	296	Computer Game Design	-820
+2	1666 m^2	-0.6619	Santa Clarita	boxing, volleyball	0.0735	-0.2931	-92	1765	1009	0.8676	2031	Games and Playable Media	-349
+0	148 m^2	0.7774	Riverside	ice hockey	-0.127	1.0892	-1110	2357	-791	-0.7316	1517	Statistics	532
+3	726 m^2	-0.0845	San Jose	basketball	0.4158	0.8951	1278	280	-206	1.3269	151	Biotechnology	485
+2	-70 m^2	0.9566	Stockton	volleyball	-0.4161	1.3142	1567	2448	1147	-0.3396	2321	Games and Playable Media	300
+4	1591 m^2	1.2699	San Francisco	badminton	0.2915	0.4558	576	-276	854	0.6623	1094	HUMAN COMPUTER INTERACTION	1171
+3	353 m^2	0.0047	Los Angeles	football, soccer	1.158	0.3791	586	239	1053	0.5899	982	Robotics Engineering	86
+4	576 m^2	-0.346	Anaheim	badminton	0.0908	0.5381	1411	-370	2521	0.9887	1285	Statistics	765
+5	790 m^2	-0.9377	Long Beach	golf	-0.661	0.8944	268	71	1655	-0.0038	851	Biotechnology	-668
+2	1017 m^2	-0.9401	Bakersfield	baseball	-0.707	0.7858	-192	1468	2152	-0.0631	878	Statistics	-177
+5	528 m^2	-1.1331	Irvine	golf	0.3302	-0.707	-858	-1895	764	-1.4635	1992	Electrical Engineering	-355
+2	-8 m^2	0.5482	Oakland	boxing	-1.0891	1.0362	1035	1364	1441	1.347	-461	Computer Science	-508
+2	157 m^2	-0.4036	Oakland	baseball	-0.2303	0.8821	1119	2783	1579	-1.4144	-769	Games and Playable Media	1025
+5	162 m^2	1.9608	Long Beach	golf	1.7685	1.4198	255	674	299	2.0087	1081	Natural Language Processing	-342
+2	738 m^2	-0.2525	Oakland	boxing, volleyball	0.1418	0.0534	242	1543	1676	-0.2524	275	Human Computer Interaction	959
+2	1950 m^2	1.3954	Santa Ana	volleyball, baseball	1.3765	1.9899	1783	1245	1838	1.0258	787	Statistics	442
+1	574 m^2	1.522	Modesto	motor sports	0.3303	0.7748	241	-228	2344	-1.5899	2350	Computer Science	-438
+2	-600 m^2	1.4102	Long Beach	baseball, boxing	0.1765	2.0552	772	1769	-1514	2.0563	1429	Statistics	616
+3	-134 m^2	0.3088	San Diego	football, soccer	0.2201	0.4263	1470	2231	601	0.8338	1033	Biotechnology	-403
+1	-651 m^2	1.2084	Bakersfield	motor sports	1.0109	1.6008	275	326	33	-0.2418	254	Computer Science	-861
+3	1146 m^2	-0.7533	Modesto	football, basketball	-0.2038	1.3767	-109	269	946	-0.0761	-180	Biotechnology	617
+1	1683 m^2	1.338	Santa Clarita	motor sports	-0.2586	0.7334	1292	568	?	0.8463	143	Computer Science	1099
+1	735 m^2	1.5379	Santa Clarita	motor sports	-0.731	1.6744	549	1078	-302	-1.4427	-915	Computer Science	-657
+5	1961 m^2	-0.8555	Sacramento	golf	0.8396	0.401	419	1834	1412	1.9181	1353	BIOENGINEERING	715
+3	-1250 m^2	1.1031	San Bernardino	soccer	0.3735	0.5825	-777	1011	1915	0.2025	229	Biotechnology	-280
+4	828 m^2	0.4809	Chula Vista	track & field	0.3617	-0.0095	764	3460	858	0.4359		Bioinformatics	111
+0	365 m^2	2.5404	Chula Vista	ice hockey	0.8826	0.2459	108	NULL	66	-0.2688	230	Data Science	-1901
+1	296 m^2	0.8698	Santa Clarita	motor sports	1.9943	0.7844	1118	1519	2119	-0.1274	1340	Computer Science	None
+3	618 m^2	0.8736	San Jose	soccer, football	?	0.1491	806	-298	697	1.1609	351	Technology and Information Management	269
+2	-85 m^2	0.6861	Bakersfield	badminton	0.2252	1.5907	523	1714	1313	1.2367	288	ELECTRICAL ENGINEERING	-271
+5	992 m^2	-0.7659	Long Beach	golf	0.6566	0.6785	220	-68	-486	-0.6805	558	Bioengineering	137
+5	1988 m^2	-0.1279	Sacramento	running	-0.4201	1.2957	196	-1013	510	-0.556	-43	Bioengineering	451
+4	330 m^2	-1.0462	Anaheim	track & field	0.0421	0.4055	67	1975	299	0.9328	536		304
+3	1330 m^2	0.6666	Modesto	basketball	0.1122	0.1189	-261	416	1726	-0.1038	558	Robotics Engineering	-197
+5	699 m^2	0.2284	Sacramento	golf	0.8313	-0.112	NULL	-180	-324	1.2655	1223	Natural Language Processing	894
+1	-132 m^2	-0.1408	Chula Vista	motor sports	0.3592	0.528	-120	1218	-582	1.3723	-409	Computer Science	445
+3	-1049 m^2	1.2937	Santa Clarita	soccer	0.3293	0.6435	62	455	176	0.6003	-397	Robotics Engineering	-1011
+0	1362 m^2	2.4525	Fremont	tennis	0.5187	0.0196	-1967	-505	-539	1.3527	-396	Computer Engineering	108
+0	-65 m^2	0.8309	Riverside	ice hockey	-0.4345	-0.1709	745	2024	49	0.4303	3296	Computer Game Design	-507
+3	-889 m^2	0.2464	San Jose	football, basketball	0.362	0.5463	1653	1251	1074	-1.4883	1698	Biotechnology	-400
+5	686 m^2	0.2947	Sacramento	golf	1.2737	1.5746	1467	43	-756	1.1455	2409	Computer Science	714
+3	318 m^2	0.9522	San Jose	basketball, soccer	1.0067	0.9971	817	-846	-314	-0.6669	-655	Biotechnology	604
+0	-920 m^2	-0.9038	Chula Vista	ice hockey	n/a	1.3936	-726	579	-2088	2.1616	683	Data Science	534
+2	-32 m^2	-0.7001	Bakersfield	volleyball, boxing	1.8418	0.9818	1957	-307	1549	2.2101	620	Games and Playable Media	596
+4	2477 m^2	1.2389	San Francisco	track & field	-0.3356	-0.2786	768	-648	295	0.0719	616	Human Computer Interaction	589
+4	1883 m^2	0.7349	Anaheim	badminton	0.122	0.731	478	252	1313	-0.4427	226	Bioinformatics	-700
+0	864 m^2	0.1751	Fremont	ice hockey	2.0856	0.2034	-182	159	-730	-0.9595	-235	Computational Media	835
+3	1977 m^2	2.2798	San Diego	basketball, football	2.0361	1.4129	-638	1727	-922	0.926	-431	Technology and Information Management	-284
+0	-718 m^2	1.9963	Los Angeles	tennis	0.7655	-0.0413	-66	4018	345	0.3236	1694	Games and Playable Media	440
+2	654 m^2	-0.4437	stockton	boxing, volleyball	-1.2286	0.9873	1626	-816	346	0.1867	1741	Games and Playable Media	-605
+2	620 m^2	0.6225	Stockton	volleyball, boxing	0.686	1.1041	615	-210	2308	0.2173	958	Statistics	920
+3	-653 m^2	0.0362	San Bernardino	basketball, football	-0.3031	0.2703	576	1402	1378	0.6129	-769	Robotics Engineering	993
+5	1105 m^2	0.0635	Sacramento	running	-0.8909	0.7793	-856	1400	-442	0.1648	1047	Natural Language Processing	644
+1	-817 m^2	0.9903	Santa Clarita	motor sports	-0.2521	1.1105	-861	-95	-816	1.0426	1579	Computer Science	251
+1	-680 m^2	0.7698	Santa Clarita	motor sports	0.5391	1.155	-437	19	1131	-0.2538	869	Robotics Engineering	471
+5	-123 m^2	0.0255	Long Beach	running	0.6236	1.5454	955	848	-1954	2.657	820	Electrical Engineering	1004
+5	1616 m^2	0.9284	Stockton	Running	-0.1823	0.1101	22	-842	-1337	1.2172	137	ELECTRICAL ENGINEERING	-795
+3	154 m^2	0.316	San Bernardino	football	1.4037	0.4925	639	291	1904	-0.3291	-206	Robotics Engineering	1690
+3	746 m^2	0.4361	San Diego	football, soccer	0.9456	1.1473	-875	1538	1398	2.0707	-168	Biotechnology	1256
+3	2246 m^2	0.3482	San Jose	football, soccer	1.0661	0.1316	1087	-608	1224	0.4183	-1152	Biotechnology	447
+5	1185 m^2	0.7811	Sacramento	running	-0.1633	-0.3465	-693	106	330	0.5751	1181	Natural Language Processing	235
+5	257 m^2	0.6179	Sacramento	running	0.3451	-0.3173	245	1918	-1977	0.2126	1157	Bioengineering	474
+4	-1069 m^2	0.0205	San Francisco	badminton	1.2351	1.3453	555	1942	1199	1.9205	817	Bioinformatics	-342
+3	612 m^2	0.8655	San Diego	soccer, basketball	0.4931	2.2166	1232	57	-534	0.9877	1270	Technology and Information Management	-33
+0	1197 m^2	0.7436	Riverside	ice hockey	-0.675	0.7771	1080	1869	56	2.7276	6	NULL	-1358
+1	1156 m^2	1.1192	Santa Clarita	motor sports	1.0248	-0.6808	-340	1976	1496	-0.5753	1926	Computer Science	-2
+3	631 m^2	-0.359	San Diego	soccer, football	0.7233	0.4794	1512	188	1076	0.4688	859	Biotechnology	-86
+5	1587 m^2	-0.4003	Sacramento	N/A	-0.5527	0.2	1755	-474	-355	-1.7175	1058	Electrical Engineering	618
+2	448 m^2	-1.5767	Bakersfield	volleyball, baseball	0.4182	0.259	1031	1499	1305	0.6779	1023	Games and Playable Media	-417
+5	2904 m^2	0.1031	Sacramento	running	-0.2338	0.0368	-943	-2472	-922	0.6237	489	Natural Language Processing	-603
+1	2745 m^2	0.084	Santa Clarita	motor sports	1.2256	0.3999	-842	1339	1783	-1.2175	248	Computer Science	-432
+4	1674 m^2	1.8052	mORENO vALLEY	badminton	0.5109	-0.5646	407	-512	152	-1.6629	1056	Bioinformatics	2132
+5	1402 m^2	0.9915	Long Beach	golf	-0.4937	-0.2109	-770	1258	-579	-0.0081	783	Bioengineering	29
+5	981 m^2	-0.2944	Sacramento	running	-0.5491	?	528	2302	-258	0.583	1270	Natural Language Processing	971
+3	-916 m^2	0.8631	San Jose	soccer, football	-0.8071	0.3783	2384	397	549	1.0661	708	Biotechnology	-716
+1	1200 m^2	1.9678	Santa Clarita	motor sports	0.3911	0.1244	424	-718	1656	2.0615	-809	Biotechnology	-57
+2	779 m^2	N/A	Oakland	baseball	-0.837	1.2144	484	695	224	2.0847	1050	Games and Playable Media	-577
+5	1148 m^2	1.398	Irvine	running	1.0642	0.4372	-47	-591	-242	0.056	1117	nATURAL lANGUAGE pROCESSING	86
+1	78 m^2	2.0053	San Bernardino	motor sports	0.7668	1.4101	457	1037	703	0.9363	1319	Computer Science	538
+5	154 m^2	-0.7272	sACRAMENTO	running	0.8479	0.0776	1520	-2206	-1014	2.1307	1177	BIOENGINEERING	634
+1	30 m^2	-0.0146	Santa Clarita	motor sports	1.7242	-0.0325	1179	498	1659	-0.2616	897	Computer Science	805
+2	-163 m^2	0.5882	Bakersfield	BASEBALL, VOLLEYBALL	-0.6392	0.6745	1006	-377	1841	1.2676	1113	Statistics	-769
+5	1826 m^2	0.2044	Long Beach	golf	0.2452	0.1449	-1055	488	417	0.3294	-286	Natural Language Processing	-778
+5	242 m^2	0.1672	Long Beach	golf	0.2108	0.5459	-1144	-1173	1433	0.203	886	Natural Language Processing	1007
+4	-539 m^2	0.9898	Moreno Valley	motor sports	-0.0757	0.4688	1041	574	444	0.4657	1217	Bioengineering	-1116
+1	-966 m^2	0.4234	Santa Clarita	motor sports	1.1017	0.0447	494	966	1184	0.0226	1031	Computer Science	388
+5	2589 m^2	-0.6689	Long Beach	golf	0.8287	-0.0055	-497	-1702	434	0.7274	1471	Bioengineering	496
+0	2756 m^2	1.3163	Fremont	tennis	-0.7956	1.8035	489	-981	1047	0.5156	519	Data Science	1183
+2	1564 m^2	0.5984	Oakland	boxing	1.1698	-0.1703	1869	775	-354	0.6085	202	Statistics	-110
+2	194 m^2	0.1524	Santa Ana	volleyball, baseball	0.0838	0.0942	1279	-25	-1376	-0.2697	2246	Games and Playable Media	114
+4	2134 m^2	1.8802	Moreno Valley	badminton	-0.3764	1.226	1146	473	1792	2.9583	811	Games and Playable Media	n/a
+4	-404 m^2	0.8328	San Francisco	badminton	-0.824	0.4227	842	244	329	0.2633	-494	Human Computer Interaction	1356
+3	-158 m^2	0.0557	San Bernardino	football, basketball	0.708	1.8024	2793	-78	1449	1.0214	1592	Technology and Information Management	1118
+3	62 m^2	-0.0102	Modesto	football, soccer	-0.0181	0.4174	164	262	899	1.9086	358	Technology and Information Management	-292
+2	1600 m^2	0.073	Stockton	volleyball	0.2612	0.6721	1364	-239	?	0.9022	402	Statistics	-197
+4	-973 m^2	0.4946	San Francisco	running	-0.3021	0.5679	1298	-346	1022	0.8819	250	Human Computer Interaction	667
+3	-809 m^2	1.4611	Modesto	football	2.6551	0.8626	1134	934	-168	1.0862	423	Biotechnology	-360
+3	108 m^2	-0.0429	San Diego	football	0.2046	1.0094	903	-492	1953	1.0794	697	Technology and Information Management	-670
+0	-37 m^2	1.4395	Chula Vista	?	1.1114	-0.4424	-1026	1691	-87	0.8438	2370	Applied Mathematics	-518
+5	436 m^2	0.7357	Long Beach	golf	0.767	0.4217	254	2080	-334	0.8936	1123	Bioengineering	-844
+2	2940 m^2	0.2007	Santa Ana	volleyball	-0.2703	0.7923	676	1534	53	0.8157	1248	Statistics	326
+3	-371 m^2	1.7767	San Bernardino	football	0.5976	1.4015	-327	-964	2616	n/a	652	Biotechnology	610
+1	939 m^2	0.5228	Santa Clarita	motor sports	0.2579	1.0536	-142	1588	-428	0.1526	892	Computer Science	3
+0	226 m^2	1.9513	Irvine	ice hockey	-1.2097	0.28	182	1736	417	0.3928	1179	Computer Engineering	1481
+3	-179 m^2	-0.7677	Modesto	basketball	-0.3247	0.4925	646	-88	-317	1.4728	1226	Technology and Information Management	2002
+4	202 m^2	1.1663	Moreno Valley	track & field	0.805	-0.0622	2314	1030	1648	-0.6425	599	Bioinformatics	53
+1	-121 m^2	0.4389	Santa Clarita	motor sports	-0.054	-0.3944	-291	1077	1675	1.433	1051	Computer Science	619
+1	-99 m^2	-0.6497	Santa Clarita	motor sports	0.8286	1.0501	764	-115	1428	0.0014	788	Computer Science	-189
+1	-560 m^2	0.8827	Santa Clarita	motor sports	2.134	1.0791	-749	765	402	-0.9995	337	Computer Science	-79
+0	3 m^2	-0.4107	Fremont	tennis	1.2467	0.1238	-1738	1628	-87	2.2354	1094	Computer Engineering	232
+5	1395 m^2	0.1677	Long Beach	running	0.032	-0.462	2110	487	22	-0.439	853	Bioengineering	-550
+1	353 m^2	0.9156	Santa Clarita	motor sports	0.7415	1.3064	-479	2385	2001	0.3845	1403	Computer Science	587
+4	-968 m^2	1.8475	Fresno	badminton	0.0937	0.3343	1086	782	567	1.5915	2552	hUMAN cOMPUTER iNTERACTION	374
+5	479 m^2	1.0469	sacramento	running	0.463	0.9735	-766	1663	-494	-0.763	863	Bioengineering	248
+5	590 m^2	0.2633	Long Beach	golf	0.247	-1.2825	-665	1002	1603	1.2253	156	Bioinformatics	726
+4	1298 m^2	1.8828	San Francisco	track & field	0.7749	1.0112	537	2228	1185	0.6656	597	Human Computer Interaction	875
+4	17 m^2	-0.1745	San Francisco	track & field	0.4246	0.7383	539	-1069	2674	0.1658	633	Bioinformatics	963
+2	101 m^2	0.518	Oakland	Baseball, Volleyball	-0.0698	0.3788	1926	1633	2045	0.7945	-960	Statistics	-594
+0	733 m^2	-0.3221	Riverside	tennis	2.4754	-0.059	-37	192	778	-0.2576	107	Computational Media	810
+2	1970 m^2	-0.6518	Stockton	baseball, boxing	-0.6786	-0.4907	240	1185	1693	1.1376	649	Bioinformatics	-915
+5	-325 m^2	-0.2029	Irvine	golf	0.2519	-0.1915	333	862	-1250	0.5935	1560	Electrical Engineering	948
+1	974 m^2	1.2828	Santa Clarita	motor sports	0.3906	0.8821	834	-51	466	-0.0437	556	Computer Science	-401
+5	1722 m^2	0.2776	Long Beach	running	-0.2654	0.3146	610	-1866	0	0.2957	445		396
+0	419 m^2	-0.3094	Los Angeles	ice hockey	1.6849	1.763	-1346	-1509	-404	1.2188	880	Computer Engineering	-694
+1	880 m^2	0.5773	Santa Clarita	motor sports	0.8387	1.5033	275	-756	602	0.5032	304	Computer Science	-394
+0	-247 m^2	1.5232	None	ice hockey	0.8312	1.3608	-1712	468	450	2.0305	-166	Computer Engineering	285
+2	1806 m^2	-0.0129	Santa Ana	volleyball	0.2838	-0.0845	-528	-77	329	1.873	853	Games and Playable Media	1359
+4	1387 m^2	1.0792	San Francisco	badminton	0.2015	0.4897	-33	545	462	0.8214	889	Bioinformatics	-507
+1	1017 m^2	0.9236	Santa Clarita	motor sports	-0.2697	0.5824	817	698	1504	1.3401	891	Computer Science	693
+1	634 m^2	-0.3063	Santa Clarita	motor sports	0.0011	0.7435	1010	1616	740	0.8628	1527	Computer Science	830
+1	1914 m^2	0.4091	Santa Clarita	motor sports	1.5799	0.0444	382	2475	3461	-1.4533	n/a	Computer Science	278
+5	-594 m^2	-1.1151	Sacramento	running	-0.7895	0.4856	651	563	-326	-0.0954	2383	Electrical Engineering	-58
+5	1434 m^2	0.0092	Sacramento	running	0.719	0.4172	-824	-198	1029	2.5773	624	Bioengineering	-596
+5	696 m^2	0.8294	Irvine	golf	1.5433	0.6606	877	1220	-652	0.1116	1604	Bioengineering	-245
+4	24 m^2	2.2586	Anaheim	Track & Field	1.6219	-0.5722	1023	-923	2011	3.0092	-1214	Bioinformatics	348
+0	-340 m^2	-0.531	Chula Vista	ice hockey	0.5984	0.92	514	484	481	-1.6701	1142	Computer Science	71
+0	1190 m^2	0.5963	Los Angeles	ice hockey	2.2589	1.301	651	-428	941	1.1997	268	Computer Game Design	574
+4	1100 m^2	1.1595	Fresno	badminton	-0.8389	0.6878	839	-253	1372	0.9225	299	Games and Playable Media	-1171
+1	2040 m^2	0.691	Santa Clarita	motor sports	0.1761	0.3774	991	499	1789	0.2853	1557	Computer Science	-574
+1	1374 m^2	1.2045	Santa Clarita	motor sports	0.1145	0.8021	852	-1586	1264	0.1581	817	Computer Science	800
+3	1267 m^2	0.281	San Diego	basketball, football	0.5665	0.7918	-927	578	935	1.142	729	Biotechnology	195
+5	0 m^2	1.2512	Sacramento	golf	-0.6236	-0.4317	59	1903	373	0.6739	1371	Statistics	-74
+3	-833 m^2	0.4712	Modesto	soccer, football	1.0229	1.2537	2184	-1	1846	-0.8046	1206	N/A	833
+2	750 m^2	0.7666	Bakersfield	volleyball, baseball	0.478	1.1273	1445	1086	534	n/a	56	Statistics	2681
+1	1401 m^2	1.8963	sANTA cLARITA	motor sports	-0.5202	0.5892	677	-451	1727	1.3397	1167	Computer Science	-397
+4	163 m^2	1.138	Moreno Valley	badminton	0.8151	1.4102	2197	-5	1014	0.5005	198	Human Computer Interaction	1323
+5	512 m^2	0.1711	Irvine	running	1.3227	0.5277	538	100	84	0.7234	1158	Games and Playable Media	-229
+5	1231 m^2	-0.9795	Long Beach	running	-0.7944	-0.5549	-1016	1544	1655	0.4769	-55	Bioengineering	-461
+5	1236 m^2	0.3233	Long Beach		1.6267	0.6296	-160	1165	-1505	1.4795	1175	Electrical Engineering	-39
+1	756 m^2	-0.4991	Santa Clarita	motor sports	2.1015	0.5033	143	1535	245	0.3557	705	Computer Science	210
+0	-843 m^2	0.5902	Chula Vista	tennis	1.2601	1.6759	-1853	483	402	1.0866	135	Data Science	134
+5	363 m^2	0.1196	Long Beach	running	-0.045	-0.2946	502	507	288	-0.283	1590	Natural Language Processing	-1104
+3	-128 m^2	0.3978	San Diego	football, soccer	1.6028	0.3545	80	-1520	-168	0.8548	334	Technology and Information Management	620
+2	-955 m^2	0.3135	Bakersfield	soccer, football	0.0644	0.309	-47	1467	2334	0.0181	201	Statistics	-609
+4	1647 m^2	-0.1051	Fresno	track & field	-0.1948	0.5103	979	599	-389	-1.1049	-1747	Biotechnology	-48
+4	2537 m^2	-0.4705	Moreno Valley	BADMINTON	0.8488	-0.3333	1273	1090	1104	-1.065	87	Human Computer Interaction	22
+3	44 m^2	-0.3183	San Jose	basketball	0.7859	-0.3745	64	-1108	666	0.2127	-899	Biotechnology	383
+1	1 m^2	0.6584	Santa Clarita	motor sports	0.1464	0.9713	193	512	1178	1.0085	429	Computer Science	216
+4	538 m^2	-0.0347	San Francisco	track & field	-1.7653	0.9078	2469	-26	-342	2.1093	774	Bioinformatics	530
+2	564 m^2	0.9987	Oakland	baseball	1.1029	0.9955	971	1448	2461	0.0942	2327	Human Computer Interaction	-292
+1	2035 m^2	1.7167	Santa Clarita	motor sports	-1.0196	-0.1416	3502	1138	-165	-0.4206	-129	Computer Science	316
+0	-621 m^2	0.9533	Fremont	tennis	-0.4858	-0.2226	995	2089	1215	0.1858	-795	Computer Game Design	-817
+2	2446 m^2	-0.7973	Oakland	baseball, boxing	2.2473	-0.0365	715	468	993	2.2219	-893	Statistics	421
+0	-771 m^2	1.5211	Los Angeles	ice hockey	-0.0262	1.5343	365	-1585	678	1.6376	478	Computer Engineering	782
+5	697 m^2	-0.301	Irvine	golf	1.0708	0.0586	737	-1561	-733	-0.1279	1891	Games and Playable Media	-27
+5	2163 m^2	1.3082	Sacramento	running	0.8932	-0.0972	934	-2615	378	0.925	556	Robotics Engineering	473
+3	258 m^2	0.5858	San Jose	soccer, basketball	1.0875	0.5373	1633	-131	1416	0.2566	563	Applied Mathematics	1903
+1	1660 m^2	1.002	Santa Clarita	MOTOR SPORTS	1.574	-0.1683	657	-316	1964	1.3921	832	Computer Science	389
+0	N/A	-0.2096	Riverside	ice hockey	0.4573	1.844	-363	1016	1935	1.5775	449	Computational Media	-364
+1	212 m^2	1.1414	Santa Clarita	motor sports	-0.7514	0.4877	-844	1893	-391	-0.133	1541	Computer Science	925
+5	-749 m^2	-0.2749	Sacramento	golf	1.7879	0.4334	1146	194	-879	0.5847	275	Electrical Engineering	-640
+0	11 m^2	0.865	Los Angeles	football, basketball	0.8515	-0.43	-825	1035	-768	0.1808	2175	Computer Engineering	633
+2	1592 m^2	-0.5261	Bakersfield	boxing, baseball	N/A	0.8935	2190	112	2401	0.58	1308	Natural Language Processing	183
+4	-383 m^2	0.6204	Moreno Valley	badminton	0.4294	0.5262	1309	1424	137	-0.5121	-548	Bioinformatics	1284
+2	1332 m^2	1.1272	Bakersfield	boxing	0.0939	2.3057	1634	336	1826	1.9059	768	Statistics	-569
+5	706 m^2	-0.7149	Irvine	RUNNING	1.3984	-0.2028	-454	-578	2057	0.3135	-357	Natural Language Processing	-564
+1	-553 m^2	1.4207	Santa Clarita	motor sports	-0.101	-0.1637	-604	1503	2515	0.1452	1991	Computer Science	-151
+1	483 m^2	0.6273	Santa Clarita	motor sports	0.8072	0.5771	1093	841	1066	0.3841	556	Computer Science	1069
+2	2123 m^2	0.0686	Stockton	boxing	2.5261	-0.3052	1452	-774	1746	0.389	1429	Games and Playable Media	300
+5	-136 m^2	0.251	Sacramento	golf	0.2129	0.2242	424	825	-1034	2.6257	1244	Electrical Engineering	1392
+3	1258 m^2	0.5191	San Bernardino	basketball	1.0095	1.2774	864	-398	2048	-0.7818	646	Technology and Information Management	-491
+4	451 m^2	0.7976	Anaheim	badminton	1.2244	-0.1428	-377	427	1305	-1.0372	-823	Human Computer Interaction	316
+5	1142 m^2	0.4622	Long Beach	golf	0.147	0.3703	-458	-2091	85	1.9576	857	Natural Language Processing	1506
+2	577 m^2	0.7445	Santa Ana	volleyball	0.4392	0.581	-534	508	919	-0.1297	2513	Electrical Engineering	100
+0	-505 m^2	1.4081	stockton	tennis	-0.1157	0.0496	294	-895	608	1.7278	1340	Computational Media	1022
+2	-551 m^2	1.6446	Bakersfield	boxing, baseball	0.7071	1.0236	-371	1720	1882	-0.7039	722	Statistics	67
+4	856 m^2	-0.3109	Fresno	badminton	-0.7824	1.2648	733	513	810	1.0764	853	Bioinformatics	1297
+1	961 m^2	0.9608	Santa Clarita	motor sports	0.5654	0.5708	445	196	749	0.5138	255	Computer Science	2044
+5	-400 m^2	-0.3371	Sacramento	running	0.6804	-0.1128	1563	-1755	557	0.5566	1730	ELECTRICAL ENGINEERING	-37
+0	-337 m^2	1.0393	Chula Vista	ice hockey	0.5811	0.8543	632	483	-412	0.9104	755	Applied Mathematics	-290
+2	173 m^2	-1.2748	Oakland	volleyball	-1.6079	1.1047	547	1312	617	0.7219	288	Games and Playable Media	1115
+4	1522 m^2	1.3539	San Francisco	badminton	0.0585	0.2037	2513	2104	388	-0.3779	551	Computer Science	-373
+3	662 m^2	1.7858	San Diego	football, basketball	0.323	0.5871	841	3202	1749	0.4692	1005	Biotechnology	1815
+1	506 m^2	1.3105	Santa Clarita	motor sports	None	0.3167	-85	-45	1643	-0.7949	2143	Computer Science	522
+3	1194 m^2	1.4554	San Diego	football, basketball	0.5101	1.0931	1490	594	1230	0.1621	2143	Biotechnology	-772
+0	1352 m^2	-0.0491	Chula Vista	ice hockey	-0.1157	0.2614	-209	2000	-408	-0.5459	960	Computer Engineering	857
+2	-252 m^2	0.1963	Oakland	boxing, baseball	-0.37	-0.0581	-1515	1958	151	-2.45	-71	Statistics	905
+5	1185 m^2	-0.7967	Sacramento	golf	2.1614	0.3456	-174	-1176	1347	-0.5514	576	Electrical Engineering	502
+5	NULL	0.2052	Long Beach	running	0.9143	-0.8865	1237	960	215	0.0832	2025	Bioengineering	1184
+2	673 m^2	-0.3484	San Francisco	boxing	0.4731	-0.0699	937	949	717	0.5348	834	Statistics	-494
+1	851 m^2	0.175	Santa Clarita	motor sports	1.8142	0.5413	-1069	-285	23	0.978		Computer Science	805
+5	1646 m^2	0.3626	Sacramento	running	0.8653	-0.2391	-453	659	827	0.4896	1925	Computer Science	-1091
+5	515 m^2	-0.8574	Long Beach	running	0.8504	0.3339	-254	56	-1396	1.1455	1092	Electrical Engineering	-744
+5	1060 m^2	-0.4153	Sacramento	running	-0.8002	0.1853	713	-149	1108	0.7965	536	Electrical Engineering	-1747
+2	1362 m^2	0.7934	Santa Ana	baseball	-0.2075	1.196	1854	1887	-817	0.8525	1434	Statistics	-490
+3	-6 m^2	0.1156	Modesto	baseball	0.1654	0.3267	1724	363	-789	1.1697	1116	Biotechnology	889
+3	-184 m^2	0.6049	San Bernardino	basketball, football	0.4037	1.1231	2633	1017	228	-1.4082	1522	Statistics	1448
+4	1042 m^2	1.4947	Fresno	badminton	0.7201	0.7401	842	2054	991	0.4803	1106	Human Computer Interaction	1763
+4	489 m^2	1.2332	n/a	badminton	1.0402	0.3959	1530	1307	484	0.3717	681	Bioinformatics	701
+3	1060 m^2	-0.4358	Santa Ana	basketball, football	0.0618	0.4164	276	-697	469	1.1438	1184	Biotechnology	-704
+2	2270 m^2	1.2902	Oakland	boxing	1.1926	0.3136	941	1028	579	0.8471	1758	Statistics	-640
+4	1064 m^2	2.2187	Anaheim	track & field	2.2109	0.6221	587	-1317	740	-0.2328	872	Bioinformatics	780
+2	1305 m^2	0.3154	N/A	boxing, baseball	-0.5599	0.7591	316	1071	698	1.1395	-621	Games and Playable Media	1442
+4	1065 m^2	?	Anaheim	badminton	-0.1132	0.3573	303	1527	-221	-0.6216	876	Human Computer Interaction	363
+5	1214 m^2	0.4007	Long Beach	golf	0.0952	0.5495	1290	283	960	1.4372	324	Bioengineering	1114
+3	513 m^2	0.554	San Bernardino	basketball	0.1585	1.0861	1688	45	1033	0.3692	-25	Robotics Engineering	386
+5	794 m^2	0.6622	Long Beach	running	0.9674	0.8183	-63	1978	841	-0.2493	282	Electrical Engineering	554
+4	666 m^2	1.1274	Moreno Valley	track & field	0.2166	0.5606	1350	1060	1129	3.003	-3	Human Computer Interaction	710
+5	89 m^2	-0.2462	Long Beach	golf	1.8004	0.4217	403	-171	-373	-0.6132	1331	Electrical Engineering	115
+3	923 m^2	1.3235	San Jose	soccer	1.667	1.1101	1301	1021	-2437	0.9309	-226	Robotics Engineering	115
+2	-32 m^2	0.3453	Santa Ana	boxing	0.5949	0.0112	958	-106	575	2.043	2392	Games and Playable Media	840
+1	1555 m^2	0.2767	Santa Clarita	motor sports	1.3452	0.6092	-374	-851	283	-1.2303	651	Computer Science	957
+5	-265 m^2	0.8811	Long Beach	golf	-0.4796	-0.7264	-794	1014	1503	0.1983	-265	Bioengineering	-16
+5	578 m^2	0.2677	Sacramento	golf	0.9445	-0.6635	-1321	1109	1686	0.4396	1769	Electrical Engineering	580
+2	1757 m^2	1.3511	Bakersfield	volleyball, baseball	0.0253	-0.4103	222	-532	1756	-0.641	2336	Games and Playable Media	560
+3	-383 m^2	-0.4125	San Jose	basketball	1.4131	-0.5184	1990	1146	-522	2.7144	-939	Biotechnology	217
+4	1114 m^2	0.3195	San Francisco	track & field	-0.8947	0.4805	978	2882	1788	0.7099	-742	Human Computer Interaction	978
+0	70 m^2	0.501	Fremont	tennis	1.4162	1.5342	365	-1122	345	0.2542	-41	APPLIED MATHEMATICS	-497
+0	-671 m^2	1.1028	Riverside	ice hockey	1.1909	0.7447	-880	2233	-760	0.454	1327	Bioinformatics	612
+5	1327 m^2	0.0087	Irvine	GOLF	-0.5438	0.0999	-1134	-86	1500	0.1413	-67	Electrical Engineering	48
+5	1788 m^2	1.5445	Long Beach	running	0.4889	1.0527	1367	1577	975	0.6959	248	Natural Language Processing	301
+4	-205 m^2	-1.2355	San Francisco	track & field	-0.3187	0.6608	624	369	2030	0.8067	1403	Bioinformatics	-247
+2	-391 m^2	2.071	Stockton	baseball, boxing	-0.5955	0.5725	906	604	1167	1.2122	448	Games and Playable Media	375
+2	-19 m^2	0.0526	Stockton	boxing	1.3819	0.5552	1217	-47	-241	-0.4702	-206	STATISTICS	-377
+0	1065 m^2	0.5353	Los Angeles	ice hockey	1.0045	0.3663	846	1786	-887	1.5287	208	Games and Playable Media	49
+3	600 m^2	-0.3829	San Jose	football	1.7502	0.2568	-914	719	3121	2.1265	813	Technology and Information Management	632
+1	633 m^2	1.5553	Santa Clarita	motor sports	0.066	1.6989	1859	488	1098	0.7013	855	Computer Science	-458
+4	967 m^2	0.7947	San Francisco	track & field	0.6763	0.7143	1086	844	-312	2.0114	1048	Bioinformatics	1279
+1	1669 m^2	1.9099	Santa Clarita	motor sports	0.2531	1.2405	-1282	809	658	0.7582	356	Computer Science	-489
+1	425 m^2	-0.1386	Santa Clarita	motor sports	-0.1952	-0.3923	1156	208	1311	-0.3592	-175	Computer Science	-322
+1	1203 m^2	0.5084	Santa Clarita	motor sports	-0.5199	1.1934	301	2088	450	0.7171	1803	Computer Science	-715
+3	141 m^2	-0.9424	San Bernardino	football	0.6348	1.1239	1632	81	760	0.4498	-1039	Biotechnology	-225
+3	945 m^2	-0.4542	San Jose	football, soccer	0.6644	0.4044	1981	-641	-100	0.4768	527	Robotics Engineering	38
+2	-797 m^2	0.5971	Oakland	volleyball, boxing	1.021	0.6325	1250	-259	1170	-0.6243	1995	Statistics	
+3	-1495 m^2	1.2646	San Diego	Soccer	-0.5798	1.5191	129	-504	1107	-0.0729	1845	Robotics Engineering	313
+4	416 m^2	1.2009	San Francisco	badminton	1.1021	0.2548	1004	23	60	0.81	-687	Bioinformatics	1852
+3	846 m^2	1.519	San Diego	soccer, football	0.2097	0.8274	1508	-918	1930	-0.5482	1224	Technology and Information Management	305
+4	456 m^2	1.8432	Anaheim	badminton	1.6112	-0.1365	867	-548	-29	-0.5681	76	Human Computer Interaction	1631
+0	452 m^2	1.3558	Los Angeles	tennis	-0.518	0.5949	268	2085	-1487	0.0693	481	Technology and Information Management	450
+5	1528 m^2	0.5729	Irvine	running	1.9677	0.1481	12	-225	-1048	0.2519	111	Bioengineering	-1394
+5	193 m^2	0.5047	Long Beach	golf	0.4396	1.5234	-148	-294	611	-0.397	-604	Natural Language Processing	1335
+3	-282 m^2	-1.1519	sAN bERNARDINO	football, basketball	0.2355	0.538	1012	202	-744	0.2255	124	N/A	1062
+1	-223 m^2	0.9231	Santa Clarita	motor sports	0.7896	1.2463	585	357	446	0.3144	285	Computer Science	-604
+2	2132 m^2	-1.7011	Santa Ana	baseball, boxing	1.7938	1.0377	761	972	296	1.4186	-173	Statistics	-725
+2	1451 m^2	0.3914	Santa Ana	volleyball, baseball	1.0151	1.5382	54	-65	745	0.5694	858	Statistics	96
+0	-307 m^2	0.5962	Riverside	tennis	-0.7393	1.6683	-137	1108	1125	1.4096	901	Applied Mathematics	293
+2	1532 m^2	0.7128	Oakland	baseball, boxing	0.2774	n/a	1098	316	2724	0.5023	817	Statistics	N/A
+4	484 m^2	1.2083	Moreno Valley	track & field	0.653	0.7014	2177	242	597	1.8032	-1600	Bioinformatics	-323
+0	-542 m^2	1.6064	Riverside	motor sports	0.5888	1.3739	-109	-50	-314	1.1904	1459	Data Science	-400
+2	-34 m^2	0.9415	Santa Ana	volleyball	-0.0221	-0.1418	-154	629	1449	0.3463	820	Games and Playable Media	235
+2	845 m^2	0.3468	Santa Ana	boxing, baseball	0.8093	0.0471	391	1460	1532	-1.0304	968	Statistics	-774
+4	80 m^2	2.1637	Anaheim	track & field	-1.1581	0.4313	190	-425	1219	-0.8473	987	Bioinformatics	182
+4	674 m^2	0.3908	San Francisco	track & field	-0.5444	0.2178	850	922	626	-0.4037	-211	Bioinformatics	521
+3	-1662 m^2	-0.6818	San Jose	soccer, basketball	0.4836	2.2203	1153	1390	816	-1.6135	-290	Robotics Engineering	-256
+1	1646 m^2	0.707	Santa Clarita	motor sports	1.4078	1.1341	-1153	-613	863	0.1111	2689	Computer Science	?
+2	-603 m^2	0.4868	Oakland	baseball, boxing	1.5402	1.4683	-256	1364	2088	1.1703	1753	Statistics	822
+1	871 m^2	-0.7083	Santa Clarita	motor sports	1.4225	0.5856	-85	-703	303	0.31	1179	Computer Science	-315
+3	-198 m^2	0.0702	Modesto	football	1.0328	1.0936	2036	-1353	519	0.71	398	Biotechnology	-109
+4	2415 m^2	1.6811	San Francisco	badminton	0.1077	0.2894	-655	1088	1423	1.6461	-1176	Computer Science	-196
+0	-12 m^2	1.5903	Fremont	tennis	0.8449	0.7599	552	826	282	0.7441	879	Applied Mathematics	1224
+5	1721 m^2	0.946	Stockton	running	0.9291	0.6604	-375	5	507	2.9381	2697	Applied Mathematics	137
+4	279 m^2	0.9451	Fresno	badminton	1.269	0.8294	627	2860	251	0.2647	-1224	Bioinformatics	1283
+3	11 m^2	-0.0503	MODESTO	football	0.2033	0.5626	-102	-1231	1552	1.4526	528	Robotics Engineering	209
+5	940 m^2	0.0726	Long Beach	running	0.7859	0.9659	1280	-73	613	1.0965	1266	Bioengineering	1124
+3	27 m^2	-0.075	San Bernardino	football	1.0185	1.1984	607	1794	1375	0.63	796	Technology and Information Management	232
+4	-379 m^2	0.8822	Fresno	badminton	0.021	0.5663	647	1346	1416	1.6606	50	Bioinformatics	-1
+0	327 m^2	1.1097	Riverside	tennis	-0.381	0.8015	439	-253	1125	0.9689	331	Data Science	833
+3	-482 m^2	1.1857	Modesto	soccer, basketball	1.5836	1.0013	762	1209	861	-1.082	136	Biotechnology	1467
+5	-2 m^2	0.6487	Irvine	golf	2.01	-0.4271	215	1331	-1995	0.7774	550	Electrical Engineering	-166
+3	219 m^2	0.3049	San Diego	BASKETBALL	1.9903	0.7246	507	-788	536	1.6934	556	Biotechnology	-895
+4	721 m^2	0.3457	San Francisco	track & field	0.0461	-0.6975	1367	-163	1551	0.7016	1159	Human Computer Interaction	-237
+5	329 m^2	1.2006	Long Beach	running	0.9033	0.6564	126	289	-743	0.8393	-150	Electrical Engineering	-858
+3	813 m^2	0.2605	San Bernardino	football, basketball	1.739	1.2384	None	1135	1717	0.0095	1963	Robotics Engineering	468
+0	539 m^2	0.4926	Anaheim	ice hockey	0.1938	0.0845	-185	1994	47	-0.4438	-90	Computer Engineering	1306
+0	590 m^2	1.3689	Riverside	ice hockey	0.4926	1.0843	-103	767	-53	-0.507	-345	Computational Media	-707
+4	-387 m^2	-0.8956	Fresno	badminton	-1.741	1.1342	541	197	600	0.8404	182	Human Computer Interaction	1959
+2	1403 m^2	0.471	Santa Ana	boxing, volleyball	-0.7602	None	1944	-101	1349	1.1186	483	Games and Playable Media	329
+2	1248 m^2	-0.6835	Santa Ana	baseball	-0.7429	0.865	-392	1327	1100	0.9397	1253	Statistics	-227
+5	223 m^2	0.8886	Long Beach	running	1.0583	-0.1638	738	342	471	0.9003	374	Electrical Engineering	-664
+3	-210 m^2	1.0589	Chula Vista	basketball	1.2429	-0.998	-10	249	11	1.0974	94	Robotics Engineering	1118
+5	661 m^2	-0.3551	Sacramento	running	1.6335	0.1089	-1064	-105	1966	1.9194	1196	Electrical Engineering	110
+2	32 m^2	0.2818	Stockton	baseball, boxing	0.2196	1.6366	-367	-1821	-520	-0.0935	946	Games and Playable Media	-386
+0	389 m^2	1.0902	Riverside	tennis	0.4687	0.2851	510	2949	756	1.5878	224	Technology and Information Management	-2188
+0	921 m^2	0.3945	Riverside	ice hockey	1.7084	0.6752	-968	629	-1616	0.0599	1182	Human Computer Interaction	-33
+0	1105 m^2	0.7022	Los Angeles	ice hockey	0.644	2.052	304	541	-598	0.732	-431	APPLIED MATHEMATICS	-366
+2	1697 m^2	0.7434	Oakland	volleyball	0.4911	0.9952	1829	244	-496		-906	Games and Playable Media	539
+4	-99 m^2	1.6041	Anaheim	badminton	1.2445	0.0663	-449	1602	None	0.619	145	Games and Playable Media	1052
+4	933 m^2	1.4186	Fresno	track & field	-1.5018	0.0872	1410	467	1463	1.2641	488	Human Computer Interaction	1161
+1	1378 m^2	1.385	Santa Clarita	motor sports	0.3274	1.164	-959	1224	1712	-0.7382	909	Computer Engineering	148
+3	-168 m^2	1.7404	San Diego	basketball	-1.0761	0.1336	-674	-490	802	-0.117	1349	Electrical Engineering	150
+2	1265 m^2	0.854	Santa Ana	baseball	1.1533	0.6702	1626	1025	-57	2.0398	1307	Games and Playable Media	-254
+0	617 m^2	0.2575	Los Angeles	tennis	-0.4148	0.7654	-999	481	-499	2.6162	1490	Applied Mathematics	-387
+4	1202 m^2	0.2198	Anaheim	track & field	-1.338	0.4902	-302	-725	1076	1.2737	508	Bioinformatics	365
+0	454 m^2	0.5256	Fremont	tennis	0.7855	0.5809	-5	1941	10	0.3685	-62	Computer Game Design	631
+1	-1233 m^2	1.2015	Santa Clarita	motor sports	1.2103	-0.0457	118	1066	1844	-0.112	382	Computer Science	-1987
+2	2263 m^2	1.7415	Bakersfield	baseball, boxing	1.7402		295	1253	767	-0.6852	723	Games and Playable Media	611
+1	315 m^2	1.0481	Santa Clarita	motor sports	-0.0929	0.4119	-1116	-811	2900	-0.1273	1403	Computer Science	978
+3	-221 m^2	0.1993	Modesto	football, soccer	0.5454	0.7458	1854	841	1684	1.891	694	Robotics Engineering	-70
+3	195 m^2	0.3292	San Diego	football	0.1047	0.2003	649	-2066	996	0.7553	359	Technology and Information Management	1398
+1	103 m^2	0.9552	Santa Clarita	motor sports	-0.3699	0.5908	354	2284	2651	1.4744	644	Computer Science	781
+3	1630 m^2	-0.247	None	football	0.4815	1.2417	1900	274	1813	1.156	356	Robotics Engineering	359
+2	316 m^2	0.1853	Bakersfield	boxing, volleyball	0.6706	1.5047	832	54	-294	2.5584	1263	Games and Playable Media	-793
+2	1391 m^2	-0.2368	Oakland	baseball, volleyball	-0.5118	1.6615	106	386	1119	1.251	718	Statistics	-365
+4	1050 m^2	1.3468	Fresno	track & field	-0.0183	0.0173	-54	107	436	0.7344	1162	Bioinformatics	-117
+4	2466 m^2	1.1569	Fresno	track & field	0.7313	-0.3228	1347	2214	958	0.7272	679	Bioinformatics	467
+5	-377 m^2	0.8051	Sacramento	golf	0.2224	0.772	116	-1006	-284	-0.526	970	Natural Language Processing	909
+4	586 m^2	0.3259	San Francisco	track & field	0.5443	-1.2314	211	-678	834	-0.8752	788	Bioinformatics	834
+0	1058 m^2	1.3485	Fremont	ice hockey	1.7512	0.9372	-565	201	-641	0.5979	459	Applied Mathematics	-1432
+3	883 m^2	1.0053	Modesto	soccer, basketball	-1.299	0.0571	616	1508	1797	2.0631	1609	Technology and Information Management	-908
+1	-285 m^2	1.0265	Santa Clarita	motor sports	-0.3201	-0.0212	2018	147	2361	0.1226	1881	Computer Science	-689
+5	915 m^2	-0.7708	Irvine	running	-0.0808	-0.5348	-753	2050	524	1.9272	2655	Electrical Engineering	-340
+5	1686 m^2	0.8773	Irvine	running	1.8788	0.3986	529	1263	730	-1.4045	215	Bioengineering	241
+2	-96 m^2	0.4992	Oakland	volleyball	-0.2233	1.5516	-1485	1109	1489	-0.5817	246	Games and Playable Media	377
+5	-350 m^2	None	Long Beach	running	0.8392	0.6805	-384	-987	-306	1.2401	539	Natural Language Processing	1355
+2	1327 m^2	-0.694	Stockton	boxing, baseball	0.9142	1.0273	549	1482	-328	-0.0247	807	Statistics	-198
+1	1487 m^2	2.3617	Santa Clarita	motor sports	1.0196	0.0021	715	311	-1982	-0.6137	1851	Computer Science	104
+4	525 m^2	1.8624	moreno valley	badminton	-0.5901	0.523	23	1300	1384	-1.1546	992	Human Computer Interaction	1213
+3	-593 m^2	0.8498	San Jose	soccer, basketball	0.7669	0.0146	964	-829	-258	1.2141	844	Robotics Engineering	-173
+1	-875 m^2	1.2967	santa clarita	motor sports	-0.9617	1.3899	912	1898	751	0.4833	-414	Computer Science	-30
+0	1481 m^2	2.009	Fremont	ice hockey	-1.0072	0.4355	518	-71	-287	-0.6274	196	Applied Mathematics	-160
+4	793 m^2	2.1944	Moreno Valley	badminton	0.2257	0.379	926	238	778	-0.3493	-189	Human Computer Interaction	237
+2	1614 m^2	0.4703	Santa Ana	volleyball	-0.0609	0.1688	1343	108	1252	0.3626	356	Games and Playable Media	-1361
+1	-30 m^2	1.136	Santa Clarita	motor sports	0.1013	1.3324	962	315	1811	-0.1336	224	Computer Science	429
+2	1258 m^2	0.2319	Santa Ana	BOXING	-1.3493	0.2814	767	-655	N/A	3.1546	1226	Robotics Engineering	158
+2	352 m^2	0.5848	San Francisco	baseball, boxing	-0.1952	0.9956	785	1741	1135	-0.7723	374	Electrical Engineering	-1933
+0	-412 m^2	1.5102	Riverside	ice hockey	1.2582	1.2403	35	902	-300	0.8725	539	Games and Playable Media	-218
+2	1009 m^2	-0.2164	Bakersfield	baseball	0.8138	0.2097	-262	-511	1113	-0.7192	NULL	Statistics	1026
+5	424 m^2	0.4986	Long Beach	running	0.1371	0.6729	-1163	514	-1006	1.1836	1587	Natural Language Processing	1506
+1	-622 m^2	0.3682	Santa Clarita	motor sports	1.7948	1.3507	589	520	315	0.187	1089	Computer Science	-373
+4	713 m^2	0.5883	Santa Clarita	badminton	0.342	1.6513	2198	-1126	-159	0.4865	760	Biotechnology	980
+0	1427 m^2	1.6354	Fremont	tennis	0.2322	0.3813	-569	-206	-1927	2.84	5	Computational Media	703
+2	1131 m^2	-0.4767	Santa Ana	volleyball	1.2478	0.7665	569	1064	2049	0.5889	344	Statistics	-1198
+3	-1480 m^2	0.932	San Diego	basketball	-0.3575	0.976	1012	-1419	2115	0.8983	917	Technology and Information Management	None
+0	333 m^2	1.8921	Riverside	tennis	1.6652	1.4118	-127	1642	398	-0.053	260	Applied Mathematics	-686
+3	26 m^2	0.1743	San Diego	basketball, football	-0.0901	0.6453	972	359	70	1.801	-965	Robotics Engineering	627
+0	-161 m^2	0.5921	Fremont	tennis	2.0749	1.0846	592	2060	-579	-0.732	1732	Computer Engineering	462
+2	-1235 m^2	-0.6676	Oakland	volleyball	1.1175	1.8148	23	1060	1681	2.0061	1081	sTATISTICS	151
+0	454 m^2	-0.0933	Chula Vista	tennis	0.9089	0.4726	1123	1910	-1596	0.0835	-262	Data Science	564
+3	894 m^2	-0.3956	san jose	soccer, basketball	1.6673	0.208	92	-1422	2048	-0.4496	1459	COMPUTER SCIENCE	-1704
+2	1467 m^2	0.1225	Oakland	baseball	-0.5788	2.1176	64	1133	1321	-0.094	874	Games and Playable Media	-679
+2	1403 m^2	-0.5568	Bakersfield	baseball, boxing	-1.3986	0.9678	1625	141	2451	1.276	1313	Statistics	-627
+1	1557 m^2	1.6485	Santa Clarita	motor sports	0.8603	0.4098	-1267	1308	568	0.3425	733	Computer Science	-1660
+0	2706 m^2	0.5164	Chula Vista	tennis	1.2223	1.4041	990	1058	-792	0.406	1365	Computer Game Design	614
+2	-335 m^2	-1.3566	Stockton	boxing, volleyball	0.485	1.9933	1362	1798	-833	1.4631	1989	Games and Playable Media	452
+0	231 m^2	0.5897	Irvine	tennis	0.1772	1.5959	597	1199	104	-0.8105	113	Computational Media	-1628
+5	1036 m^2	-1.0139	Irvine	golf	0.6241	0.899	-212	32	-1252	-0.8647	-483	Statistics	-1139
+1	1855 m^2	0.133	Santa Clarita	motor sports	-0.5791	0.2416	-129	-3	280	-0.4839	1014	Computer Science	-367
+0	1021 m^2	-0.0418	Los Angeles	ice hockey	0.1316	1.5636	-1200	2272	912	1.2976	-80	Data Science	-258
+4	997 m^2	0.9905	Moreno Valley	track & field	1.7853	0.4722	564	-1414	-931	-0.9204	265	Human Computer Interaction	212
+2	-892 m^2	-0.1043	Stockton	baseball	-0.3664	-0.133	-58	-1177	385	0.4789	1528	Games and Playable Media	-599
+0	791 m^2	1.0507	Fremont	tennis	-0.0381	1.2434	-17	1552	435	1.6761	55	Computer Game Design	536
+5	986 m^2	0.2244	Long Beach	golf	-0.8376	1.1621	-101	-1805	-130	0.665	783	Natural Language Processing	522
+3	2674 m^2	-0.7517	San Diego	soccer, basketball	-0.6035	0.838	1222	-752	-524	0.6636	1149	Technology and Information Management	471
+3	688 m^2	0.0061	Modesto	soccer, basketball	0.9194	0.8231	1059	1524	595	-0.2254	775	Technology and Information Management	983
+4	784 m^2	0.4776	Anaheim	track & field	-0.4724	1.5356	937	2107	78	0.5767	-64	Computer Engineering	503
+4	759 m^2	1.2928	Moreno Valley	badminton	1.1216	1.3181	1155	1200	742	1.259	2000	Bioinformatics	453
+1	-421 m^2	1.026	Santa Clarita	motor sports	1.4197	0.3145	-242	-987	362	0.1209	543	Computer Science	895
+3	1333 m^2	0.8768	Modesto	soccer, basketball	2.2697	-0.0279	327	-347	31	0.93	1453	Robotics Engineering	1014
+1	748 m^2	1.1576	Santa Clarita	motor sports	0.5217	1.1789	n/a	2036	1469	-0.0232	779	Computer Science	537
+2	1368 m^2	-0.2046	Oakland	volleyball, baseball	0.3862	0.4215	481	1047	-152	0.5467	897	Bioinformatics	230
+3	887 m^2	-1.1682	San Bernardino	soccer, football	0.941	0.5546	29	-1108	-291	2.2723	1730	Technology and Information Management	-51
+4	1181 m^2	0.8576	Fresno	track & field	1.2183	0.1835	1274	162	2634	1.2438	1377	Technology and Information Management	-561
+2	1909 m^2	0.7834	Santa Ana	baseball, volleyball	0.5248	0.8683	546	1820	1057	-0.0944	302	Games and Playable Media	2
+4	-340 m^2	1.8435	San Francisco	badminton	0.0394	0.0971	251	1080	1172	0.8636	2507	Bioinformatics	2087
+4	214 m^2	1.1095	Bakersfield	track & field	0.3383	0.2761	-255	1014	-188	1.1504	2129	Games and Playable Media	1007
+3	-618 m^2	-0.2989	Modesto	basketball	1.4413	1.0849	815	1872	1704	1.6092	195	Robotics Engineering	389
+4	374 m^2	0.1182	San Francisco	badminton	0.8493	-0.1881	950	-772	501	0.7432	1474	Bioinformatics	1101
+0	966 m^2	1.7928	Chula Vista	ice hockey	1.1575	0.2712	1154	986	-355	2.4351	942	Computational Media	772
+4	-582 m^2	1.2945	San Francisco	badminton	-0.2142	1.418	2067	386	556	-1.0207	-657	?	127
+4	1080 m^2	-0.1311	Moreno Valley	badminton	-1.5961	0.6059	-818	-769	NULL	0.6978	-1099	Human Computer Interaction	1848
+1	-690 m^2	1.3634	Santa Clarita	NULL	1.3353	1.5026	-382	-423	930	0.9181	-749	Computer Science	569
+4	528 m^2	1.1866	Moreno Valley	badminton	1.0316	0.1256	1267	96	1691	0.3081	-741	Bioinformatics	682
+1	480 m^2	2.0139	Santa Clarita	motor sports	-0.0934	0.81	1706	8	491	-0.3492	250	Robotics Engineering	None
+0	615 m^2	0.3309	Chula Vista	ice hockey	0.1669	0.1433	-95	707	?	1.1167	763	Bioengineering	1212
+4	1885 m^2	1.9788	Fresno	badminton	0.5772	0.6704	711	-1017	554	1.3696	416	Bioinformatics	-206
+3	676 m^2	-0.3573	San Diego	soccer, football	1.0346	1.4858	2860	742	991	1.3305	2208	Computer Science	-391
+3	929 m^2	-0.1304	San Diego	basketball	1.9488	-0.2335	1690	-923	-133	1.8348	774	Biotechnology	-585
+2	-173 m^2	-0.658	Oakland	boxing, volleyball	2.2376	0.0751	-160	1823	2032	0.2182	2039	Games and Playable Media	37
+0	617 m^2	0.5441	Riverside	tennis	-0.2565	0.6122	1472	1187	706	0.5677	-1383	Applied Mathematics	-17
+4	39 m^2	0.7009	San Francisco	badminton	1.6073	0.5189	705	357	1619	2.1248	994	Human Computer Interaction	210
+0	-1993 m^2	0.9106	Los Angeles	tennis	-0.2102	1.0215	1297	1197	3060	-0.4063	1779	Computer Engineering	1456
+2	592 m^2	0.8766	Santa Ana	N/A	1.0084	0.9503	1321	913	453	1.2868	-654	Games and Playable Media	-793
+2	948 m^2	-0.0271	n/a	volleyball, baseball	0.9329	0.7816	-274	190	1531	0.4044	1356	Games And Playable Media	418
+0	-555 m^2	-0.2727	Chula Vista	ice hockey	0.5053	0.8352	177	1323	2114	NULL	1422	Applied Mathematics	364
+1	1016 m^2	1.7958	Santa Clarita	motor sports	-1.2177	0.2336	803	-1558	1468	1.3359	-596	Computer Science	1529
+2	509 m^2	0.364	Oakland	VOLLEYBALL, BASEBALL	0.6518	0.6812	187	1177	1395	0.4872	1569	STATISTICS	174
+1	2046 m^2	0.5233	Santa Clarita	motor sports	-0.2948	0.5702	293	1089	-1118	0.6303	2265	Computer Science	557
+1	690 m^2	-0.3379	Santa Clarita	motor sports	0.5088	N/A	-247	-1679	1530	1.4923	435	Computer Science	-421
+5	1344 m^2	1.1696	Fresno	running	1.2999	-0.6331	-202	365	797	-0.3862	533	Natural Language Processing	712
+0	-1271 m^2	0.1296	Los Angeles	soccer, football	0.6012	0.1318	2094	-280	-245	1.6254	683	Computer Game Design	-314
+2	2271 m^2	-0.4145	Santa Ana	volleyball	0.3939	0.8798	731	422	-895	-0.4599	341	Electrical Engineering	-254
+5	1298 m^2	0.3201	Irvine	golf	0.2684	-0.5052	-350	-631	2412	0.7778	474	Bioengineering	-1527
+0	1124 m^2	1.1802	Riverside	ice hockey	0.1253	2.2128	1054	1030	-280	0.4883	456	Data Science	-81
+3	451 m^2	0.1291	San Bernardino	soccer	0.5226	1.1428	425	865	733	1.3417	1111	Technology and Information Management	-1027
+2	-757 m^2	-0.0694	oakland	volleyball, boxing	1.014	1.0867	313	622	1401	0.5149	652	Statistics	815
+5	1087 m^2	-0.4165	Irvine	running	1.9134	0.6192	-285	-550	312	0.0807	-241	Bioengineering	1233
+3	638 m^2	0.5196	San Diego	basketball, soccer	1.1224	1.017	835	-796	1128	1.2234	1292	Biotechnology	-103
+1	-287 m^2	1.1263	Santa Clarita	motor sports	0.2031	0.2506	-888	493	2255	0.8531	595	Computer Science	41
+3	424 m^2	0.9961	Modesto	football, soccer	-0.9515	1.9294	613	-293	526	-0.2941	376	Technology and Information Management	625
+2	-1500 m^2	-0.0263	Oakland	baseball	-0.0687	1.6476	-594	884	-443	0.3338	-524	Computer Science	603
+5	1502 m^2	1.5167	Long Beach	golf	-1.6295	-0.0297	-923	1182	-1554	1.1303	1835	Bioengineering	-2690
+1	766 m^2	0.8772	Santa Clarita	N/A	1.6381	-0.4818	-665	1322	1558	2.0049	-260	Biotechnology	-1037
+0	-841 m^2	0.4628	Los Angeles	tennis	1.7499	0.8459	1036	3348	-96	-0.3934	208	Computer Engineering	1319
+4	1502 m^2	2.134	Fresno	badminton	-0.1769	-0.4607	816	647	1359	1.3286	409	BIOINFORMATICS	1297
+1	3083 m^2	0.3894	Santa Clarita	MOTOR SPORTS	0.0336	1.4822	313	-402	2163	0.2826	697	Computer Science	-1098
+0	-1068 m^2	0.9722	Fremont	tennis	1.2196	0.8264	-974	2546	-1063	0.312	1488	Applied Mathematics	1431
+2	806 m^2	1.464	Oakland	boxing, baseball	-0.7219	0.1908	38	1719	1276	0.0947	1593	Bioinformatics	-787
+4	2877 m^2	1.754	fRESNO	BADMINTON	0.4029	-0.5034	-155	1230	1522	-0.3856	105	Bioengineering	-552
+5	-595 m^2	0.3602	Long Beach	golf	-0.0648	0.5969	-1154	818	1606	2.2359	-232	Electrical Engineering	1565
+5	-105 m^2	1.4945	Sacramento	running	0.0603	0.4162	574	399	-531	1.8471	1055	Natural Language Processing	-20
+4	212 m^2	1.4812	Moreno Valley	track & field	0.4272	0.4615	-460	709	2772	0.7285	267	Human Computer Interaction	1048
+5	764 m^2	-0.8113	Long Beach	running	0.1731	1.4602	206	308	-467	-0.5739	2063	Computational Media	-183
+1	761 m^2	1.7459	Santa Clarita	motor sports	0.7618	0.4128	122	-1048	1280	2.3616	601	Computer Science	49
+4	411 m^2	0.8829		track & field	-0.1564	-0.0921	-761	1027	1647	-0.3439	130	Bioinformatics	976
+1	708 m^2	1.0962	Santa Clarita	motor sports	0.9238	0.9371	-883	1452	-129	-0.0146	0	Computer Science	163
+5	-708 m^2	0.5981	Irvine	golf	1.3267	0.5218	2219	-774	-821	-0.4094	1895	Natural Language Processing	-1866
+4	68 m^2	0.4749	Modesto	track & field	1.3132	1.3595	-323	1141	1514	0.2323	1526	Statistics	1336
+5	-58 m^2	-1.2386	Long Beach	running	-0.0386	0.7798	-397	413	-3	0.2944	-579	Electrical Engineering	306
+4	1985 m^2	1.87	Fresno	badminton	-1.9954	1.1032	1980	2842	1550	0.1109	1432	Bioinformatics	-1040
+1	819 m^2	0.1047	Santa Clarita	motor sports	1.0729	-0.4532	62	-831	-707	1.2326	682	Computer Science	-243
+3	838 m^2	0.2515	Modesto	basketball, soccer	2.3882	1.6455	219	1031	-499	2.0309	1689	Biotechnology	-188
+1	1756 m^2	1.1029	Santa Clarita	motor sports	1.5232	0.6278	-1322	1836	-1044	0.7017	810	Computer Science	817
+2	1167 m^2	0.3759	Santa Ana	boxing, volleyball	-0.1381	1.3887	202	2198	1216	1.7255	1227	Applied Mathematics	-455
+5	1580 m^2	0.8025	Sacramento	golf	1.1397	0.6176	-1072	-764	-182	-1.1259	-50	Electrical Engineering	300
+4	1259 m^2	0.8618	Fresno	track & field	-1.4072	0.9627	303	71	631	0.4491	465	Human Computer Interaction	368
+2	1437 m^2	0.6785	Moreno Valley	baseball	0.1319	1.1419	1673	2384	1192	1.8207	889	Games and Playable Media	-749
+4	1632 m^2	0.5641	Moreno Valley	badminton	-0.2455	0.7459	2183	1452	1171	0.4471	689	Bioinformatics	765
+0	-710 m^2	1.2305	Fremont	ice hockey	-0.9952	1.6369	-345	137	5	-0.0016	-377	Electrical Engineering	-372
+0	405 m^2	0.7697	Los Angeles	ice hockey	-0.1347	1.0143	-447	933	225	1.3283	-392	Data Science	0
+4	718 m^2	1.7167	Anaheim	track & field	0.6629	0.2881	981	1616	1569	0.4161	731	Statistics	1283
+4	216 m^2	2.0579	Fresno	badminton	-0.3688	1.0865	-517	NULL	254	-2.1152	-965	Bioinformatics	-1078
+3	-724 m^2	0.6725	San Diego	football	0.494	1.2908	703	763	699	0.7439	-431	Robotics Engineering	-289
+0	-154 m^2	0.3207	Oakland	tennis	1.2853	0.4438	936	-126	1341	0.1277	327	Computer Game Design	1056
+5	1091 m^2	0.0632	Irvine	running	-0.0751	0.3924	193	-1134	-914	-1.3873	2121	Computer Science	-163
+3	1313 m^2	1.0992	San Bernardino	football, basketball	1.3177	0.1673	2426	-348	1264	-0.0843	1805	Technology and Information Management	-971
+3	1828 m^2	-0.2802	Modesto	soccer	1.4948	0.4756	2291	-191	231	-0.6076	139	Robotics Engineering	-1162
+5	-1036 m^2	1.3137	Irvine	golf	1.6378	0.115	-394	699	-498	0.6893	980	Natural Language Processing	216
+4	965 m^2	0.9882	Anaheim	badminton	0.8852	0.9797	232	557	689	0.1029	380	Human Computer Interaction	-603
+4	528 m^2	0.2223	Moreno Valley	badminton	0.5099	0.3178	1852	812	2044	0.5836	249	Bioinformatics	456
+1	1067 m^2	1.3349	Santa Clarita	motor sports	0.0948	1.6035	380	-189	1512	1.5262	775	Computer Science	-424
+5	-619 m^2	-1.142	Long Beach	golf	0.4144	-0.5016	1639	58	-754	0.1542	1024	Natural Language Processing	168
+3	-854 m^2	0.2118	San Diego	basketball	1.6277	0.4426	-469	323	1515	-0.7217	1536	Technology and Information Management	-1925
+3	-134 m^2	0.6302	Modesto	basketball	1.4555	0.4981	1035	-177	108	-0.2881	-349	Robotics Engineering	-911
+2	1534 m^2	-0.8519	Bakersfield	baseball, boxing	-0.4758	0.8029	-1495	1985	-71	2.3449	-627	Statistics	773
+5	2571 m^2	-0.5472	Long Beach	golf	None	-0.1764	-241	1071	N/A	1.6943	1635	Natural Language Processing	835
+1	-502 m^2	-0.2948	Santa Clarita	motor sports	0.5777	1.0506	1265	1239	1574	2.1931	58	Natural Language Processing	-315
+0	-857 m^2	-0.2408	Los Angeles	ice hockey	1.3257	0.0856	224	435	659	0.548	-68	Applied Mathematics	884
+0	-37 m^2	0.4803	Fremont	tennis	-0.675	0.5611	-78	688	-334	-0.0118	1232	Data Science	-1435
+3	606 m^2	0.1666	San Jose	soccer	0.3976	1.2486	-202	201	1099	1.2313	1726	Electrical Engineering	-794
+5	453 m^2	0.7439	Irvine	running	0.5619	0.7919	-561	-299	-2020	-0.0977	1053	NATURAL LANGUAGE PROCESSING	885
+5	1495 m^2	-1.6748	Long Beach	golf	1.3004	-0.4269	-994	-129	1156	-1.1123	1173	Electrical Engineering	-716
+2	1108 m^2	-0.073	Bakersfield	VOLLEYBALL, BASEBALL	-1.1207	0.5562	-157	1632	-614	-0.3723	776	Games and Playable Media	770
+5	506 m^2	-1.6733	Long Beach	golf	-0.1412	0.6959	-927	2500	-463	-1.9594	1081	Computer Science	991
+0	-355 m^2	1.7146	Riverside	tennis	1.3936	0.0903	-1472	-1146	1021	-1.7246	602	Data Science	620
+2	109 m^2	NULL	Santa Ana	baseball, boxing	0.2477	0.2148	177	355	2294	0.3275	1486	Games and Playable Media	1050
+1	1015 m^2	0.9481	Santa Clarita	motor sports	0.3309	0.5863	-877	689	508	0.0234	247	Computer Science	-187
+0	1001 m^2	1.2399	Fremont	ice hockey	1.4135	0.1523	744	-393	-1124	0.7897	-716	Computer Engineering	2031
+4	243 m^2	1.6791	San Francisco	badminton	0.2052	1.2498	-927	2442	2097	-0.3514	193	Human Computer Interaction	952
+4	-395 m^2	0.0042	Fresno	track & field	-0.8003	-0.4912	1245	1324	587	0.869	59	Human Computer Interaction	1163
+0	-1019 m^2	0.2486	Chula Vista	tennis	1.4837	1.3594	-1498	156	-46	1.1425	265	Computational Media	n/a
+1	2205 m^2	1.1029	Santa Clarita	motor sports	0.6037	0.7465	1303	-350	2245	1.5614	146	Computer Science	1238
+0	-294 m^2	0.6866	Los Angeles	tennis	0.6748	1.0317	205	1739	-615	-0.7185	35	n/a	225
+0	-678 m^2	-0.4223	Fremont	tennis	1.626	1.2928	563	2061	224	1.9786	-642	Applied Mathematics	908
+2	491 m^2	0.0794	Bakersfield	boxing	-0.4229	-0.4064	-553	1953	503	-0.8229	1097	Statistics	-180
+1	3750 m^2	0.5228	Santa Clarita	boxing	0.8291	0.6515	-488	-220	1632	1.1437	2512	Computer Science	112
+0	-116 m^2	0.7347	Riverside	Tennis	0.6752	0.7994	-1046	120	263	3.1882	850	Computer Game Design	-606
+4	-129 m^2	1.4087	Fresno	track & field	1.1327	0.7203	723	107	2729	-0.1054	1134	Bioinformatics	-1678
+4	-1028 m^2	0.9714	San Francisco	badminton	0.6062	0.8027	2891	-991	-308	-0.3277	-93	Bioinformatics	-296
+1	551 m^2	0.528	Santa Clarita	motor sports	-0.0764	-0.0173	-11	-221	1753	0.703	1496	Natural Language Processing	-133
+4	1094 m^2	1.4791	Fresno	badminton	-0.1187	-0.4636	1875	238	1942	n/a	537	Bioinformatics	-567
+5	776 m^2	0.2625	irvine	running	2.3376	1.1944	62	992	-146	1.665	1444	Electrical Engineering	666
+2	788 m^2	0.2075	Stockton	football	0.2961	0.8492	1328	1832	510	1.1882	696	Games and Playable Media	56
+5	411 m^2	1.2536	Long Beach	golf	-0.0056	0.1941	-2099	568	-730	-0.9482	1453	Bioengineering	-11
+1	1134 m^2	n/a	Santa Clarita	motor sports	-0.0283	None	1205	-1249	-213	0.9667	677	Computer Science	-104
+5	-401 m^2	-0.3501	Irvine	golf	-0.1766	1.1129	153	1104	727	1.4516	1422	Bioengineering	-1500
+4	-423 m^2	0.5189	Fresno	badminton	-1.2898	0.6386	1523	534	277	0.886	-354	Bioinformatics	530
+0	687 m^2	1.453	Chula Vista	tennis	0.576	1.4234	-1505	-597	-1045	0.8345	-54	Data Science	1217
+4	675 m^2	2.5181	Fremont	track & field	0.1819	0.775	968	-297	-448	-0.1972	-238	Biotechnology	5
+1	1633 m^2	0.3005	San Jose	motor sports	2.2594	0.4663	-522	945	278	1.6972	-1111	Electrical Engineering	-175
+1	897 m^2	1.2728	Santa Clarita	motor sports	0.9346	0.5337	899	434	688	-0.7491	1245	Computer Science	615
+5	1226 m^2	-1.077	Sacramento	GOLF	0.7294	1.4246	1029	571	-1200	-0.427	1102	Bioengineering	-183
+0	-618 m^2	0.4853	Riverside	tennis	0.613	0.2078	-1032	-1069	-310	1.0356	876	Applied Mathematics	-211
+4	1063 m^2	-0.2154	Moreno Valley	track & field	0.5429	0.25	1476	-693	120	-0.5788	843	Bioinformatics	1936
+4	1861 m^2	-0.3602	Fresno	track & field	0.3217	0.9199	82	1285	79	0.9922	-479	Bioengineering	2664
+4	811 m^2	0.3556	Fresno	badminton	0.8252	0.5204	1752	1567	1493	0.884	1189	Games and Playable Media	-93
+0	1288 m^2	0.8054	Los Angeles	tennis	0.7931	0.4982	-135	565	1300	-0.5287	574	Electrical Engineering	312
+0	99 m^2	1.5323	Los Angeles	tennis	0.4739	0.0061	-1199	466	-204	0.9431	75	Data Science	-116
+2	308 m^2	-0.4852	Santa Ana	boxing	0.7228	0.6419	524	-1191	1679	1.3912	167	Games and Playable Media	740
+2	1879 m^2	1.1084	Oakland	boxing, baseball	0.4919	0.6217	1081	-535	657	1.335	668	Games and Playable Media	211
+4	148 m^2	2.9594	San Francisco	track & field	-1.3064	0.8856	2094	-36	1149	-0.286	149	BIOINFORMATICS	1736
+0	325 m^2	0.1242	Fremont	ice hockey	-0.2494	0.174	-318	-959	-1061	0.028	650	Computer Game Design	694
+3	699 m^2	0.0972	San Diego	football, basketball	1.3247	-0.2253	303	-332	1805	1.435	2343	technology and information management	261
+1	2510 m^2	1.108	Santa Clarita	motor sports	1.7689	-0.3859	-1484	967	2165	1.4528	1086	Computer Science	437
+0	762 m^2	0.5818	Fremont	tennis	1.3371	0.765	594	121	801	0.5872	1455	Computer Engineering	-76
+2	960 m^2	1.7557	Stockton	volleyball	0.7831	1.3605	1365	1361	1234	-0.8788	308	Games and Playable Media	-343
+1	1561 m^2	0.5761	Santa Clarita	motor sports	-0.2189	-0.8107	332	2054	633	-0.0783	2824	Computer Science	305
+0	-733 m^2	1.8778	Fremont	TENNIS	0.8478	-0.1518	-315	721	424	0.2798	1430	Computer Engineering	-12
+2	1386 m^2	0.485	Oakland	boxing	0.144	-0.2309	-1166	335	1271	0.2919	-797	Games and Playable Media	346
+1	N/A	0.8299	Santa Clarita	motor sports	-0.5063	0.0347	-92	266	930	-0.318	-617	Computer Science	1617
+1	-1101 m^2		Santa Clarita	basketball	-0.0504	-0.056	145	106	785	0.0186	2257	Computer Science	-119
+5	698 m^2	-1.4846	Long Beach	running	0.6516	-0.2432	1172	895	63	0.5549	433	Natural Language Processing	-963
+3	N/A	-0.4951	Santa Clarita	basketball, soccer	-0.4985	0.8617	1105	1242	573	0.4132	223	Games and Playable Media	924
+2	-753 m^2	0.708	Oakland	volleyball, baseball	-1.2116	1.3211	1143	-599	734	2.6768	1087	Statistics	-554
+4	220 m^2	0.8946	Los Angeles	badminton	1.1771	1.4373	98	1212	1803	1.4901	N/A	Human Computer Interaction	-414
+5	480 m^2	0.2116	Irvine	running	1.9839	0.2396	177	-439	-419	-0.1937	-176	Natural Language Processing	1351
+3	1322 m^2	-0.8271	San Jose	soccer, basketball	0.7395	0.4859	235	1150	272	-0.8181	1960	Technology and Information Management	1339
+3	-552 m^2	0.5865	San Jose	basketball, soccer	1.0256	1.4193	352	-590	-298	0.4388	431	Biotechnology	1072
+1	20 m^2	1.2066	Santa Clarita	motor sports	1.0734	0.6713	None	870	316	0.1843	-297	Computer Science	-535
+2	-712 m^2	-0.7311	Stockton	volleyball, baseball	1.5036	1.1504	781	2443	608	-0.4608	1077	Statistics	-99
+0	1542 m^2	1.6699	Riverside	ice hockey	1.161	0.6711	2	872	-2025	1.4469	-848	Bioinformatics	985
+3	1161 m^2	0.4544	San Jose	football, basketball	-0.2925	0.2272	281	35	677	1.7827	259	Statistics	-932
+4	-30 m^2	0.0277	San Francisco	track & field	-0.1762	0.0639	-343	463	2263	0.0829	-569	Human Computer Interaction	1223
+5	897 m^2	0.1646	Long Beach	running	1.3093	1.4906	-319	1713	240	-0.1313	831	Electrical Engineering	-4
+5	1190 m^2	0.4726	Irvine	golf	0.7263	0.5218	1100	656	1376	1.535	1738	Electrical Engineering	-1229
+0	223 m^2	0.5889	Los Angeles	ice hockey	1.1235	1.4115	953	1845	2650	0.3919	-370	Data Science	-1334
+0	1367 m^2	1.6482	Los Angeles	tennis	1.0199	1.2575	-1049	-989	-258	-0.6001	-309	Computational Media	744
+5	1438 m^2	0.103	Irvine	running	0.1275	0.7864	-33	-890	17	0.3226	-864	Electrical Engineering	1271
+0	-1132 m^2	-0.1356	Los Angeles	ice hockey	0.4228	0.7868	279	3342	-130	-0.0153	-373	Computer Game Design	752
+1	586 m^2	0.3042	Santa Clarita	motor sports	2.2553	0.7268	71	-197	718	-1.254	-485	Computer Science	1237
+1	1380 m^2	1.2407	Santa Clarita	motor sports	1.2883	0.4503	-1390	1413	1925	1.5747	278	Computer Science	-1210
+1	1212 m^2	0.855	Santa Clarita	motor sports	-1.0507	1.2992	606	152	2855	-0.1679	N/A	Computer Science	763
+5	1635 m^2	-0.5142	Irvine	golf	1.5814	0.4562	204	94	226	0.2383	2906	Bioengineering	-156
+3	1659 m^2	1.3122	San Jose	SOCCER, BASKETBALL	0.2075	0.3436	1361	1324	529	2.0125	512	Biotechnology	371
+0	205 m^2	2.4332	Santa Clarita	tennis	-0.087	0.1021	1768	-236	-1348	1.4606	-92	Computer Engineering	-574
+3	1059 m^2	0.4756	San Jose	football, soccer	0.4443	0.2401	459	-941	NULL	-2.1101	972	Technology and Information Management	-1348
+5	2396 m^2	0.9642	San Diego	running	0.1522	-0.2494	-1662	2298	618	0.9633	1384	Natural Language Processing	?
+1	2137 m^2	-0.1938	Santa Clarita	motor sports	0.6438	0.4931	-3	1359	215	-0.8167	853	Computer Science	87
+3	-887 m^2	0.1056	mODESTO	motor sports	0.8321	0.9008	-773	-1382	633	1.0015	123	Biotechnology	1714
+3	1390 m^2	0.8518	San Jose	soccer, basketball	0.1135	1.0022	188	1871	760	-0.3041	445	Biotechnology	-235
+4	446 m^2	0.8451	Sacramento	badminton	-0.0769	-0.4545	474	1464	2307	1.5972	515	Bioinformatics	977
+2	633 m^2	-1.1293	Stockton	volleyball	0.582	-0.4872	329	2768	-610	-0.8425	585	Games and Playable Media	687
+1	603 m^2	0.9641	Modesto	motor sports	0.0426	1.3252	409	118	1429	1.1136	1524	Computer Science	165
+0	1529 m^2	1.1817	Chula Vista	tennis	1.1497	1.7764	-681	1458	-330	1.5447	-462	Computer Game Design	-696
+3	345 m^2	1.1421	San Diego	football, basketball	1.0085	1.2112	2041	557	1780	0.8061	1163	Robotics Engineering	-594
+1	1263 m^2	0.7873	Santa Clarita	motor sports	1.4615	0.5732	-489	-661	1117	0.3196	1255	Computer Science	509
+2	-850 m^2	0.1269	Bakersfield	boxing, baseball	-0.0743	-0.3911	1244	-215	1332	-0.1792	2163	Statistics	-527
+3	951 m^2	1.0971	San Diego	soccer	-0.0152	0.7544	66	1147	2564	0.4495	1281	Biotechnology	-239
+0	464 m^2	1.4809	Riverside	TENNIS	0.1261	0.3378	-868	-800	-3	1.4959	-464	Computer Engineering	-192
+2	1209 m^2	-0.0381	Santa Ana	boxing	-0.0526	0.2683	-1125	-1881	1962	0.73	75	Games and Playable Media	-1437
+5	-1249 m^2	-0.491	Sacramento	golf	0.8491	1.0164	-457	1318	1016	0.735	-997	Electrical Engineering	-713
+1	1438 m^2	0.7763	Santa Clarita	motor sports	-0.0828	0.6096	1114	789	1379	1.1456	629	Computer Science	-601
+2	-74 m^2	-0.6772	BAKERSFIELD	baseball, volleyball	-0.1214	0.7243	-379	-792	2985	-1.0152	782	Games and Playable Media	-424
+1	-368 m^2	-0.0089	Santa Clarita	motor sports	0.4979	0.5112	349	-150	1311	-1.843	267	Computer Science	152
+0	-74 m^2	-0.0607	Riverside	tennis	0.7478	0.5382	-251	1795	-141	-0.2626	868	Applied Mathematics	-41
+1	1007 m^2	0.8762	Santa Clarita	motor sports	0.5708	-0.406	-141	-535	1484	-2.1804	-872	Natural Language Processing	1391
+0	1128 m^2	0.0957	Santa Clarita	ice hockey	1.4818	1.2897	-651	-1042	-937	0.6394	362	Computational Media	420
+5	1590 m^2	0.1172	Sacramento	golf	-0.2309	0.8373	1072	1055	-710	-0.1089	709	Bioengineering	-535
+5	-820 m^2	0.3406	Sacramento	running	1.3954	0.8853	273	500	-634	0.0697	-350	Bioengineering	216
+3	2012 m^2	0.4127	Modesto	football	0.7123	-0.158	1199	-517	1759	1.609	216	Bioinformatics	837
+0	-177 m^2	-0.3224	Los Angeles	tennis	0.8791	1.272	-429	587		0.5355	-131	Computer Game Design	230
+5	705 m^2	0.4707	Long Beach	golf	0.7761	0.3707	-904	110	249	0.2297	1175	Natural Language Processing	-68
+0	1508 m^2	0.708	Los Angeles	ice hockey	0.8888	0.6982	316	1070	-675	0.2919	749	Computer Game Design	884
+3	1028 m^2	-0.3254	Modesto	basketball, soccer	1.3456	0.3616	-197	121	1448	1.0141	1183	Biotechnology	8
+1	552 m^2	0.0116	Santa Clarita	motor sports	1.0265	-0.2912	1283	-315	-760	0.366	1337	Computer Science	749
+0	1326 m^2	1.0687	Los Angeles	ice hockey	-0.174	0.3569	710	-58	-2272	2.4842	-1911	Computer Game Design	-261
+1	586 m^2	1.1325	Santa Clarita	motor sports	-0.1165	0.0805	-71	875	2169	-0.6866	1162	Computer Science	31
+3	963 m^2	0.8395	San Jose	football	1.9511	1.1368	540	-369	1747	0.7465	1619	Biotechnology	-144
+4	1161 m^2	1.4116	Moreno Valley	track & field	0.3422	0.8762	635	658	-508	1.3435	679	Bioinformatics	-942
+1	1085 m^2	0.6083	Santa Clarita	motor sports	2.0168	0.3884	134	848	1856	0.4755	543	Computer Science	-538
+1	1816 m^2	1.0806	Santa Clarita	motor sports	1.5214	0.5008	-212	929	1070	1.0776	408	Computer Science	598
+0	-1492 m^2	1.7867	Los Angeles	ICE HOCKEY	0.01	-0.1136	-41	2147	-538	1.078	1181	Computer Game Design	-661
+5	1159 m^2	-0.9798	Irvine	golf	-1.1592	0.5408	1238	-1108	-824	-0.4876	-663	Electrical Engineering	1300
+3	2456 m^2	-0.2989	san bernardino	basketball	1.1646	0.7797	995	1662	567	1.2457	1805	Biotechnology	-1461
+4	1466 m^2	1.6647	San Francisco	track & field	0.9003	-0.2658	-540	1722	-48	-0.9845	1004	Computer Game Design	467
+3	-1003 m^2	-0.1908	San Jose	basketball	0.5942	0.3919	1082	1269	477	-0.3644	896	Technology and Information Management	287
+3	-753 m^2	0.0117	Modesto	football	1.2071	1.4085	1468	260	617	-0.7831	638	Technology and Information Management	-722
+3	629 m^2	0.3127	Los Angeles	basketball	1.9682	1.2458	-1934	1445	-383	0.4067	618	Technology and Information Management	-767
+5	537 m^2	n/a	Long Beach	running	1.007	0.4218	799	-749	-531	1.4479	43	Natural Language Processing	873
+4	35 m^2	0.889	Fresno	track & field	0.8181	1.2241	2073	1661	1643	-0.3686	1464	Human Computer Interaction	79
+5	1681 m^2	-0.2493	Long Beach	running	1.6034	-0.3015	593	-1296	-467	0.2499	-232	Bioengineering	-467
+0	896 m^2	-0.1155	Los Angeles	running	-0.1278	-0.2904	304	-467	-627	-0.8934	312	Data Science	-28
